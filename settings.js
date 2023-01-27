@@ -29,9 +29,9 @@ global.READ_MASSAGE = 'false'
 //👇 enable desable Girls Voice Reply
 global.VOICE_REPLY =  'true'
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['94768282864'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝚂𝚄𝚃𝙸𝙺𝙺𝙸 ²⁰²³'
 //👇 Do you want show time on your bio use "on" want desable use "off"
 global.AUTO_BIO =  'on'
 //👇 Inbox massage block PM block
@@ -41,19 +41,19 @@ global.AUTO_REACT =  'true'
 //👇 Bad word Auto delete ( you must add bad words )
 global.ANTI_BADWORD =  'true'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝐒𝐔𝐓𝐈𝐊𝐊𝐈 𝚳𝐃 3 𝛁' 
 //👇 Your name
-global.ownernma =  '𝑴𝒓 𝑵𝒊𝒎𝒂' 
+global.ownernma =  '𝑴𝒓 𝐋𝐀𝐊𝐒𝐇𝐀𝐍' 
 //👇 Sticker package name
-global.packname =  '𝗤𝗨𝗘𝗘𝗡 𝗘𝗟𝗜𝗦𝗔' 
+global.packname =  '𝗤𝗨𝗘𝗘𝗡 𝗦𝗨𝗧𝗜𝗞𝗞𝗞' 
 //👇 Sticker Author Name
-global.author =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.author =  '𝚂𝚝𝚒𝚌𝚔𝚎𝚛 𝙱𝚢 𝚂𝚞𝚝𝚒𝚔𝚔𝚒' 
 //👇 Kick And Auto Delete Group link Senders
 global.antilink =  'true'
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
-global.OWNER_REACT =  '💻'
+global.OWNER_REACT =  '🍓'
 global.BAD_KICK_MSG = '*Bad word detect !*'
 //👇 URL.button 1 name
 global.BUTTON1 = '𝙶𝚒𝚝𝚑𝚞𝚋'
@@ -80,9 +80,9 @@ global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Colombo'
 //👇 Removebg Api key
 global.REMOVE_BG_API = ''
 //👇 Pron Video Download 
-global.SEX_VIDEO_DOWNLOAD = process.env.SEX_VIDEO_DOWNLOAD || 'false'
+global.SEX_VIDEO_DOWNLOAD = process.env.SEX_VIDEO_DOWNLOAD || 'true'
 //👇 Change Bot Language 
-global.LANG = 'EN'
+global.LANG = 'Si'
 
 
 
@@ -94,9 +94,9 @@ global.LANG = 'EN'
 global.zenzapi = '01ABEB1E11'
 global.tiktokthub = 'https://telegra.ph/file/d83742c9e0a076364184e.jpg'
 //other
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
+global.pemilik = ['94768282864'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['94768282864'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'Queen Sutikki' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','/',''] 
 global.sp = '🔵'
@@ -139,7 +139,7 @@ global.APIKeys = {
 }
 
 global.thumb = fs.readFileSync('./Media/image/Elisa.jpg')
-global.alivelogo = `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
+global.alivelogo = `https://i.ibb.co/60qVJzJ/20220802-092127.png`
 global.imgalive = fs.readFileSync('./Media/image/Elisa.jpg')
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
