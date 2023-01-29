@@ -1,6 +1,6 @@
 {
   "name": "QUEEN-ELISA-MD",
-  "version": "3.3.0",
+  "version": "3.5.0",
   "description": "Automated whatsapp md bot created using nodejs and baileys lib",
   "type": "commonjs",
   "scripts": {
@@ -33,6 +33,7 @@
     "crypto": "^1.0.1",
     "dhn-api": "^1.1.3",
     "emoji-api": "^1.0.2",
+    "express": "^4.18.1",
     "file-type": "^16.5.3",
     "fluent-ffmpeg": "^2.1.2",
     "fs": "0.0.1-security",
@@ -82,10 +83,10 @@
     "src": "src"
   },
   "devDependencies": {},
-  "repository": "git+https://github.com/DarkMakerofc/Queen-Elisa-MD-V2.git",
+  "repository": "git+https://github.com.git",
   "bugs": {
-    "url": "https://github.com/DarkMakerofc/Queen-Elisa-MD-V2/issues"
+    "url": "https://github.com/issues"
   },
-  "homepage": "https://github.com/DarkMakerofc/Queen-Elisa-MD-V2#readme",
+  "homepage": "https://github.com/#readme",
   "main": "index.js"
 }
