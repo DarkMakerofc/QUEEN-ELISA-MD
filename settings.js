@@ -29,9 +29,9 @@ global.READ_MASSAGE = 'false'
 //👇 enable desable Girls Voice Reply
 global.VOICE_REPLY =  'true'
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['94771263209'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 ⾐Cʏʙᴇʀ  D͏u͏l͏a͏ᥫ᭡፝֟፝֟__┇📍'
 //👇 Do you want show time on your bio use "on" want desable use "off"
 global.AUTO_BIO =  'on'
 //👇 Inbox massage block PM block
@@ -41,13 +41,13 @@ global.AUTO_REACT =  'true'
 //👇 Bad word Auto delete ( you must add bad words )
 global.ANTI_BADWORD =  'true'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  '⾐Cʏʙᴇʀ  D͏u͏l͏a͏ᥫ᭡፝֟፝֟__┇📍' 
 //👇 Your name
-global.ownernma =  '𝑴𝒓 𝑵𝒊𝒎𝒂' 
+global.ownernma =  'ᴍʀ ᴅᴜʟᴀ' 
 //👇 Sticker package name
 global.packname =  '𝗤𝗨𝗘𝗘𝗡 𝗘𝗟𝗜𝗦𝗔' 
 //👇 Sticker Author Name
-global.author =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.author =  'ᴍʀ ⾐Cʏʙᴇʀ  D͏u͏l͏a͏ᥫ᭡፝֟፝֟__┇📍' 
 //👇 Kick And Auto Delete Group link Senders
 global.antilink =  'true'
 //👇 Inbox Block Massage 
@@ -56,13 +56,13 @@ global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 global.OWNER_REACT =  '💻'
 global.BAD_KICK_MSG = '*Bad word detect !*'
 //👇 URL.button 1 name
-global.BUTTON1 = '𝙶𝚒𝚝𝚑𝚞𝚋'
+global.BUTTON1 = 'YOU TUBE '
 //👇 URL button 2 name
 global.BUTTON2 = '𝚈𝚘𝚞𝚝𝚞𝚋𝚎'
 //👇 Button 1 url 
-global.BUTTON1_URL = 'https://github.com/darkmakerofc/'
+global.BUTTON1_URL = 'https://www.youtube.com/@CYBER_DULA'
 //👇 Button 2 url
-global.BUTTON2_URL = 'https://youtube.com/c/MRNIMAOFC'
+global.BUTTON2_URL = 'https://www.youtube.com/@CYBER_DULA'
 //👇 Your Add Massage 
 global.ADD_MSG = '*✅ Success add Group*' 
 //👇 Your Kick Massage 
@@ -92,11 +92,11 @@ global.LANG = 'EN'
 
 //MORE
 global.zenzapi = '01ABEB1E11'
-global.tiktokthub = 'https://telegra.ph/file/d83742c9e0a076364184e.jpg'
+global.tiktokthub = 'https://i.ibb.co/BT1Z40m/20230121-164507.jpg'
 //other
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
+global.pemilik = ['94771263209'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['94771263209'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = '⾐Cʏʙᴇʀ  D͏u͏l͏a͏ᥫ᭡፝֟፝֟__┇📍' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','/',''] 
 global.sp = '🔵'
