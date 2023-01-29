@@ -28,29 +28,29 @@ global.READ_MASSAGE = 'false'
 //👇 enable desable Girls Voice Reply
 global.VOICE_REPLY =  'true'
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['94717069879'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚂𝙷𝙰𝙳𝙾𝚆 𝙺𝙸𝙻𝙻𝙴𝚁 𝚆𝙰 𝙱𝙾𝚃 ²⁰²³'
 //👇 Do you want show time on your bio use "on" want desable use "off"
-global.AUTO_BIO =  'on'
+global.AUTO_BIO =  'off'
 //👇 Inbox massage block PM block
-global.INBOX_BLOCK =  'on'
+global.INBOX_BLOCK =  'off'
 //👇 Auto react 
 global.AUTO_REACT =  'true'
 //👇 Bad word Auto delete ( you must add bad words )
 global.ANTI_BADWORD =  'true'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  '𝐒𝐇𝐀𝐃𝐎𝐖 𝐊𝐈𝐋𝐋𝐄𝐑 𝐌𝐃 𝐁𝐎𝐓 𝛁' 
 //👇 Your name
-global.ownernma =  '𝑴𝒓 𝑵𝒊𝒎𝒂' 
+global.ownernma =  '𝐌𝐑.𝐃𝐀𝐇𝐀𝐌 𝐏𝐀𝐍𝐒𝐈𝐋𝐔' 
 //👇 Sticker package name
-global.packname =  '𝗤𝗨𝗘𝗘𝗡 𝗘𝗟𝗜𝗦𝗔' 
+global.packname =  '𝐒𝐇𝐀𝐃𝐎𝐖 𝐊𝐈𝐋𝐋𝐄𝐑 𝐌𝐃 𝐁𝐎𝐓' 
 //👇 Sticker Author Name
-global.author =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.author =  '𝚂𝙷𝙰𝙳𝙾𝚆 𝙺𝙸𝙻𝙻𝙴𝚁 𝙾𝙵𝙲' 
 //👇 Kick And Auto Delete Group link Senders
-global.antilink =  'false'
+global.antilink =  'true'
 //👇 Inbox Block Massage 
-global.INBOX_BLOCK_MSG = 'BLOCK !!!'
+global.INBOX_BLOCK_MSG = 'INBOX NOT ALLOWED'
 //👇 Owner React Imoji
 global.OWNER_REACT =  '💻'
 global.BAD_KICK_MSG = '*Bad word detect !*'
@@ -59,9 +59,9 @@ global.BUTTON1 = '𝙶𝚒𝚝𝚑𝚞𝚋'
 //👇 URL button 2 name
 global.BUTTON2 = '𝚈𝚘𝚞𝚝𝚞𝚋𝚎'
 //👇 Button 1 url 
-global.BUTTON1_URL = 'https://github.com/darkmakerofc/'
+global.BUTTON1_URL = 'https://github.com/SKBOTZ/Queen-Elisa-MD-V2/'
 //👇 Button 2 url
-global.BUTTON2_URL = 'https://youtube.com/c/MRNIMAOFC'
+global.BUTTON2_URL = 'https://youtube.com/@shadowkillermodz'
 //👇 Your Add Massage 
 global.ADD_MSG = '*✅ Success add Group*' 
 //👇 Your Kick Massage 
@@ -77,15 +77,15 @@ global.MENU_IMOJI = '👸|ℹ️'
 //👇 Your time zone ( use correct time zone )
 global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Colombo'
 //👇 Removebg Api key
-global.REMOVE_BG_API = ''
+global.REMOVE_BG_API = 'pxVpxefA1K9eGJxEe5kgPzBv'
 //👇 Pron Video Download 
-global.SEX_VIDEO_DOWNLOAD = process.env.SEX_VIDEO_DOWNLOAD || 'false'
+global.SEX_VIDEO_DOWNLOAD = process.env.SEX_VIDEO_DOWNLOAD || 'true'
 //👇 Change Bot Language 
 global.LANG = 'EN'
 //Alive logo
-global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
+global.alivelogo = process.env.ALIVE_IMAGE || `https://i.ibb.co/zfP3kV0/IMG-20220217-081502-038.jpg`
 //👇 Alive message
-global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || ``
+global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `♡ 𝙷𝙴𝚈 𝙸 𝙰𝙼 𝙰𝙻𝙸𝚅𝙴 𝙽𝙾𝚆 𝚂𝙷𝙰𝙳𝙾𝚆 𝙺𝙸𝙻𝙻𝙴𝚁 𝚆𝙰 𝙱𝙾𝚃 ♡`
 //👇 Welcome Mesaage
 global.WELCOME = process.env.WELCOME || ``
 //👇 welcome image 
@@ -99,7 +99,7 @@ global.SEND_WELCOME = process.env.SEND_WELCOME || false
 //👇 Send block command message (true or false )
 global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Desable PM Block
-global.NO_BLOCK = ["94715166712","94719574492"]
+global.NO_BLOCK = ["94717069879","94717069879"]
 
 
 
@@ -111,9 +111,9 @@ global.NO_BLOCK = ["94715166712","94719574492"]
 global.zenzapi = '01ABEB1E11'
 global.tiktokthub = 'https://telegra.ph/file/d83742c9e0a076364184e.jpg'
 //other
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
+global.pemilik = ['94717069879'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['94717069879'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = '𝐒𝐇𝐀𝐃𝐎𝐖 𝐊𝐈𝐋𝐋𝐄𝐑 𝐌𝐃 𝐁𝐎𝐓' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '🔵'
@@ -127,7 +127,7 @@ global.mess = {
     group: '*This command can only be used in groups !*',
     private: '*This command can only be used in Inbox !*',
     bot: '*This command can only be used by bot number !*',
-    wait: '*♲ Please Wait ...*',
+    wait: '*♲ Please Wait...*',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     BLOCK_CMD_MSG : '*⚠️ This Command is Block By Owner*',
     BLOCK : '',
