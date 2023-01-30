@@ -130,13 +130,13 @@ global.mess = {
     wait: '*♲ Shadow Killer Wa Bot Is Searching Your Result...*',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     BLOCK_CMD_MSG : '*⚠️ This Command is Block By Owner*',
-    BLOCK : '',
-    UNBLOCK : '',
-    KICK : '',
-    ADD : '',
-    LEAVE : '',
-    PROMOTE : '',
-    DEMOTE : ''
+    BLOCK : '𝙱𝙻𝙾𝙲𝙺𝙴𝙳 𝙱𝚈 𝚂𝙷𝙰𝙳𝙾𝚆 𝙺𝙸𝙻𝙻𝙴𝚁 𝚆𝙰 𝙱𝙾𝚃',
+    UNBLOCK : '𝚄𝙽𝙱𝙻𝙾𝙲𝙺𝙴𝙳 𝙱𝚈 𝚂𝙷𝙰𝙳𝙾𝚆 𝙺𝙸𝙻𝙻𝙴𝚁 𝚆𝙰 𝙱𝙾𝚃',
+    KICK : '𝙺𝙸𝙲𝙺𝙴𝙳 𝙱𝚈 𝚂𝙷𝙰𝙳𝙾𝚆 𝙺𝙸𝙻𝙻𝙴𝚁 𝚆𝙰 𝙱𝙾𝚃',
+    ADD : '𝙰𝙳𝙳𝙴𝙳 𝙱𝚈 𝚂𝙷𝙰𝙳𝙾𝚆 𝙺𝙸𝙻𝙻𝙴𝚁 𝚆𝙰 𝙱𝙾𝚃',
+    LEAVE : '𝙻𝙴𝙰𝚅𝙴𝙳 𝙱𝚈 𝚂𝙷𝙰𝙳𝙾𝚆 𝙺𝙸𝙻𝙻𝙴𝚁 𝚆𝙰 𝙱𝙾𝚃',
+    PROMOTE : '𝙿𝚁𝙾𝙼𝙾𝚃𝙴𝙳 𝙱𝚈 𝚂𝙷𝙰𝙳𝙾𝚆 𝙺𝙸𝙻𝙻𝙴𝚁 𝚆𝙰 𝙱𝙾𝚃',
+    DEMOTE : '𝙳𝙴𝙼𝙾𝚃𝙴𝙳  𝙱𝚈 𝚂𝙷𝙰𝙳𝙾𝚆 𝙺𝙸𝙻𝙻𝙴𝚁 𝚆𝙰 𝙱𝙾𝚃'
 }
 global.limitawal = {
     premium: "Infinity", 
