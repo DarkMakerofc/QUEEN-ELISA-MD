@@ -24,7 +24,7 @@ const chalk = require('chalk')
 
 
 //👇 if you need seen massage use " true "
-global.READ_MASSAGE = 'false'
+global.READ_MASSAGE = 'true'
 //👇 enable desable Girls Voice Reply
 global.VOICE_REPLY =  'true'
 // You Bots Owner Number 
