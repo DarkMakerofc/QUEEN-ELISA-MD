@@ -9,12 +9,13 @@
  █▄▄█ █ █▄▄█ █ █▄▄█   ░░   ░▀▄▀░ 
  𝑶𝒘𝒏𝒆𝒓 : 𝑴𝒓 𝑵𝒊𝒎𝒂
  𝑯𝒆𝒍𝒑𝒆𝒓𝒔 : 
- • 𝑷𝒂𝒔𝒊𝒅𝒖
- • 𝑻𝒉𝒊𝒏𝒖𝒓𝒂 
- • 𝑻𝒉𝒂𝒔𝒉𝒊
- • 𝑰𝒔𝒖𝒓𝒖
-
-𝑨𝒏𝒅 𝑻𝒉𝒂𝒏𝒌𝒔 𝑭𝒐𝒓 𝑿𝒆𝒐𝒏 𝑭𝒐𝒓 𝒔𝒄𝒓𝒊𝒑𝒕 .
+ • BaaLa
+ • Aqib Hussain
+ • Ayoub Kamina
+ • Kamran Sial
+Credit:
+TECHNICAL FOJI
+𝑨𝒏𝒅 𝑻𝒉𝒂𝒏𝒌𝒔 𝑭𝒐𝒓 𝒔𝒄𝒓𝒊𝒑𝒕 .
 ===================================================================================================
 */
 
@@ -28,9 +29,9 @@ global.READ_MASSAGE = 'false'
 //👇 enable desable Girls Voice Reply
 global.VOICE_REPLY =  'true'
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['966580560797'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 YASIR SIAL ²⁰²³'
 //👇 Do you want show time on your bio use "on" want desable use "off"
 global.AUTO_BIO =  'on'
 //👇 Inbox massage block PM block
@@ -40,13 +41,13 @@ global.AUTO_REACT =  'true'
 //👇 Bad word Auto delete ( you must add bad words )
 global.ANTI_BADWORD =  'true'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  'YASIR SIAl 3 𝛁' 
 //👇 Your name
-global.ownernma =  '𝑴𝒓 𝑵𝒊𝒎𝒂' 
+global.ownernma =  'YASIR SIAL' 
 //👇 Sticker package name
-global.packname =  '𝗤𝗨𝗘𝗘𝗡 𝗘𝗟𝗜𝗦𝗔' 
+global.packname =  'YASIR SIAL' 
 //👇 Sticker Author Name
-global.author =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.author =  'YASIR SIAL' 
 //👇 Kick And Auto Delete Group link Senders
 global.antilink =  'false'
 //👇 Inbox Block Massage 
@@ -59,9 +60,9 @@ global.BUTTON1 = '𝙶𝚒𝚝𝚑𝚞𝚋'
 //👇 URL button 2 name
 global.BUTTON2 = '𝚈𝚘𝚞𝚝𝚞𝚋𝚎'
 //👇 Button 1 url 
-global.BUTTON1_URL = 'https://github.com/darkmakerofc/'
+global.BUTTON1_URL = 'https://www.facebook.com/Yasirsial786'
 //👇 Button 2 url
-global.BUTTON2_URL = 'https://youtube.com/c/MRNIMAOFC'
+global.BUTTON2_URL = 'https://www.facebook.com/Yasirsial786'
 //👇 Your Add Massage 
 global.ADD_MSG = '*✅ Success add Group*' 
 //👇 Your Kick Massage 
@@ -99,7 +100,7 @@ global.SEND_WELCOME = process.env.SEND_WELCOME || false
 //👇 Send block command message (true or false )
 global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Desable PM Block
-global.NO_BLOCK = ["94715166712","94719574492"]
+global.NO_BLOCK = ["966580560797","966580560797"]
 
 
 
