@@ -30,7 +30,7 @@ global.VOICE_REPLY =  'true'
 // You Bots Owner Number 
 global.owner = ['94767466668'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 ʏᴀꜱɪʏᴀ ʙᴏᴛ 🔑 ²⁰²³'
 //👇 Do you want show time on your bio use "on" want desable use "off"
 global.AUTO_BIO =  'on'
 //👇 Inbox massage block PM block
@@ -46,7 +46,7 @@ global.ownernma =  'YASIYA'
 //👇 Sticker package name
 global.packname =  '𝗤𝗨𝗘𝗘𝗡 𝗘𝗟𝗜𝗦𝗔' 
 //👇 Sticker Author Name
-global.author =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.author =  '⛲уαѕιуα  ⃨𝚋oƚ ࿐' 
 //👇 Kick And Auto Delete Group link Senders
 global.antilink =  'false'
 //👇 Inbox Block Massage 
@@ -55,11 +55,11 @@ global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 global.OWNER_REACT =  '💻'
 global.BAD_KICK_MSG = '*Bad word detect !*'
 //👇 URL.button 1 name
-global.BUTTON1 = '𝙶𝚒𝚝𝚑𝚞𝚋'
+global.BUTTON1 = '🎊ᴡʜᴀᴛꜱᴀᴘᴘ ɢʀᴏᴜᴘ🎊'
 //👇 URL button 2 name
 global.BUTTON2 = '𝚈𝚘𝚞𝚝𝚞𝚋𝚎'
 //👇 Button 1 url 
-global.BUTTON1_URL = 'https://github.com/darkmakerofc/'
+global.BUTTON1_URL = 'https://chat.whatsapp.com/ElbC2e0bIv76x31wMJX2iQ'
 //👇 Button 2 url
 global.BUTTON2_URL = 'https://youtube.com/c/MRNIMAOFC'
 //👇 Your Add Massage 
