@@ -28,7 +28,7 @@ global.READ_MASSAGE = 'false'
 //👇 enable desable Girls Voice Reply
 global.VOICE_REPLY =  'true'
 // You Bots Owner Number 
-global.owner = ['92019292159'] 
+global.owner = ['923019292159'] 
 //👇 Your Caption ( Image Video )
 global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 TAHIR KHOKHAR ²⁰²³'
 //👇 Do you want show time on your bio use "on" want desable use "off"
@@ -42,7 +42,7 @@ global.ANTI_BADWORD =  'true'
 //👇 Your Bot Name
 global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
 //👇 Your name
-global.ownernma =  'Tahir khokhsr' 
+global.ownernma =  'Tahir khokhar' 
 //👇 Sticker package name
 global.packname =  '𝗤𝗨𝗘𝗘𝗡 ' 
 //👇 Sticker Author Name
