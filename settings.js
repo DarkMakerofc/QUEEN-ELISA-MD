@@ -28,13 +28,13 @@ global.READ_MASSAGE = 'false'
 //👇 enable desable Girls Voice Reply
 global.VOICE_REPLY =  'true'
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['92019292159'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 TAHIR KHOKHAR ²⁰²³'
 //👇 Do you want show time on your bio use "on" want desable use "off"
 global.AUTO_BIO =  'on'
 //👇 Inbox massage block PM block
-global.INBOX_BLOCK =  'on'
+global.INBOX_BLOCK =  'off'
 //👇 Auto react 
 global.AUTO_REACT =  'true'
 //👇 Bad word Auto delete ( you must add bad words )
@@ -42,13 +42,13 @@ global.ANTI_BADWORD =  'true'
 //👇 Your Bot Name
 global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
 //👇 Your name
-global.ownernma =  '𝑴𝒓 𝑵𝒊𝒎𝒂' 
+global.ownernma =  'Tahir khokhsr' 
 //👇 Sticker package name
-global.packname =  '𝗤𝗨𝗘𝗘𝗡 𝗘𝗟𝗜𝗦𝗔' 
+global.packname =  '𝗤𝗨𝗘𝗘𝗡 ' 
 //👇 Sticker Author Name
 global.author =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
 //👇 Kick And Auto Delete Group link Senders
-global.antilink =  'false'
+global.antilink =  'true'
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
@@ -111,9 +111,9 @@ global.NO_BLOCK = ["94715166712","94719574492"]
 global.zenzapi = '01ABEB1E11'
 global.tiktokthub = 'https://telegra.ph/file/d83742c9e0a076364184e.jpg'
 //other
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
+global.pemilik = ['923087433234'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['923087433234'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'khokhar' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '🔵'
