@@ -7,13 +7,12 @@
  █▀▀█ ░ █▀▀█ ░ █▀▀█   ░░   █░░▒█
  ░░▀▄ ░ ░░▀▄ ░ █▄▀█   ▀▀   ▒█▒█░
  █▄▄█ █ █▄▄█ █ █▄▄█   ░░   ░▀▄▀░ 
- 𝑶𝒘𝒏𝒆𝒓 : 𝑴𝒓 𝑵𝒊𝒎𝒂
- 𝑯𝒆𝒍𝒑𝒆𝒓𝒔 : 
- • 𝑷𝒂𝒔𝒊𝒅𝒖
- • 𝑻𝒉𝒊𝒏𝒖𝒓𝒂 
- • 𝑻𝒉𝒂𝒔𝒉𝒊
- • 𝑰𝒔𝒖𝒓𝒖
-
+ 𝑶𝒘𝒏𝒆𝒓 Leufuie
+ 𝑯𝒆𝒍𝒑𝒆𝒓𝒔 : taniya
+ • maleesha
+ •tashini
+ •dilma
+ • pooja
 𝑨𝒏𝒅 𝑻𝒉𝒂𝒏𝒌𝒔 𝑭𝒐𝒓 𝑿𝒆𝒐𝒏 𝑭𝒐𝒓 𝒔𝒄𝒓𝒊𝒑𝒕 .
 ===================================================================================================
 */
@@ -28,7 +27,7 @@ global.READ_MASSAGE = 'false'
 //👇 enable desable Girls Voice Reply
 global.VOICE_REPLY =  'true'
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = 0764507517 
 //👇 Your Caption ( Image Video )
 global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
 //👇 Do you want show time on your bio use "on" want desable use "off"
@@ -40,13 +39,13 @@ global.AUTO_REACT =  'true'
 //👇 Bad word Auto delete ( you must add bad words )
 global.ANTI_BADWORD =  'true'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =' QUEEN SNOW WITE'
 //👇 Your name
-global.ownernma =  '𝑴𝒓 𝑵𝒊𝒎𝒂' 
-//👇 Sticker package name
-global.packname =  '𝗤𝗨𝗘𝗘𝗡 𝗘𝗟𝗜𝗦𝗔' 
+global.ownernma ='Mr sadun'
+//👇 Sticker package namｅ
+global.packname =  'Queen snow white'
 //👇 Sticker Author Name
-global.author =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.author =  'MR SADUN OFC'
 //👇 Kick And Auto Delete Group link Senders
 global.antilink =  'false'
 //👇 Inbox Block Massage 
@@ -99,7 +98,7 @@ global.SEND_WELCOME = process.env.SEND_WELCOME || false
 //👇 Send block command message (true or false )
 global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Desable PM Block
-global.NO_BLOCK = ["94715166712","94719574492"]
+global.NO_BLOCK 
 
 
 
@@ -111,9 +110,9 @@ global.NO_BLOCK = ["94715166712","94719574492"]
 global.zenzapi = '01ABEB1E11'
 global.tiktokthub = 'https://telegra.ph/file/d83742c9e0a076364184e.jpg'
 //other
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
+global.pemilik = ['94764507517//Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['94764507517] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'white zigo' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '🔵'
