@@ -20,7 +20,7 @@
 "OWNER_NUMBER" :{
   "description" : "OWNER NUMBER",
   "required" : false,
-  "value" :"94715166712"
+  "value" :"923051038557"
   },
 
  "ALIVE_MESSAGE" :{
@@ -32,7 +32,7 @@
 "CAPTION" :{
   "description" : "YOUR CAPTION",
   "requred" : false,
-  "value" : "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰"
+  "value" : "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 Mester xozii"
   },
   
   "SEND_WELCOME_MASSAGE" :{
@@ -49,32 +49,32 @@
 
   "ANTI_LINK" :{
   "description" : "REMOVE GROUP LINK SEND MEMBERS [ true / false ]",
-  "requred" : false,
+  "requred" : true,
   "value" : "false"
   },
 
   "BOT_NAME" :{
   "description" : "YOUR BOT NAME",
   "requred" : false,
-  "value" :"𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐕2"
+  "value" :"Mester xozii"
   },
 
   "OWNER_NAME" :{
   "description" : "YOUR NAME",
   "requred" : false,
-  "value" :"ＭＲ ＮＩＭＡ"
+  "value" :"ＭＲ Mester xozii"
   },
 
   "STICKER_PACK_NAME" :{
   "description" : "STICKER PACKAGE NAME",
   "requred" : true,
-  "value" :"𝙌𝙪𝙚𝙚𝙣 𝙀𝙡𝙞𝙨𝙖 𝙑2"
+  "value" :"MASTER XOZII"
   },
 
   "STICKER_AUTHOR_NAME" :{
   "description" : "STICKER AUTHOR NAME",
   "requred" : true,
-  "value" :"ＭＲ.ＮＩＭＡ ＯＦＣ"
+  "value" :"ＭＲ.MESTR XOZII ＯＦＣ"
   },
 
   "ALIVE_LOGO" :{
@@ -192,12 +192,12 @@
  "SONG_DOWNLOAD" :{
   "description" : "SONG DOWNLOADING MASSAGE",
   "required" : true,
-  "value" :"🔁 SERACHING YOUR SONG"
+  "value" :"MASTER XOZII🔁 SERACHING YOUR SONG"
   },
  "SONG_UPLOAD" :{
   "description" : "SONG UPLOADING MASSAGE",
   "required" : true,
-  "value" :"📤 UPLOADING YOUR SONG"
+  "value" :"MASTER XOZII📤 UPLOADING YOUR SONG"
   },
  "VOICE_REPLY" :{
   "description" : "REPLY GIRL VOICE",
