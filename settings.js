@@ -26,17 +26,17 @@ const chalk = require('chalk')
 //👇 if you need seen massage use " true "
 global.READ_MASSAGE = 'false'
 //👇 enable desable Girls Voice Reply
-global.VOICE_REPLY =  'true'
+global.VOICE_REPLY =  'false'
 // You Bots Owner Number 
 global.owner = ['94767466668'] 
 //👇 Your Caption ( Image Video )
 global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 ʏᴀꜱɪʏᴀ ʙᴏᴛ 🔑 ²⁰²³'
 //👇 Do you want show time on your bio use "on" want desable use "off"
-global.AUTO_BIO =  'on'
+global.AUTO_BIO =  'off'
 //👇 Inbox massage block PM block
-global.INBOX_BLOCK =  'on'
+global.INBOX_BLOCK =  'off'
 //👇 Auto react 
-global.AUTO_REACT =  'true'
+global.AUTO_REACT =  'false'
 //👇 Bad word Auto delete ( you must add bad words )
 global.ANTI_BADWORD =  'true'
 //👇 Your Bot Name
