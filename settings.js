@@ -31,15 +31,15 @@ global.READ_MASSAGE = false
 //👇 enable desable Girls Voice Reply
 global.VOICE_REPLY = true
 //👇 Do you want show time on your bio use "true" want desable use "false"
-global.AUTO_BIO = true
+global.AUTO_BIO = false
 //👇 Inbox massage block PM block
 global.INBOX_BLOCK = true
 //👇 Auto react 
 global.AUTO_REACT = true
 //👇 Bad word Auto delete ( you must add bad words )
-global.ANTI_BADWORD = false
+global.ANTI_BADWORD = true
 //👇 Kick And Auto Delete Group link Senders
-global.ANTI_G_LINK = false
+global.ANTI_G_LINK = true
 //👇 212 Number block
 global.NUMBER_212_BLOCK = true
 //👇 Send Welcome ( true or false )
@@ -54,27 +54,27 @@ global.BOT_OFFLINE = false
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['94701415149'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
+global.cap = '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴊᴀɴɪʏᴀ ᴍᴅ ²⁰²³'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  'ᴋɪɴɢ ᴊᴀɴɪʏᴀ-ᴍᴅ ❤️' 
 //👇 Your name
-global.ownernma =  '𝑴𝒓 𝑵𝒊𝒎𝒂' 
+global.ownernma =  'ᴍʀ.ᴊᴀɴɪʏᴀ' 
 //👇 Sticker package name
-global.packname =  '𝗤𝗨𝗘𝗘𝗡 𝗘𝗟𝗜𝗦𝗔' 
+global.packname =  'ᴋɪɴɢ ᴊᴀɴɪʏᴀ' 
 //👇 Sticker Author Name
-global.author =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.author =  'ᴍʀ.ᴊᴀɴɪʏᴀ ᴏꜰᴄ' 
 //👇 Inbox Block Massage 
-global.INBOX_BLOCK_MSG = 'BLOCK !!!'
+global.INBOX_BLOCK_MSG = 'බ්ලොක් තමයි සුද්දා 😂 !!!'
 //👇 Owner React Imoji
 global.OWNER_REACT =  '💻'
 //👇 Song Download Massage 
-global.SONG_DOWN = '```⬇️ Downloading Your Song...```' 
+global.SONG_DOWN = '```⬇😌 Downloading Your Song...```' 
 //👇 Song Uplode massage 
-global.SONG_UP = '```⬆️ Uploding Your Song...```'
+global.SONG_UP = '```⬆❤️ Uploding Your Song...```'
 //👇 Menu imoji 
-global.MENU_IMOJI = '👸|ℹ️'
+global.MENU_IMOJI = '❤️|ℹ🙂'
 //👇 Your time zone ( use correct time zone )
 global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Colombo'
 //👇 Removebg Api key
@@ -96,7 +96,7 @@ global.GOODBYE = process.env.GOODBYE || ``
 //👇 Good bye image
 global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || `default`
 //👇 Desable PM Block numbers
-global.NO_BLOCK = ["94715166712","94719574492"]
+global.NO_BLOCK = ["",""]
 global.S_CAP = ''
 global.V_CAP = ''
 global.YT_CAP = ''
@@ -111,9 +111,9 @@ global.IMG_BLOCKER = ["xxx","sex","mia"]
 global.zenzapi = '01ABEB1E11'
 global.tiktokthub = 'https://telegra.ph/file/d83742c9e0a076364184e.jpg'
 //other
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
+global.pemilik = ['94701415149'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['94701415149'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'Mr.Janiya' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '🔵'
