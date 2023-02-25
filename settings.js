@@ -8,7 +8,7 @@
  ░░▀▄ ░ █▄▀█ ░ █▄▀█ ▀▀ ▒█▒█░
  █▄▄█ █ █▄▄█ █ █▄▄█ ░░ ░▀▄▀░
  
- 𝑶𝒘𝒏𝒆𝒓 : 𝑴𝒓 𝑵𝒊𝒎𝒂
+ 𝑶𝒘𝒏𝒆𝒓 : 𝔩𝔦𝔢𝔲𝔱𝔢𝔫𝔞𝔫𝔱
  𝑯𝒆𝒍𝒑𝒆𝒓𝒔 : 
  • 𝑷𝒂𝒔𝒊𝒅𝒖
  • 𝑻𝒉𝒊𝒏𝒖𝒓𝒂 
@@ -54,17 +54,17 @@ global.BOT_OFFLINE = false
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['14157614157'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝔩𝔦𝔢𝔲𝔱𝔢𝔫𝔞𝔫𝔱²⁰²³'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  'makima' 
 //👇 Your name
-global.ownernma =  '𝑴𝒓 𝑵𝒊𝒎𝒂' 
+global.ownernma =  '𝔩𝔦𝔢𝔲𝔱𝔢𝔫𝔞𝔫𝔱' 
 //👇 Sticker package name
-global.packname =  '𝗤𝗨𝗘𝗘𝗡 𝗘𝗟𝗜𝗦𝗔' 
+global.packname =  'makima' 
 //👇 Sticker Author Name
-global.author =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.author =  '𝔩𝔦𝔢𝔲𝔱𝔢𝔫𝔞𝔫𝔱' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
@@ -111,8 +111,8 @@ global.IMG_BLOCKER = ["xxx","sex","mia"]
 global.zenzapi = '01ABEB1E11'
 global.tiktokthub = 'https://telegra.ph/file/d83742c9e0a076364184e.jpg'
 //other
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pemilik = ['14157614157'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['14157614157'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
 global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
