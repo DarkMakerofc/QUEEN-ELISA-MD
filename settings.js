@@ -62,7 +62,7 @@ global.botnma =  'Gabby 𝚳𝐃 3 𝛁'
 //👇 Your name
 global.ownernma =  'Gabby' 
 //👇 Sticker package name
-global.packname =  '𝗤𝗨𝗘𝗘𝗡 𝗘𝗟𝗜𝗦𝗔' 
+global.packname =  'Gabby md' 
 //👇 Sticker Author Name
 global.author =  'Gabby' 
 //👇 Inbox Block Massage 
@@ -111,9 +111,9 @@ global.IMG_BLOCKER = ["xxx","sex","mia"]
 global.zenzapi = '01ABEB1E11'
 global.tiktokthub = 'https://telegra.ph/file/d83742c9e0a076364184e.jpg'
 //other
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
+global.pemilik = ['254106516012'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['254106516012'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'Gabby' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '🔵'
