@@ -2,10 +2,10 @@
 <u>♥️ ᴀɴ ᴡʜᴀᴛsᴀᴘᴘ ᴜsᴇʀ ʙᴏᴛ ʙʏ ᴍʀ ɴɪᴍᴀ ♥️</u>
 </p>
 <p align="center">
-<img src="https://telegra.ph/file/ffdb2c3cfba2016eb4e17.jpg" width="300" height="300"/>
+<img src="https://files.fm/f/nrp84bysr" width="1296" Hight="2048"
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Queen+Elisa+Whatsapp+Bot" alt="">
+  <a href="#"><img src="" alt="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Mrnima-red.svg?style=for-the-badge&logo=github"></a>
@@ -22,26 +22,20 @@
 
 # 
 
-### Please Give One Star ✨ & [follow for me notify my updates](https://github.com/DarkMakerofc)
-<b>Version --> 3.3.3</b>
+### Please Give One Star ✨ & [follow for me notify my updates](https://github.com/maiki300
+<b>Version --> 3.3.4</b>
 # 
-Queen elisa whatsapp bot is,
+Makima whatsapp bot is,
 
-      Queen elisa whatsapp bot is an easy to use whatsapp robot thkx xeon.   |  Queen elisa whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
+      Makima whatsapp bot is an easy to use whatsapp robot thkx xeon.   |  Makima whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
 
-# 
 
-* 𝗤𝗨𝗘𝗘𝗡 𝗘𝗟𝗜𝗦𝗔 𝗪𝗘𝗕 𝗦𝗜𝗧𝗘
-
-<p align="left">
-<a href="http://www.queenelisa.42web.io"><img align="center" src="https://telegra.ph/file/8b7c4a9bbaae67b1b2e0e.png" alt="VISIT QUEEN ELISA WEBSITE" height="35" width="150" /></a>
-</p align="left">
 
 # 
 * 𝗙𝗢𝗥𝗞 𝗡𝗢𝗪
 
 <p align="left">
-<a href="https://github.com/DarkMakerofc/Queen-Elisa-MD-V2/fork"><img align="center" src="https://telegra.ph/file/3514997e86c4bb12d8f67.png" alt="Fork and deploy" height="35" width="155" /></a>
+<a href="https://github.com/Maiki300/Makima/fork"><img align="center" src="https://files.fm/f/82t6cdfkj" alt="Fork and deploy" 1914" width="236" /></a>
 
 # 
 
