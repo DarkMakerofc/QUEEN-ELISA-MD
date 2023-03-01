@@ -1,8 +1,6 @@
 hidden = [".config", "package-lock.json"]
 
-run = "npm start"
-
-
+run="pm2 start index.js && pm2 save && pm2 logs"
 [[hints]]
 
 regex = "Error \\[ERR_REQUIRE_ESM\\]"
@@ -132,4 +130,3 @@ pattern = "**/{*.js,*.jsx,*.ts,*.tsx}"
 [languages.javascript.languageServer]
 
 start = "typescript-language-server --stdio"
-
