@@ -151,7 +151,7 @@ global.APIKeys = {
 	'https://zenzapi.xyz': '01ABEB1E11', //Kalau habis beli sendiri
 }
 
-global.thumb = fs.readFileSync('https://files.fm/f/2uwkzgtmq')
+global.thumb = fs.readFileSync('./Media/image/Elisa.jpg')
 global.alivelogo = `https://files.fm/f/keq5tnwk4`
 global.imgalive = fs.readFileSync('./Media/image/Elisa.jpg')
 let file = require.resolve(__filename)
