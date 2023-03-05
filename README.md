@@ -17,6 +17,7 @@ Queen Elisa Whatsapp bot made by dark maker base on cheems can you use queen eli
 
 ## 
 
+               There is an error while downloading songs and videos, massage 1 is coming to fix it, put it as Europe and make it now, we will fix it with an update soon.
 
 
 `DEPLOY QUEEN ELISA`
