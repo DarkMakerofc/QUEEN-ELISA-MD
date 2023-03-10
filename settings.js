@@ -3,12 +3,12 @@
  █░▒█ █░▒█ █▀▀▀ █▀▀▀ █▒█▒█       █▀▀▀ █░░░ ░█░ ▀▀▀▄▄ █▄▄█
  ▀▀█▄ ▀▄▄▀ █▄▄▄ █▄▄▄ █░░▀█       █▄▄▄ █▄▄█ ▄█▄ █▄▄▄█ █░▒█
 
-WHATSAPP BOT BY MR NIMA ( DARK MAKER OFC )
+WHATSAPP BOT BY 𝑺𝒂𝒎𝒓𝒂𝒕 𝑿𝑫
 
-WHATSAPP - 94719574492
+WHATSAPP - 919062628928
 WEB SITE - http://queenelisa.42web.io/
 SUPPORT GROUP - https://t.me/queenelisasupport
-YOUTUBE - http://youtube.com/MRNIMAOFC
+INSTAGRAM - http://instagram.com/santrasamridhya
 
 
 */
@@ -23,13 +23,13 @@ const chalk = require('chalk')
 //👇 if you need seen massage use " true "
 global.READ_MASSAGE = false
 //👇 enable desable Girls Voice Reply
-global.VOICE_REPLY = false
+global.VOICE_REPLY = true
 //👇 Do you want show time on your bio use "true" want desable use "false"
-global.AUTO_BIO = false
+global.AUTO_BIO = true
 //👇 Inbox massage block PM block
 global.INBOX_BLOCK = false
 //👇 Auto react 
-global.AUTO_REACT = false
+global.AUTO_REACT = true
 //👇 Bad word Auto delete ( you must add bad words )
 global.ANTI_BADWORD = false
 //👇 Kick And Auto Delete Group link Senders
@@ -37,11 +37,11 @@ global.ANTI_G_LINK = false
 //👇 212 Number block
 global.NUMBER_212_BLOCK = false
 //👇 Send Welcome ( true or false )
-global.SEND_WELCOME = process.env.SEND_WELCOME || false
+global.SEND_WELCOME = process.env.SEND_WELCOME || true
 //👇 Send block command message (true or false )
 global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Send Auto reply , sticker , voice Use true and costemize your own 
-global.AUTO_FUNCTION = false
+global.AUTO_FUNCTION = true
 //👇 Put Bot Offline
 global.BOT_OFFLINE = false
 //👇 Only PreFix [ true / false ]
@@ -52,15 +52,15 @@ global.UPLOAD_MAX = false
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['919062628928'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
+global.cap = '© 𝔾𝔼ℕ𝔼ℝ𝔸𝕋𝔼𝔻 𝔹𝕐 𝕊𝕒𝕞𝕣𝕒𝕥 𝕏𝔻 ²⁰²³'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  '𝑺𝒂𝒎𝒓𝒂𝒕 𝑿𝑫' 
 //👇 Your name
-global.ownernma =  '𝑴𝒓 𝑵𝒊𝒎𝒂' 
+global.ownernma =  'Samrat OP' 
 //👇 Sticker Author Name
-global.packname =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.packname =  '𝑺𝒂𝒎𝒓𝒂𝒕 𝑿𝑫' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
