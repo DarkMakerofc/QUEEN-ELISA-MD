@@ -1,6 +1,6 @@
 {
   "name": "QUEEN-ELISA-MD",
-  "version": "3.3.3",
+  "version": "3.3.5",
   "description": "Automated whatsapp md bot created using nodejs and baileys lib",
   "type": "commonjs",
   "scripts": {
@@ -20,15 +20,16 @@
   "author": "MR-NIMA",
   "license": "AGPL-3",
   "dependencies": {
-    "@adiwajshing/baileys": "hostinger-bot/baileys",
+    "@adiwajshing/baileys": "^4.4.0",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "^2.0.0",
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@vitalets/google-translate-api": "^9.0.0",
-    "@ffmpeg-installer/ffmpeg" : "^1.1.0",
     "anime-wallpaper": "^1.0.2",
+    "api-dylux": "^1.2.8",
     "awesome-phonenumber": "^2.64.0",
-    "api-dylux":"^1.2.8",
     "axios": "^0.24.0",
+    "cfonts": "^3.1.1",
     "chalk": "^4.1.2",
     "cheerio": "^1.0.0-rc.12",
     "child_process": "^1.0.2",
@@ -36,6 +37,7 @@
     "dhn-api": "^1.1.3",
     "emoji-api": "^1.0.2",
     "express": "^4.18.1",
+    "figlet": "^1.5.2",
     "file-type": "^16.5.3",
     "fluent-ffmpeg": "^2.1.2",
     "fs": "0.0.1-security",
@@ -44,8 +46,8 @@
     "google-it": "^1.6.3",
     "got": "^11.8.3",
     "human-readable": "^0.2.1",
-    "instagram-url-direct": "^1.0.13",
     "insta-fetcher": "^1.3.24",
+    "instagram-url-direct": "^1.0.13",
     "jimp": "^0.16.1",
     "jsdom": "^16.4.0",
     "lowdb": "^2.1.0",
@@ -58,8 +60,8 @@
     "node-id3": "^0.2.3",
     "node-webpmux": "^3.1.1",
     "node-youtube-music": "^0.8.3",
-    "os": "^0.1.2",
     "openai": "^3.1.0",
+    "os": "^0.1.2",
     "path": "^0.12.7",
     "perf_hooks": "0.0.1",
     "pino": "^7.0.5",
@@ -80,15 +82,12 @@
     "xfarr-api": "^1.0.2",
     "yargs": "^17.2.1",
     "youtube-yts": "^2.0.0",
-    "youtubedl-core": "^4.11.2",
-    "figlet" : "^1.5.2",
-    "cfonts" : "^3.1.1"
+    "youtubedl-core": "^4.11.2"
   },
   "directories": {
     "lib": "lib",
     "src": "src"
   },
-  "devDependencies": {},
   "repository": "git+https://github.com/DarkMakerofc/Queen-Elisa-MD-V2.git",
   "bugs": {
     "url": "https://github.com/DarkMakerofc/Queen-Elisa-MD-V2/issues"
