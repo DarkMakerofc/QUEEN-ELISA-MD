@@ -37,7 +37,7 @@ global.ANTI_G_LINK = false
 //👇 212 Number block
 global.NUMBER_212_BLOCK = false
 //👇 Send Welcome ( true or false )
-global.SEND_WELCOME = process.env.SEND_WELCOME || false
+global.SEND_WELCOME = process.env.SEND_WELCOME || true
 //👇 Send block command message (true or false )
 global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Send Auto reply , sticker , voice Use true and costemize your own 
@@ -54,13 +54,13 @@ global.UPLOAD_MAX = false
 // You Bots Owner Number 
 global.owner = ['94715166712'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝗡𝗔𝗗𝗨𝗡 𝗚𝗜𝗠𝗛𝗔𝗡 𝗠𝗔𝗗𝗨𝗦𝗛𝗡𝗞𝗔 ²⁰²³'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  '𝗡𝗔𝗗𝗨𝗡 𝗚𝗜𝗠𝗛𝗔𝗡 𝗠𝗔𝗗𝗨𝗦𝗛𝗡𝗞𝗔 3 𝛁' 
 //👇 Your name
-global.ownernma =  '𝑴𝒓 𝑵𝒊𝒎𝒂' 
+global.ownernma =  '𝑴𝒓 𝗡𝗔𝗗𝗨𝗡' 
 //👇 Sticker Author Name
-global.packname =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.packname =  '𝙼𝚁 𝗡𝗔𝗗𝗨𝗡 𝗚𝗜𝗠𝗛𝗔𝗡' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
@@ -92,7 +92,7 @@ global.GOODBYE = process.env.GOODBYE || ``
 //👇 Good bye image
 global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || ``
 //👇 Desable PM Block numbers
-global.NO_BLOCK = ["94715166712","94719574492"]
+global.NO_BLOCK = ["94750485352","94776689487"]
 //👇 Desable download words
 global.IMG_BLOCKER = ["xxx","sex","mia"]
 //👇 Open ai API
@@ -144,7 +144,7 @@ global.pengguna = 'Dark Maker' // Your name ඔබේ නම
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '👽'
-global.weem = 'QUEEN ELISA'
+global.weem = '𝗡𝗔𝗗𝗨𝗡 𝗚𝗜𝗠𝗛𝗔𝗡 𝗠𝗔𝗗𝗨𝗦𝗛𝗡𝗞𝗔'
 
 global.limitawal = {
     premium: "Infinity", 
