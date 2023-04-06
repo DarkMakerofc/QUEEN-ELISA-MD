@@ -52,7 +52,7 @@ global.UPLOAD_MAX = false
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94764497078'] 
+global.owner = ['919871830149'] 
 //👇 Your Caption ( Image Video )
 global.cap = ' Varsha ²⁰²³'
 //👇 Your Bot Name
