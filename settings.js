@@ -96,7 +96,7 @@ global.NO_BLOCK = ["94715166712","94719574492"]
 //👇 Desable download words
 global.IMG_BLOCKER = ["xxx","sex","mia"]
 //👇 Open ai API
-global.CHATGPT_API = ''
+global.CHATGPT_API = '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'
 /*
 
    🍃 OTHER 🍃
