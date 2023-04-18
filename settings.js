@@ -56,7 +56,7 @@ global.owner = ['94762517411']
 //👇 Your Caption ( Image Video )
 global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙼𝚁 𝙳𝙸𝙻𝙰 ☃ ²⁰²³'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  '𝙼𝚁 𝙳𝙸𝙻𝙰 ✆...' 
 //👇 Your name
 global.ownernma =  '𝙼𝚁 𝙳𝙸𝙻𝙰' 
 //👇 Sticker Author Name
