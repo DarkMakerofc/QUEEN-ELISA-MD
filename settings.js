@@ -78,7 +78,7 @@ global.REMOVE_BG_API = 'apikey get on remoebg.com'
 //👇 Pron Video Download 
 global.SEX_VIDEO_DOWNLOAD = process.env.SEX_VIDEO_DOWNLOAD || 'false'
 //👇 Change Bot Language 
-global.LANG = 'EN'
+global.LANG 'SIN'
 //Alive logo
 global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
 //👇 Alive message
