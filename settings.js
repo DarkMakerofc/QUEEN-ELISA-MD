@@ -5,7 +5,7 @@
 
 WHATSAPP BOT BY MR NIMA ( DARK MAKER OFC )
 
-WHATSAPP - 94719574492
+WHATSAPP - 917047294917
 WEB SITE - http://queenelisa.42web.io/
 SUPPORT GROUP - https://t.me/queenelisasupport
 YOUTUBE - http://youtube.com/MRNIMAOFC
@@ -21,11 +21,11 @@ const chalk = require('chalk')
 ⚙️ BOT SETTINGS  ⚙️
 */
 //👇 if you need seen massage use " true "
-global.READ_MASSAGE = false
+global.READ_MASSAGE = true
 //👇 enable desable Girls Voice Reply
-global.VOICE_REPLY = false
+global.VOICE_REPLY = true
 //👇 Do you want show time on your bio use "true" want desable use "false"
-global.AUTO_BIO = false
+global.AUTO_BIO = true
 //👇 Inbox massage block PM block
 global.INBOX_BLOCK = false
 //👇 Auto react 
@@ -41,7 +41,7 @@ global.SEND_WELCOME = process.env.SEND_WELCOME || false
 //👇 Send block command message (true or false )
 global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Send Auto reply , sticker , voice Use true and costemize your own 
-global.AUTO_FUNCTION = false
+global.AUTO_FUNCTION = true
 //👇 Put Bot Offline
 global.BOT_OFFLINE = false
 //👇 Only PreFix [ true / false ]
@@ -52,17 +52,17 @@ global.UPLOAD_MAX = false
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['917047294917'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝑅𝛥𝛭 𝐶𝛨𝛥𝑅𝛥𝛮 ²⁰²³'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  '𝑅𝛥𝛭 𝐶𝛨𝛥𝑅𝛥𝛮 3 𝛁' 
 //👇 Your name
-global.ownernma =  '𝑴𝒓 𝑵𝒊𝒎𝒂' 
+global.ownernma =  '𝑴𝒓 𝑅𝛥𝛭 𝐶𝛨𝛥𝑅𝛥𝛮' 
 //👇 Sticker Author Name
-global.packname =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.packname =  '𝙼𝚁 𝑅𝛥𝛭 𝐶𝛨𝛥𝑅𝛥𝛮' 
 //👇 Inbox Block Massage 
-global.INBOX_BLOCK_MSG = 'BLOCK !!!'
+global.INBOX_BLOCK_MSG = 'BLOCK 917047294917!!!'
 //👇 Owner React Imoji
 global.OWNER_REACT =  '💻'
 //👇 Song Download Massage 
@@ -92,9 +92,9 @@ global.GOODBYE = process.env.GOODBYE || ``
 //👇 Good bye image
 global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || ``
 //👇 Desable PM Block numbers
-global.NO_BLOCK = ["94715166712","94719574492"]
+global.NO_BLOCK = ["917047294917","917865054966"]
 //👇 Desable download words
-global.IMG_BLOCKER = ["xxx","sex","mia"]
+global.IMG_BLOCKER = ["","",""]
 //👇 Open ai API
 global.CHATGPT_API = ''
 /*
@@ -138,8 +138,8 @@ global.mess = {
 
 
 //other
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pemilik = ['917047294917'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['917047294917'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
 global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
