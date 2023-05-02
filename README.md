@@ -3,7 +3,7 @@
 <u>♥️ ᴀɴ ᴡʜᴀᴛsᴀᴘᴘ ᴜsᴇʀ ʙᴏᴛ ʙʏ ᴍʀ ᴍᴀʜᴇꜱʜ ♥️</u>
 </p>
 <p align="center">
-<img src="https://telegra.ph/file/ffdb2c3cfba2016eb4e17.jpg" width="300" height="300"/>
+<img src="https://i.ibb.co/TvsKrb2/20230502-165727.jpg" width="300" height="300"/>
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Queen+Elisa+Whatsapp+Bot" alt="">
