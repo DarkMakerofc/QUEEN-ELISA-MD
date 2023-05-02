@@ -168,11 +168,11 @@ npm start
 <summary>🌐 Support For Deploy </summary>
 <p>
 </details>
-THANAKS FOR USNING QUEEN ELISA 💃💖
+THANAKS FOR USNING Sk kHaN 💃💖
 
 * [🧑‍💻 Join Queen Elisa Support Group 🧑‍💻](https://t.me/+Fc2vyKYBjFk3ZWZl)
 
-* [🦄 Join Public Group 🦄](https://chat.whatsapp.com/BbIpvkRD4qP6xKckb8cpT0)
+* [🦄 Join Public Group 🦄](https://chat.whatsapp.com/H7WjGLwEUV115Bu7SGIQ0E)
 
      
        ⚠️ We are not responsible for any inconvenience caused by your mistakes!   | ඔබගේ අත්වැරදීම් නිසා සිදුවන අපහසුතාවයන් සඳහා අප වගකිවයනු නොලැබේ !
