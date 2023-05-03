@@ -21,15 +21,15 @@ const chalk = require('chalk')
 ⚙️ BOT SETTINGS  ⚙️
 */
 //👇 if you need seen massage use " true "
-global.READ_MASSAGE = false
+global.READ_MASSAGE = true
 //👇 enable desable Girls Voice Reply
-global.VOICE_REPLY = false
+global.VOICE_REPLY = true
 //👇 Do you want show time on your bio use "true" want desable use "false"
-global.AUTO_BIO = false
+global.AUTO_BIO = true
 //👇 Inbox massage block PM block
 global.INBOX_BLOCK = false
 //👇 Auto react 
-global.AUTO_REACT = false
+global.AUTO_REACT = true
 //👇 Bad word Auto delete ( you must add bad words )
 global.ANTI_BADWORD = false
 //👇 Kick And Auto Delete Group link Senders
@@ -52,15 +52,15 @@ global.UPLOAD_MAX = false
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['923165513132'] 
 //👇 Your Caption ( Image Video )
 global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  'S Y C O 0 0 7' 
 //👇 Your name
-global.ownernma =  '𝑴𝒓 𝑵𝒊𝒎𝒂' 
+global.ownernma =  'SYCO' 
 //👇 Sticker Author Name
-global.packname =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.packname =  'SYCO' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
