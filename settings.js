@@ -29,7 +29,7 @@ global.AUTO_BIO = false
 //👇 Inbox massage block PM block
 global.INBOX_BLOCK = false
 //👇 Auto react 
-global.AUTO_REACT = true
+global.AUTO_REACT = false
 //👇 Bad word Auto delete ( you must add bad words )
 global.ANTI_BADWORD = true
 //👇 Kick And Auto Delete Group link Senders
