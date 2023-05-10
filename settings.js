@@ -3,12 +3,12 @@
  █░▒█ █░▒█ █▀▀▀ █▀▀▀ █▒█▒█       █▀▀▀ █░░░ ░█░ ▀▀▀▄▄ █▄▄█
  ▀▀█▄ ▀▄▄▀ █▄▄▄ █▄▄▄ █░░▀█       █▄▄▄ █▄▄█ ▄█▄ █▄▄▄█ █░▒█
 
-WHATSAPP BOT BY MR NIMA ( DARK MAKER OFC )
+WHATSAPP BOT BY MR Dev!l ( DARK MAKER OFC )
 
-WHATSAPP - 94719574492
-WEB SITE - http://queenelisa.42web.io/
-SUPPORT GROUP - https://t.me/queenelisasupport
-YOUTUBE - http://youtube.com/MRNIMAOFC
+WHATSAPP - 3547744289
+WEB SITE - http://queensa.42web.io/
+SUPPORT GROUP - https://t.me/queenelisasurt
+YOUTUBE - http://youtube.com/MRNIC
 
 
 */
@@ -29,7 +29,7 @@ global.AUTO_BIO = false
 //👇 Inbox massage block PM block
 global.INBOX_BLOCK = false
 //👇 Auto react 
-global.AUTO_REACT = false
+global.AUTO_REACT = true
 //👇 Bad word Auto delete ( you must add bad words )
 global.ANTI_BADWORD = false
 //👇 Kick And Auto Delete Group link Senders
@@ -52,15 +52,15 @@ global.UPLOAD_MAX = false
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['3547744289,918355922683'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 dEv!l ²⁰²³'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  'D3V1L👿' 
 //👇 Your name
-global.ownernma =  '𝑴𝒓 𝑵𝒊𝒎𝒂' 
+global.ownernma =  'Th3 DeV!🗡️l' 
 //👇 Sticker Author Name
-global.packname =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.packname =  'Bot' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
@@ -138,13 +138,13 @@ global.mess = {
 
 
 //other
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
+global.pemilik = ['3547744289'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['3547744289'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'DEv!l' // Your name ඔබේ නම 
 global.sessionName = 'session'
-global.prefix = ['#','!','.'] 
+global.prefix = ['!'] 
 global.sp = '👽'
-global.weem = 'QUEEN ELISA'
+global.weem = 'DeV!l'
 
 global.limitawal = {
     premium: "Infinity", 
