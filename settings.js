@@ -60,7 +60,7 @@ global.botnma =  '🕊️ʟᴀᴋY🕊️'
 //👇 Your name
 global.ownernma =  '🕊️' 
 //👇 Sticker Author Name
-global.packname =  '𝙼𝚁 ₗₖY ₒFC 
+global.packname =  '🕊️ᴮʸ ᴸᴷʸ🕊️'
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
