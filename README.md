@@ -65,41 +65,6 @@
 
 # 
 
-## [`WATCH YOUTUBE VIDEOS`](youtube.com/MRNIMAOFC)
-
-# 
-# 
-# 
-#
-+ DEPLOY STEPS
-# 
-1. Fork This Repository 
-2. Update [settings.js]()
-3. Uplode session.json file
-4. Make acount on your host
-5. Connect Your Repository to your web host site
-6. [ Watch Video]()
-# 
-# 
-### [ DEPLY ON TERMUX ]
- ```   
-apt update
-apt upgrade
-pkg update && pkg upgrade
-pkg install bash
-pkg install libwebp
-pkg install git -y
-pkg install nodejs -y 
-pkg install ffmpeg -y 
-pkg install wget
-pkg install imagemagick -y
-git clone https://github.com/DarkMakerofc/Queen-Elisa-Md-V2
-cd Queen-Elisa-Md-V2
-npm install
-npm start
-```
-<details>
-<summary>✅ New Updates</summary>
 
 
 ## 🆕 New additions 🆕
@@ -167,17 +132,11 @@ npm start
 <summary>🌐 Support For Deploy </summary>
 <p>
 </details>
-THANAKS FOR USNING QUEEN ELISA 💃💖
+THANAKS FOR USNING MS BOT 💃💖
 
-* [🧑‍💻 Join Queen Elisa Support Group 🧑‍💻](https://t.me/+Fc2vyKYBjFk3ZWZl)
-
-* [🦄 Join Public Group 🦄](https://chat.whatsapp.com/BbIpvkRD4qP6xKckb8cpT0)
+* [🧑‍💻
 
      
        ⚠️ We are not responsible for any inconvenience caused by your mistakes!   | ඔබගේ අත්වැරදීම් නිසා සිදුවන අපහසුතාවයන් සඳහා අප වගකිවයනු නොලැබේ !
 
 
-<h1>💗</h1> 
-<b>Thanks For</b> -
-
- [xeon](github.com/zimbot) for script , [thashi 💖]() for Voice ,[slrealtech]() , [darkalpha]() , [sanuwa]() and [isuru]() thanks for helps 💖
