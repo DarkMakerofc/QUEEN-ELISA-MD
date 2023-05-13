@@ -54,7 +54,7 @@ global.UPLOAD_MAX = false
 // You Bots Owner Number 
 global.owner = ['94715166712'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
 //👇 Your Bot Name
 global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
 //👇 Your name
