@@ -76,15 +76,15 @@ global.DISABLE_COMMAND_MESSAGE_SEND = false
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['18436312623'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
+global.cap = '© 𝐐𝐔𝐄𝐄𝐍 𝐕-𝟑.𝟖²⁰²³'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  '𝐐𝐔𝐄𝐄𝐍 𝐕-𝟑' 
 //👇 Your name
-global.ownernma =  '𝑴𝒓 𝑵𝒊𝒎𝒂' 
+global.ownernma =  '𝐐𝐔𝐄𝐄𝐍 𝐕-𝟑' 
 //👇 Sticker Author Name
-global.packname =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.packname =  'Ⓥⓘⓖⓖⓞ.𝙿𝚒𝚎𝚗𝚜𝚊, 𝚜𝚞𝚎𝚗̃𝚊, 𝚌𝚛𝚎𝚎 𝚢 𝚊𝚝𝚛𝚎́𝚟𝚎𝚝𝚎🌻: 𝙰𝚋𝚒-𝙳𝚊𝚗-𝚂𝚘𝚏𝚒-𝚁𝚘𝚡𝚢-𝚂𝚊𝚕𝚘-𝙶𝚎𝚛-𝙱𝚊𝚛-𝙸𝚜𝚜𝚊-𝚂𝚘𝚏𝚒𝚋𝚋-𝚂𝚛🦇-𝙺𝚒𝚛𝚒-𝙻𝚎𝚡-𝚈𝚎𝚒-𝚂𝚑𝚒𝚟𝚒𝚜🍒 𝗙●𝗨●𝗖●𝗞 ≖ 𝗢●𝗙●𝗙🖕🏻😈😇' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
@@ -102,7 +102,7 @@ global.REMOVE_BG_API = 'apikey get on remoebg.com'
 //👇 Change Bot Language 
 global.LANG = 'EN'
 //Alive logo
-global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
+global.alivelogo = process.env.ALIVE_IMAGE || `https://cdn.memegenerator.es/imagenes/memes/full/28/42/28425094.jpg`
 //👇 Alive message
 global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `default`
 //👇 Welcome Mesaage
@@ -118,7 +118,7 @@ global.NO_BLOCK = ["94715166712","94719574492"]
 //👇 DISABLE download words
 global.IMG_BLOCKER = ["xxx","sex","mia"]
 //👇 Open ai API
-global.CHATGPT_API = ''
+global.CHATGPT_API = '01ABEB1E11'
 //👇 Sex  video Download Allowed Groups
 global.SEX_DOWNLOAD_GROUPS = ['120363147404508506@g.us']
 //👇 Your Bot Group Link
@@ -148,7 +148,7 @@ global.mess = {
     BLOCK_CMD_MSG : '*⚠️ This Command is Block By Owner*',
     IMG_BLOCK : "This Word is Ban from image downloader",
     DISABLE_INBOX : "Inbox DISABLE By Bot Owner Please Only Use Groups",
-    ONLY_SEX_GROUP : "Adult Video Download Only Allowed On This Group \n\n https://chat.whatsapp.com/JYAg2lMpRTF2bgkeFCxsvf",
+    ONLY_SEX_GROUP : "Adult Video Download Only Allowed On This Group \n\n https://chat.whatsapp.com",
     DISABLE_CMD : "🚫 Commands Are DISABLE by owner",
     BAD_DETECT : '',
     BLOCK : '',
@@ -164,13 +164,13 @@ global.mess = {
 
 
 //other
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
+global.pemilik = ['447418347824'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['447418347824'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'Cachinero Maldito' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '👽'
-global.weem = 'QUEEN ELISA'
+global.weem = '𝐐𝐔𝐄𝐄𝐍 𝐕-𝟑'
 
 global.limitawal = {
     premium: "Infinity", 
