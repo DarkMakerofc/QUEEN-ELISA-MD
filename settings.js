@@ -43,7 +43,7 @@ global.ANTI_BADWORD = false
 //👇 Kick And Auto Delete Group link Senders , ස්මූහ ස්බැදි දමන අයව ඉවත් කරයි
 global.ANTI_G_LINK = false
 //👇 212 Number block
-global.NUMBER_212_BLOCK = true
+global.NUMBER_212_BLOCK = false
 //👇 Send Welcome ( true or false ) වෙල්කම් ගූඩ් බායි මැසේජ් යවන්න ඔනි නම් 
 global.SEND_WELCOME = process.env.SEND_WELCOME || false
 //👇 Send block command message (true or false )
