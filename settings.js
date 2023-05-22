@@ -69,9 +69,9 @@ global.AUTO_OPEN_AI = true
 //👇 Bot On Privet
 global.PRIVET_BOT = false
 //👇 DISABLE Bot Commands But Others Are Working 
-global.DISABLE_COMMANDS = true 
+global.DISABLE_COMMANDS = false 
 //👇 DISABLE Bot Commands On Message Send On Off
-global.DISABLE_COMMAND_MESSAGE_SEND = true 
+global.DISABLE_COMMAND_MESSAGE_SEND = false 
 /*
        ✨ BOT INFO SETTINGS ✨
 */
