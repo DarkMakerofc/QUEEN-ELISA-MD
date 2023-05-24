@@ -100,7 +100,7 @@ global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Colombo'
 //👇 Removebg Api key
 global.REMOVE_BG_API = 'apikey get on remoebg.com'
 //👇 Change Bot Language 
-global.LANG = 'ES'
+global.LANG = 'EN'
 //Alive logo
 global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
 //👇 Alive message
