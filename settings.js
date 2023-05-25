@@ -65,7 +65,7 @@ global.SEX_VIDEO_DOWNLOAD = false
 //👇 Only Inbox Use ( Only PM Work )
 global.INBOX_ONLY_WORK = false
 //👇 Auto ChatGPT ( You Must put CHATGPT API KEY For use this )
-global.AUTO_OPEN_AI = false
+global.AUTO_OPEN_AI = true
 //👇 Bot On Privet
 global.PRIVET_BOT = false
 //👇 DISABLE Bot Commands But Others Are Working 
