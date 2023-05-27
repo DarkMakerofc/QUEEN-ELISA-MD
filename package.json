@@ -1,7 +1,7 @@
 {
-  "name": "QUEEN-ELISA-MD",
+  "name": "SAKUN-ELISA-MD",
   "version": "3.8.6",
-  "description": "Queen Elisa Whatsapp Bot is Baileys Web base Whatsapp 3rd Party Module",
+  "description": "Sakun Elisa Whatsapp Bot is Baileys Web base Whatsapp 3rd Party Module",
   "type": "commonjs",
   "scripts": {
     "start": "node --max_old_space_size=8192 lib/runner/index.js"
