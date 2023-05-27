@@ -1,0 +1,56 @@
+{
+  "name": "mal-scraper",
+  "version": "2.12.1",
+  "description": "Scrap everything you can from MyAnimeList.net",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "scripts": {
+    "test": "npm run lint && nyc ava --verbose --timeout=1m --serial test/*.test.js",
+    "test-no": "nyc ava --verbose --timeout=1m --serial test/*.test.js",
+    "lint": "standard | snazzy",
+    "lint:fix": "standard --fix | snazzy",
+    "coverage": "nyc report --reporter=text-lcov > coverage.lcov && codecov",
+    "cloc": "cloc $(git ls-files)"
+  },
+  "author": "Kylart",
+  "license": "MIT",
+  "repository": "https://github.com/Kylart/MalScraper",
+  "keywords": [
+    "MalScraper",
+    "MyAnimeList",
+    "Seasonal Anime",
+    "Information",
+    "Scraping",
+    "Anime",
+    "news"
+  ],
+  "engines": {
+    "node": ">=8"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.3",
+    "js2xmlparser": "^4.0.0",
+    "match-sorter": "^4.0.2",
+    "request": "^2.88.0",
+    "xml2js": "^0.4.22"
+  },
+  "devDependencies": {
+    "ava": "^3.9.0",
+    "cloc": "^2.5.0",
+    "codecov": "^3.6.1",
+    "nock": "^13.0.4",
+    "nyc": "^14.1.1",
+    "pre-commit": "^1.2.2",
+    "snazzy": "^8.0.0",
+    "standard": "^14.3.1"
+  },
+  "precommit": "lint",
+  "nyc": {
+    "exclude": [
+      "test",
+      "src/search",
+      "src/officialApi"
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"sticker.d.ts","sourceRoot":"","sources":["../../../src/images/sticker.ts"],"names":[],"mappings":"AAEA,OAAO,EAAuB,WAAW,EAAE,eAAe,EAAE,MAAM,SAAS,CAAA;AAE3E,wBAAsB,eAAe,CACnC,KAAK,EAAE,MAAM,EACb,IAAI,CAAC,EAAE,MAAM,GACZ,OAAO,CAAC,eAAe,EAAE,CAAC,CAoC5B;AAED,wBAAsB,WAAW,CAAE,KAAK,EAAE,MAAM,GAAG,OAAO,CAAC,WAAW,EAAE,CAAC,CA2BxE"}

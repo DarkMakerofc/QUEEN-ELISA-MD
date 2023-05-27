@@ -1,0 +1,36 @@
+{
+	"name": "simple-find-lyrics",
+	"description": "Search for lyrics with artist, song title and source.",
+	"version": "0.0.1",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ID29TH/simple-find-lyrics.git"
+	},
+	"keywords": [
+		"google",
+		"lyrics",
+		"finder",
+		"simple find",
+		"finder music",
+		"search music",
+		"finder lyrics",
+		"search lyrics",
+		"search"
+	],
+	"author": "ECq Studio's",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ID29TH/simple-find-lyrics/issues"
+	},
+	"homepage": "https://github.com/ID29TH/simple-find-lyrics",
+	"dependencies": {
+		"cheerio": "^1.0.0-rc.12",
+		"encoding": "^0.1.13",
+		"node-fetch": "2.6.7",
+		"typescript": "^4.7.4"
+	}
+}

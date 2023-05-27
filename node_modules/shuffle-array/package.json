@@ -1,0 +1,32 @@
+{
+  "name": "shuffle-array",
+  "repository": "git@github.com:pazguille/shuffle-array.git",
+  "description": "Randomize the order of the elements in a given array.",
+  "author": "Guille Paz <guille87paz@gmail.com>",
+  "version": "1.0.1",
+  "scripts": {
+    "build": "gulp",
+    "dist": "gulp && gulp min",
+    "test": "gulp && istanbul cover -x Gulpfile.js gulp test"
+  },
+  "devDependencies": {
+    "better-assert": "1.0.2",
+    "gulp": "3.9.1",
+    "gulp-footer": "1.0.5",
+    "gulp-header": "1.8.8",
+    "gulp-mocha": "3.0.1",
+    "gulp-rename": "1.2.2",
+    "gulp-replace": "0.5.4",
+    "gulp-uglify": "2.0.1",
+    "mkdirp": "0.5.1",
+    "coveralls": "2.11.16",
+    "istanbul": "0.4.5"
+  },
+  "main": "index.js",
+  "keywords": [
+    "random",
+    "shuffle",
+    "array"
+  ],
+  "license": "MIT"
+}

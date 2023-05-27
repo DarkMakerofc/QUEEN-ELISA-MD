@@ -1,0 +1,50 @@
+{
+	"name": "node-superfetch",
+	"version": "0.1.11",
+	"description": "A wrapper for node-fetch that makes it appear like superagent.",
+	"main": "index.js",
+	"typings": "typings/index.d.ts",
+	"scripts": {
+		"test": "npm run lint",
+		"lint": "eslint . --ext .js --ext .json"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/dragonfire535/node-superfetch.git"
+	},
+	"keywords": [
+		"fetch",
+		"node-fetch",
+		"superagent",
+		"snekfetch",
+		"request",
+		"http",
+		"https"
+	],
+	"author": "dragonfire535 <danielbodendahl@gmail.com>",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/dragonfire535/node-superfetch/issues"
+	},
+	"homepage": "https://github.com/dragonfire535/node-superfetch#readme",
+	"engines": {
+		"node": ">=8"
+	},
+	"dependencies": {
+		"form-data": "^3.0.0",
+		"node-fetch": "^2.6.0"
+	},
+	"devDependencies": {
+		"@types/node": "^14.14.22",
+		"eslint": "^7.19.0",
+		"eslint-config-amber": "^2.0.1",
+		"eslint-plugin-json": "^2.0.1",
+		"typescript": "^4.1.3"
+	},
+	"eslintConfig": {
+		"extends": "amber",
+		"plugins": [
+			"json"
+		]
+	}
+}

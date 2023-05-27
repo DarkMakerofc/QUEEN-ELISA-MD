@@ -1,0 +1,21 @@
+{
+  "name": "genshin-api",
+  "version": "2.1.0",
+  "description": "Get information about Weapon/Character/Elements etc. with one package.",
+  "main": "dist/index.js",
+  "keywords": [
+    "genshin-impact",
+    "genshin",
+    "genshin-api",
+    "genshin-weapons",
+    "genshin-characters",
+    "genshin-boss",
+    "genshin-artifacts",
+    "genshin-elements"
+  ],
+  "author": "dominic-ktz",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "2.6.1"
+  }
+}

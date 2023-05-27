@@ -1,0 +1,9 @@
+/** Instagram Highlight query */
+export declare const highlight_ids_query: (userId: string) => {
+    query_hash: string;
+    variables: string;
+};
+export declare const highlight_media_query: (ids: string) => {
+    query_hash: string;
+    variables: string;
+};

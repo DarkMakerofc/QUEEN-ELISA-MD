@@ -1,0 +1,35 @@
+{
+  "name": "emoji-api",
+  "version": "1.0.2",
+  "description": "Simple Emoji API",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "cd test && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevSnowflake/emoji-api.git"
+  },
+  "keywords": [
+    "emoji",
+    "emoji-api",
+    "parser",
+    "emoji-parser"
+  ],
+  "author": "Snowflake107",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/DevSnowflake/emoji-api/issues"
+  },
+  "homepage": "https://github.com/DevSnowflake/emoji-api#readme",
+  "dependencies": {
+    "jsdom": "^16.4.0",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "@types/jsdom": "^16.2.5",
+    "@types/node-fetch": "^2.5.7"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "match-sorter",
+  "version": "4.2.1",
+  "description": "Simple, expected, and deterministic best-match sorting of an array in JavaScript",
+  "main": "dist/match-sorter.cjs.js",
+  "module": "dist/match-sorter.esm.js",
+  "scripts": {
+    "build": "kcd-scripts build --bundle --environment BUILD_NAME:matchSorter",
+    "lint": "kcd-scripts lint",
+    "setup": "npm install && npm run validate -s",
+    "test": "kcd-scripts test",
+    "test:update": "npm test -- --updateSnapshot --coverage",
+    "validate": "kcd-scripts validate"
+  },
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "autocomplete",
+    "filter list",
+    "sort",
+    "advanced sort",
+    "user intuitive sort"
+  ],
+  "author": "Kent C. Dodds <me@kentcdodds.com> (https://kentcdodds.com)",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/runtime": "^7.10.5",
+    "remove-accents": "0.4.2"
+  },
+  "devDependencies": {
+    "kcd-scripts": "^6.2.4"
+  },
+  "eslintConfig": {
+    "extends": [
+      "./node_modules/kcd-scripts/eslint.js"
+    ]
+  },
+  "eslintIgnore": [
+    "node_modules",
+    "coverage",
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kentcdodds/match-sorter"
+  },
+  "bugs": {
+    "url": "https://github.com/kentcdodds/match-sorter/issues"
+  },
+  "homepage": "https://github.com/kentcdodds/match-sorter#readme"
+}

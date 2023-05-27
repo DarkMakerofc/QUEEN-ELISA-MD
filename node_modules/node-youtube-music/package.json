@@ -1,0 +1,40 @@
+{
+  "name": "node-youtube-music",
+  "description": "Unofficial YouTube Music API for Node.js",
+  "version": "0.8.3",
+  "main": "dist/src/index.js",
+  "types": "dist/src/index.d.ts",
+  "repository": "https://github.com/baptisteArno/node-youtube-music",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "author": "Baptiste Arnaud <contact@baptiste-arnaud.fr>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^26.0.21",
+    "@typescript-eslint/eslint-plugin": "^4.18.0",
+    "@typescript-eslint/parser": "^4.18.0",
+    "eslint": "^7.22.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^8.1.0",
+    "eslint-plugin-import": "^2.22.1",
+    "jest": "^26.6.3",
+    "prettier": "^2.2.1",
+    "ts-jest": "^26.5.4",
+    "typescript": "^4.2.3"
+  },
+  "scripts": {
+    "start:example:search": "yarn build && node dist/examples/search",
+    "start:example:suggestions": "yarn build && node dist/examples/getSuggestions",
+    "start:example:searchPlaylists": "yarn build && node dist/examples/searchPlaylists",
+    "start:example:searchAlbums": "yarn build && node dist/examples/searchAlbums",
+    "start:example:searchArtists": "yarn build && node dist/examples/searchArtists",
+    "start:example:getPlaylist": "yarn build && node dist/examples/getPlaylist",
+    "start:example:getAlbum": "yarn build && node dist/examples/getAlbum",
+    "build": "eslint src/**/* examples/**/* && tsc",
+    "test": "yarn build && jest"
+  },
+  "dependencies": {
+    "got": "^11.8.2"
+  }
+}

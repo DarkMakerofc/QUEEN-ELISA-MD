@@ -1,0 +1,25 @@
+{
+  "name": "os",
+  "version": "0.1.2",
+  "description": "NodeJS Core Module Extended",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoRBaquero/node-os.git"
+  },
+  "keywords": [
+    "node",
+    "os",
+    "core",
+    "module"
+  ],
+  "author": "Diego Rodríguez Baquero <diegorbaquero@gmail.com> (https://diegorbaquero.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DiegoRBaquero/node-os/issues"
+  },
+  "homepage": "https://github.com/DiegoRBaquero/node-os#readme"
+}

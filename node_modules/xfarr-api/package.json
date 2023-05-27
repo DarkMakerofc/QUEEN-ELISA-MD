@@ -1,0 +1,27 @@
+{
+  "name": "xfarr-api",
+  "version": "1.0.3",
+  "description": "YNTKTS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "request": "^2.88.2"
+  },
+  "keywords": [
+    "xfar-api"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xfar05/xfarr-api.git"
+  },
+  "author": "XFar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xfar05/xfarr-api/issues"
+  },
+  "homepage": "https://github.com/xfar05/xfarr-api#readme"
+}

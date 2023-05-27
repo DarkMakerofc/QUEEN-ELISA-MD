@@ -1,0 +1,12 @@
+{
+    "alphaCoders": "https://wall.alphacoders.com/search.php",
+    "wallpaperCave": "https://wallpapercave.com",
+    "free4kWallpaper": "https://free4kwallpapers.com",
+    "wallHaven": "https://wallhaven.cc",
+    "zerochan": "https://www.zerochan.net",
+    "type": {
+        "sfw": "100",
+        "sketchy": "010",
+        "both": "110"
+    }
+}

@@ -1,0 +1,11 @@
+exports.tiktok = require("../lib/download/tiktok");
+exports.mediafire = require("../lib/download/mediafire");
+exports.igstory = require("../lib/download/igstory");
+exports.instagram = require("../lib/download/instagram.js");
+exports.igstalk = require("../lib/stalk/igstalk");
+exports.textpro = require("../lib/textmaker/textpro");
+exports.photooxy = require("../lib/textmaker/photooxy");
+exports.ephoto = require("../lib/textmaker/ephoto");
+exports.ephoto2 = require("../lib/textmaker/ephoto2");
+exports.ephoto3 = require("../lib/textmaker/ephoto3");
+exports.ephoto4 = require("../lib/textmaker/ephoto4");

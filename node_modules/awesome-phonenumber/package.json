@@ -1,0 +1,66 @@
+{
+  "name": "awesome-phonenumber",
+  "description": "Google's libphonenumber pre-compiled with the closure compiler",
+  "license": "MIT",
+  "version": "2.73.0",
+  "author": "Gustaf Räntilä <g.rantila@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grantila/awesome-phonenumber.git"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "main": "./index.js",
+  "types": "./index.d.ts",
+  "scripts": {
+    "build:libphonenumber": "node_modules/.bin/gulp",
+    "build:rewrite": "ts-node scripts/rewrite.ts",
+    "build": "yarn build:libphonenumber && yarn build:rewrite",
+    "test": "scripts/test.sh",
+    "cz": "git-cz",
+    "semantic-release": "semantic-release"
+  },
+  "pre-commit": [
+    "test"
+  ],
+  "files": [
+    "lib",
+    "index.js",
+    "index.d.ts"
+  ],
+  "keywords": [
+    "libphonenumber",
+    "phonenumber",
+    "phone",
+    "number",
+    "closure",
+    "web",
+    "browser",
+    "browserify",
+    "awesome"
+  ],
+  "devDependencies": {
+    "@types/mkdirp": "^1.0.1",
+    "@types/mocha": "8.2.2",
+    "@types/node": "^16.11.12",
+    "chai": "4.3.4",
+    "commitizen": "^4.2.4",
+    "cz-conventional-changelog": "^3.3.0",
+    "google-closure-compiler": "20210907.0.0",
+    "google-closure-library": "^20210808.0.0",
+    "gulp": "4.0.2",
+    "mkdirp": "1.0.4",
+    "mocha": "8.4.0",
+    "pre-commit": "1.x",
+    "replace": "1.2.1",
+    "rimraf-promise": "2.x",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.2.4"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}

@@ -1,0 +1,486 @@
+<html>
+  <head>
+    <style>
+      .zhay {
+        overflow: hidden;
+        margin-bottom: 10px !important;
+      }
+      .left {
+        float: left;
+      }
+      .zhay .left {
+        padding: 0;
+        margin: 0;
+        width: 85px;
+        position: relative;
+      }
+      .zhay .left img {
+        width: 75px;
+        height: 75px;
+        border-radius: 16px;
+        display: block;
+        object-fit: cover;
+      }
+      .right {
+        float: right;
+      }
+      .zhay .right {
+        width: 250px;
+      }
+      .abuttons {
+        margin-bottom: 1em;
+        align-items: center;
+        display: block;
+      }
+      .mb-0 {
+        margin-bottom: 0 !important;
+      }
+      .abutton {
+        display: inline-flex;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        font-size: 14px;
+        padding: 5px 0.75em;
+        cursor: pointer;
+        justify-content: center;
+        text-align: center;
+        vertical-align: top;
+        align-items: center;
+        -webkit-appearance: none;
+        white-space: nowrap;
+        background-color: #fff;
+      }
+      .abuttons .abutton {
+        margin-bottom: 0.75rem;
+        display: inline-block;
+      }
+      .abutton.is-fullwidth {
+        display: block;
+        width: 100%;
+      }
+      .abutton.is-success {
+        background-color: #007bff;
+        color: #fff;
+        border-color: transparent;
+        box-shadow: 0 3px 1px -2px rgba(0, 0, 0, 0.2),
+          0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+      }
+      i.icon + span {
+        display: table-cell;
+      }
+      .abutton i.icon + span {
+        padding-left: 3px;
+      }
+      .zhay .center {
+        height: 100%;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+      }
+      .zhay .center > * {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+      .zhay .center h1 {
+        font-size: 16px;
+        font-weight: 600;
+        margin-bottom: 7px;
+        margin-top: 0;
+      }
+      .zhay .center h2,
+      .zhay .center p {
+        color: #333;
+      }
+      .zhay .center p {
+        display: inline;
+        vertical-align: top;
+        margin-top: -3px;
+      }
+      .blur {
+        color: #707570;
+        font-size: 14px;
+      }
+      .zhay .left .iconplay {
+        width: 25px;
+        height: auto;
+        border-radius: unset;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      }
+      @media screen and (max-width: 1024px) {
+        .is-desktop-only {
+          display: none !important;
+        }
+      }
+      @media screen and (min-width: 1025px) {
+        .is-mobile-only {
+          display: none !important;
+        }
+      }
+      .abutton.zihay {
+        background-color: #e74c3c;
+      }
+      .abutton.zihay:after {
+        content: "Top Trending TikTok";
+        margin-left: 4px;
+        color: #2c3e50;
+      }
+      .modal-video {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.5);
+        z-index: 1000000;
+        cursor: pointer;
+        opacity: 1;
+        animation-timing-function: ease-out;
+        animation-duration: 0.3s;
+        animation-name: modal-video;
+        -webkit-transition: opacity 0.3s ease-out;
+        -moz-transition: opacity 0.3s ease-out;
+        -ms-transition: opacity 0.3s ease-out;
+        -o-transition: opacity 0.3s ease-out;
+        transition: opacity 0.3s ease-out;
+      }
+      .modal-video-body {
+        max-width: 940px;
+        width: 100%;
+        height: 100%;
+        margin: 0 auto;
+        display: table;
+      }
+      .modal-video-inner {
+        display: table-cell;
+        vertical-align: middle;
+        width: 100%;
+        height: 100%;
+      }
+      .modal-video-movie-wrap {
+        width: 100%;
+        height: 0;
+        position: relative;
+        padding-bottom: 56.25%;
+        background-color: #333;
+        animation-timing-function: ease-out;
+        animation-duration: 0.3s;
+        animation-name: modal-video-inner;
+        -webkit-transform: translate(0, 0);
+        -moz-transform: translate(0, 0);
+        -ms-transform: translate(0, 0);
+        -o-transform: translate(0, 0);
+        transform: translate(0, 0);
+        -webkit-transition: -webkit-transform 0.3s ease-out;
+        -moz-transition: -moz-transform 0.3s ease-out;
+        -ms-transition: -ms-transform 0.3s ease-out;
+        -o-transition: -o-transform 0.3s ease-out;
+        transition: transform 0.3s ease-out;
+      }
+      .modal-video-close-btn {
+        position: absolute;
+        z-index: 2;
+        top: -35px;
+        right: 0;
+        display: inline-block;
+        width: 35px;
+        height: 35px;
+        overflow: hidden;
+        border: none;
+        background: 0 0;
+      }
+      .modal-video-movie-wrap video {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+      }
+      .modal-video-close-btn:after,
+      .modal-video-close-btn:before {
+        content: "";
+        position: absolute;
+        height: 2px;
+        width: 100%;
+        top: 50%;
+        left: 0;
+        margin-top: -1px;
+        background: #fff;
+        border-radius: 5px;
+        margin-top: -6px;
+      }
+      .modal-video-close-btn:before {
+        transform: rotate(45deg);
+      }
+      .modal-video-close-btn:after {
+        transform: rotate(-45deg);
+      }
+      .alert-warning {
+        margin-bottom: 22px;
+        border: 1px solid transparent;
+        border-radius: 6px;
+        margin: 10px auto;
+        padding: 10px;
+        font-size: 16px;
+        background-color: #fcf8e3;
+        border-color: #faebcc;
+        color: #007bff;
+      }
+      .hook {
+        display: none;
+      }
+      .mt-download {
+        margin-bottom: 10px;
+      }
+      .guide {
+        display: none;
+      }
+      .btn-secondary {
+        color: #fff;
+        background-color: #6c757d;
+        border-color: #6c757d;
+      }
+      .btn-secondary:hover {
+        color: #fff;
+        background-color: #5c636a;
+        border-color: #565e64;
+      }
+      .row.back-home {
+        display: flex;
+        justify-content: center;
+        margin-top: 1rem;
+      }
+      .icon {
+        display: table-cell;
+        height: 1em;
+        width: 1em;
+      }
+      .icon-back {
+        background: url(/img/back.svg) no-repeat center;
+        width: 16px;
+        height: 16px;
+      }
+      .span-icon {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .icon.video {
+        background: url(/img/download.svg) no-repeat center;
+        width: 16px;
+        height: 16px;
+      }
+      .span-icon .icon {
+        margin-right: 5px;
+      }
+    </style>
+    <style>
+      textarea.form-control {
+        display: block;
+        padding: 0.375rem 0.75rem;
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #495057;
+        background-color: #fff;
+        background-clip: padding-box;
+        border: 1px solid #ced4da;
+        border-radius: 0.25rem;
+        transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+        overflow: auto;
+        resize: vertical;
+        height: auto;
+        width: 100%;
+      }
+      .share {
+        margin-top: 10px;
+      }
+      .share a {
+        padding: 3px 7px;
+        margin: 0;
+        background-color: #3b5998;
+        color: #fff;
+        line-height: 20px;
+        display: inline-block;
+        border: 1px solid #ddd;
+        border-radius: 6px;
+      }
+      .share a.whatsapp {
+        background-color: #4dc247;
+      }
+      .share a.twitter {
+        background-color: #1da1f2;
+      }
+      .share .share_item.copylink {
+        color: #fff;
+        background-color: #95a5a6;
+      }
+    </style>
+  </head>
+  <body>
+    <section class="section">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <article class="zhay mb-10" style="margin-top: 15px">
+              <div
+                class="zhay-left left"
+                onclick="document.getElementById('md-preview').style.display = 'block';document.getElementById('videopre').play();"
+              >
+                <img
+                  src="https://p16-va-default.akamaized.net/img/tos-maliva-p-0068/345edef0d7d2448ee00e647902507747~c5_300x400.jpg"
+                  class="lazy"
+                  data-src="https://p16-va-default.akamaized.net/img/tos-maliva-p-0068/345edef0d7d2448ee00e647902507747~c5_300x400.jpg"
+                  alt=""
+                />
+              </div>
+              <div
+                class="zhay-right is-desktop-only right"
+                style="width: 250px"
+              >
+                <div class="abuttons mb-0">
+                  <a
+                    onclick="ga('send', 'event', 'home', 'click_download_mp4_snaptik');"
+                    href="https://snaptik.app/dl2021.php?token=aHR0cHM6Ly92MTYudGlrdG9rY2RuLmNvbS83NzBjNTM0MWJjNzMyNzkxNWNlZDdhOTEzNjY1OGFmNy82MDc2YTJjNC92aWRlby90b3MvdXNlYXN0MmEvdG9zLXVzZWFzdDJhLXB2ZS0wMDY4L2EyMGNhZDZjMTk0NTQzMTJhMmVjNDVkYWJhNTI0YjQ2Lz9hPTEyMzMmYW1wO2JyPTMxNDImYW1wO2J0PTE1NzEmYW1wO2NkPTAlN0MwJTdDMCZhbXA7Y2g9MCZhbXA7Y3I9MCZhbXA7Y3M9MCZhbXA7Y3Y9MSZhbXA7ZHI9MCZhbXA7ZHM9NiZhbXA7ZXI9JmFtcDtsPTIwMjEwNDE0MDIwNzIyMDEwMTkwMjE5MjEwMzg2M0IzNDgmYW1wO2xyPSZhbXA7bWltZV90eXBlPXZpZGVvX21wNCZhbXA7bmV0PTAmYW1wO3BsPTAmYW1wO3FzPTAmYW1wO3JjPWFqaHhiWGxtZVdadWN6TXpORGN6TTBBcFBHZG5aVHcyTldWbE56cHBQRHcxWm1kZlpUSmdhMkEwYlcxZkxTMHdNVFp6Y3pVMk0xOWlZV00xTXk1ZVlTMHlYek02WXclM0QlM0QmYW1wO3ZsPSZhbXA7dnI%3D&amp;name=phil-behncke&amp;id_video=6805867805452324102"
+                    class="abutton is-success is-fullwidth"
+                    rel="nofollow"
+                    title="Download Server 01"
+                    ><span class="span-icon"
+                      ><i class="icon video"></i
+                      ><span>Download Server 01</span></span
+                    ></a
+                  >
+                  <a
+                    onclick="ga('send', 'event', 'home', 'click_download_mp4_tikcdn');"
+                    href="https://tikcdn.net/dl.php?token=saHR0cHM6Ly92MTYudGlrdG9rY2RuLmNvbS83NzBjNTM0MWJjNzMyNzkxNWNlZDdhOTEzNjY1OGFmNy82MDc2YTJjNC92aWRlby90b3MvdXNlYXN0MmEvdG9zLXVzZWFzdDJhLXB2ZS0wMDY4L2EyMGNhZDZjMTk0NTQzMTJhMmVjNDVkYWJhNTI0YjQ2Lz9hPTEyMzMmYW1wO2JyPTMxNDImYW1wO2J0PTE1NzEmYW1wO2NkPTAlN0MwJTdDMCZhbXA7Y2g9MCZhbXA7Y3I9MCZhbXA7Y3M9MCZhbXA7Y3Y9MSZhbXA7ZHI9MCZhbXA7ZHM9NiZhbXA7ZXI9JmFtcDtsPTIwMjEwNDE0MDIwNzIyMDEwMTkwMjE5MjEwMzg2M0IzNDgmYW1wO2xyPSZhbXA7bWltZV90eXBlPXZpZGVvX21wNCZhbXA7bmV0PTAmYW1wO3BsPTAmYW1wO3FzPTAmYW1wO3JjPWFqaHhiWGxtZVdadWN6TXpORGN6TTBBcFBHZG5aVHcyTldWbE56cHBQRHcxWm1kZlpUSmdhMkEwYlcxZkxTMHdNVFp6Y3pVMk0xOWlZV00xTXk1ZVlTMHlYek02WXclM0QlM0QmYW1wO3ZsPSZhbXA7dnJ6X3o2ODA1ODY3ODA1NDUyMzI0MTAyel96cGhpbC1iZWhuY2tls"
+                    class="abutton is-success is-fullwidth"
+                    rel="nofollow"
+                    title="Download Server 02"
+                    ><span class="span-icon"
+                      ><i class="icon video"></i
+                      ><span>Download Server 02</span></span
+                    ></a
+                  >
+                  <a
+                    onclick="ga('send', 'event', 'home', 'click_download_mp4_sv3');"
+                    href="https://cdn1.snaptik.app/dl.php?token=aHR0cHM6Ly92MTYudGlrdG9rY2RuLmNvbS83NzBjNTM0MWJjNzMyNzkxNWNlZDdhOTEzNjY1OGFmNy82MDc2YTJjNC92aWRlby90b3MvdXNlYXN0MmEvdG9zLXVzZWFzdDJhLXB2ZS0wMDY4L2EyMGNhZDZjMTk0NTQzMTJhMmVjNDVkYWJhNTI0YjQ2Lz9hPTEyMzMmYW1wO2JyPTMxNDImYW1wO2J0PTE1NzEmYW1wO2NkPTAlN0MwJTdDMCZhbXA7Y2g9MCZhbXA7Y3I9MCZhbXA7Y3M9MCZhbXA7Y3Y9MSZhbXA7ZHI9MCZhbXA7ZHM9NiZhbXA7ZXI9JmFtcDtsPTIwMjEwNDE0MDIwNzIyMDEwMTkwMjE5MjEwMzg2M0IzNDgmYW1wO2xyPSZhbXA7bWltZV90eXBlPXZpZGVvX21wNCZhbXA7bmV0PTAmYW1wO3BsPTAmYW1wO3FzPTAmYW1wO3JjPWFqaHhiWGxtZVdadWN6TXpORGN6TTBBcFBHZG5aVHcyTldWbE56cHBQRHcxWm1kZlpUSmdhMkEwYlcxZkxTMHdNVFp6Y3pVMk0xOWlZV00xTXk1ZVlTMHlYek02WXclM0QlM0QmYW1wO3ZsPSZhbXA7dnI%3D&amp;name=phil-behncke&amp;id_video=6805867805452324102"
+                    class="abutton is-success is-fullwidth"
+                    rel="nofollow"
+                    title="Download Server 03"
+                    ><span class="span-icon"
+                      ><i class="icon video"></i
+                      ><span>Download Server 03</span></span
+                    ></a
+                  >
+                  <a
+                    onclick="ga('send', 'event', 'home', 'click_download_mp4_sv4');"
+                    href="https://v16.tiktokcdn.com/770c5341bc7327915ced7a9136658af7/6076a2c4/video/tos/useast2a/tos-useast2a-pve-0068/a20cad6c19454312a2ec45daba524b46/?a=1233&amp;br=3142&amp;bt=1571&amp;cd=0%7C0%7C0&amp;ch=0&amp;cr=0&amp;cs=0&amp;cv=1&amp;dr=0&amp;ds=6&amp;er=&amp;l=202104140207220101902192103863B348&amp;lr=&amp;mime_type=video_mp4&amp;net=0&amp;pl=0&amp;qs=0&amp;rc=ajhxbXlmeWZuczMzNDczM0ApPGdnZTw2NWVlNzppPDw1ZmdfZTJga2A0bW1fLS0wMTZzczU2M19iYWM1My5eYS0yXzM6Yw%3D%3D&amp;vl=&amp;vr"
+                    class="abutton is-success is-fullwidth"
+                    rel="nofollow"
+                    title="Download Server 04"
+                    target="_blank"
+                    ><span class="span-icon"
+                      ><i class="icon video"></i
+                      ><span>Download Server 04 (Source)</span></span
+                    ></a
+                  >
+                </div>
+              </div>
+              <div class="zhay-middle center">
+                <h1>
+                  <a
+                    onclick="ga('send', 'event', 'home', 'click_h1');"
+                    href=""
+                    class="hover-underline"
+                    style="color: inherit"
+                    title=""
+                    >Phil Behncke</a
+                  >
+                </h1>
+                <p>
+                  <span
+                    >Schicke dies jemanden, mit dem du genauso wegfliegen
+                    möchtest!! 🌏 #foryou #nordsee #fyp</span
+                  >
+                </p>
+                <p style="display: block">
+                  <b class="blur" style="font-weight: 400">March 19, 2020</b>
+                </p>
+              </div>
+            </article>
+            <div
+              id="download-block"
+              style="margin-top: 15px"
+              class="is-mobile-only"
+            >
+              <div class="abuttons">
+                <a
+                  onclick="ga('send', 'event', 'home', 'click_download_mp4_snaptik');"
+                  href="https://snaptik.app/dl2021.php?token=aHR0cHM6Ly92MTYudGlrdG9rY2RuLmNvbS83NzBjNTM0MWJjNzMyNzkxNWNlZDdhOTEzNjY1OGFmNy82MDc2YTJjNC92aWRlby90b3MvdXNlYXN0MmEvdG9zLXVzZWFzdDJhLXB2ZS0wMDY4L2EyMGNhZDZjMTk0NTQzMTJhMmVjNDVkYWJhNTI0YjQ2Lz9hPTEyMzMmYW1wO2JyPTMxNDImYW1wO2J0PTE1NzEmYW1wO2NkPTAlN0MwJTdDMCZhbXA7Y2g9MCZhbXA7Y3I9MCZhbXA7Y3M9MCZhbXA7Y3Y9MSZhbXA7ZHI9MCZhbXA7ZHM9NiZhbXA7ZXI9JmFtcDtsPTIwMjEwNDE0MDIwNzIyMDEwMTkwMjE5MjEwMzg2M0IzNDgmYW1wO2xyPSZhbXA7bWltZV90eXBlPXZpZGVvX21wNCZhbXA7bmV0PTAmYW1wO3BsPTAmYW1wO3FzPTAmYW1wO3JjPWFqaHhiWGxtZVdadWN6TXpORGN6TTBBcFBHZG5aVHcyTldWbE56cHBQRHcxWm1kZlpUSmdhMkEwYlcxZkxTMHdNVFp6Y3pVMk0xOWlZV00xTXk1ZVlTMHlYek02WXclM0QlM0QmYW1wO3ZsPSZhbXA7dnI%3D&amp;name=phil-behncke&amp;id_video=6805867805452324102"
+                  class="abutton is-success is-fullwidth"
+                  rel="nofollow"
+                  title="Download Server 01"
+                  ><span class="span-icon"
+                    ><i class="icon video"></i
+                    ><span>Download Server 01</span></span
+                  ></a
+                >
+                <a
+                  onclick="ga('send', 'event', 'home', 'click_download_mp4_tikcdn');"
+                  href="https://tikcdn.net/dl.php?token=saHR0cHM6Ly92MTYudGlrdG9rY2RuLmNvbS83NzBjNTM0MWJjNzMyNzkxNWNlZDdhOTEzNjY1OGFmNy82MDc2YTJjNC92aWRlby90b3MvdXNlYXN0MmEvdG9zLXVzZWFzdDJhLXB2ZS0wMDY4L2EyMGNhZDZjMTk0NTQzMTJhMmVjNDVkYWJhNTI0YjQ2Lz9hPTEyMzMmYW1wO2JyPTMxNDImYW1wO2J0PTE1NzEmYW1wO2NkPTAlN0MwJTdDMCZhbXA7Y2g9MCZhbXA7Y3I9MCZhbXA7Y3M9MCZhbXA7Y3Y9MSZhbXA7ZHI9MCZhbXA7ZHM9NiZhbXA7ZXI9JmFtcDtsPTIwMjEwNDE0MDIwNzIyMDEwMTkwMjE5MjEwMzg2M0IzNDgmYW1wO2xyPSZhbXA7bWltZV90eXBlPXZpZGVvX21wNCZhbXA7bmV0PTAmYW1wO3BsPTAmYW1wO3FzPTAmYW1wO3JjPWFqaHhiWGxtZVdadWN6TXpORGN6TTBBcFBHZG5aVHcyTldWbE56cHBQRHcxWm1kZlpUSmdhMkEwYlcxZkxTMHdNVFp6Y3pVMk0xOWlZV00xTXk1ZVlTMHlYek02WXclM0QlM0QmYW1wO3ZsPSZhbXA7dnJ6X3o2ODA1ODY3ODA1NDUyMzI0MTAyel96cGhpbC1iZWhuY2tls"
+                  class="abutton is-success is-fullwidth"
+                  rel="nofollow"
+                  title="Download Server 02"
+                  ><span class="span-icon"
+                    ><i class="icon video"></i
+                    ><span>Download Server 02</span></span
+                  ></a
+                >
+                <a
+                  onclick="ga('send', 'event', 'home', 'click_download_mp4_sv3');"
+                  href="https://cdn2.snaptik.app/dl.php?token=aHR0cHM6Ly92MTYudGlrdG9rY2RuLmNvbS83NzBjNTM0MWJjNzMyNzkxNWNlZDdhOTEzNjY1OGFmNy82MDc2YTJjNC92aWRlby90b3MvdXNlYXN0MmEvdG9zLXVzZWFzdDJhLXB2ZS0wMDY4L2EyMGNhZDZjMTk0NTQzMTJhMmVjNDVkYWJhNTI0YjQ2Lz9hPTEyMzMmYW1wO2JyPTMxNDImYW1wO2J0PTE1NzEmYW1wO2NkPTAlN0MwJTdDMCZhbXA7Y2g9MCZhbXA7Y3I9MCZhbXA7Y3M9MCZhbXA7Y3Y9MSZhbXA7ZHI9MCZhbXA7ZHM9NiZhbXA7ZXI9JmFtcDtsPTIwMjEwNDE0MDIwNzIyMDEwMTkwMjE5MjEwMzg2M0IzNDgmYW1wO2xyPSZhbXA7bWltZV90eXBlPXZpZGVvX21wNCZhbXA7bmV0PTAmYW1wO3BsPTAmYW1wO3FzPTAmYW1wO3JjPWFqaHhiWGxtZVdadWN6TXpORGN6TTBBcFBHZG5aVHcyTldWbE56cHBQRHcxWm1kZlpUSmdhMkEwYlcxZkxTMHdNVFp6Y3pVMk0xOWlZV00xTXk1ZVlTMHlYek02WXclM0QlM0QmYW1wO3ZsPSZhbXA7dnI%3D&amp;name=phil-behncke&amp;id_video=6805867805452324102"
+                  class="abutton is-success is-fullwidth"
+                  rel="nofollow"
+                  title="Download Server 03"
+                  ><span class="span-icon"
+                    ><i class="icon video"></i
+                    ><span>Download Server 03</span></span
+                  ></a
+                >
+                <a
+                  onclick="ga('send', 'event', 'home', 'click_download_mp4_sv4');"
+                  href="https://v16.tiktokcdn.com/770c5341bc7327915ced7a9136658af7/6076a2c4/video/tos/useast2a/tos-useast2a-pve-0068/a20cad6c19454312a2ec45daba524b46/?a=1233&amp;br=3142&amp;bt=1571&amp;cd=0%7C0%7C0&amp;ch=0&amp;cr=0&amp;cs=0&amp;cv=1&amp;dr=0&amp;ds=6&amp;er=&amp;l=202104140207220101902192103863B348&amp;lr=&amp;mime_type=video_mp4&amp;net=0&amp;pl=0&amp;qs=0&amp;rc=ajhxbXlmeWZuczMzNDczM0ApPGdnZTw2NWVlNzppPDw1ZmdfZTJga2A0bW1fLS0wMTZzczU2M19iYWM1My5eYS0yXzM6Yw%3D%3D&amp;vl=&amp;vr"
+                  class="abutton is-success is-fullwidth"
+                  rel="nofollow"
+                  title="Download Server 04"
+                  target="_blank"
+                  ><span class="span-icon"
+                    ><i class="icon video"></i
+                    ><span>Download Server 04 (Source)</span></span
+                  ></a
+                >
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row back-home">
+          <div class="col-md-6">
+            <a
+              onclick="ga('send', 'event', 'home', 'click_back_home');"
+              href="/"
+              class="abutton btn-secondary is-fullwidth"
+              title="Download other videos"
+              ><span class="span-icon"
+                ><i class="icon icon-back"></i
+                ><span>Download other videos</span></span
+              ></a
+            >
+          </div>
+        </div>
+      </div>
+    </section>
+  </body>
+</html>

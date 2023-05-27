@@ -1,0 +1,41 @@
+{
+  "name": "remove.bg",
+  "version": "1.3.0",
+  "description": "A simple but effective wrapper for the remove.bg API",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc --p .",
+    "before-test": "npm run build && tsc --p ./examples",
+    "test-remove-from-url": "npm run before-test && node examples/removeFromUrl.js",
+    "test-remove-from-file": "npm run before-test && node examples/removeFromFile.js",
+    "test-remove-from-base64": "npm run before-test && node examples/removeFromBase64.js",
+    "test-remove-from-file-with-crop-and-scale": "npm run before-test && node examples/removeFromFileWithCropAndScale.js",
+    "test-remove-from-file-with-new-background": "npm run before-test && node examples/removeFromFileWithNewBackground.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EddyVerbruggen/remove.bg.git"
+  },
+  "keywords": [
+    "remove.bg",
+    "remove background",
+    "image processing",
+    "background image"
+  ],
+  "author": "Eddy Verbruggen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EddyVerbruggen/remove.bg/issues"
+  },
+  "homepage": "https://github.com/EddyVerbruggen/remove.bg#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "unirest": "~0.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.18",
+    "@types/request": "^2.48.1",
+    "typescript": "~3.2.4"
+  }
+}

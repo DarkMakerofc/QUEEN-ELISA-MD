@@ -1,0 +1,30 @@
+{
+  "name": "tod-api",
+  "version": "1.0.5",
+  "description": "tod-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogipw/tod-api.git"
+  },
+  "keywords": [
+    "gk tau"
+  ],
+  "author": "yogipw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogipw/tod-api/issues"
+  },
+  "homepage": "https://github.com/yogipw/tod-api#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "qs": "^6.10.1"
+  },
+  "directories": {
+    "lib": "lib"
+  }
+}

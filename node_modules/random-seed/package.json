@@ -1,0 +1,43 @@
+{
+  "name": "random-seed",
+  "version": "0.3.0",
+  "description": "GRC's UHE PRNG in node (Ultra-High Entropy Pseudo-Random Number Generator by Gibson Research Corporation)",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "skratchdot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skratchdot/random-seed/issues"
+  },
+  "homepage": "https://github.com/skratchdot/random-seed",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/skratchdot/random-seed.git"
+  },
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "dependencies": {
+    "json-stringify-safe": "^5.0.1"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "coveralls": "^2.11.4",
+    "gulp": "^3.9.0",
+    "gulp-eslint": "^1.1.1",
+    "gulp-istanbul": "^0.10.3",
+    "gulp-mocha": "^2.2.0",
+    "isparta": "^4.0.0"
+  },
+  "tonicExampleFilename": ".tonic.example.js",
+  "keywords": [
+    "random",
+    "number",
+    "generator",
+    "seed",
+    "uhe",
+    "prng"
+  ]
+}

@@ -1,0 +1,30 @@
+language: node_js
+
+node_js:
+  - "8"
+  - "9"
+  - "10"
+  - "11"
+  - "12"
+
+install:
+  - npm install
+
+script:
+  - npm run test
+  - npm run cloc
+after_success: npm run coverage
+
+cache:
+  directories:
+    - "node_modules"
+
+deploy:
+  provider: npm
+  email: kylart.dev@gmail.com
+  api_key: $NPM_TOKEN
+  on:
+    branch: master
+
+notifications:
+  email: false

@@ -1,0 +1,34 @@
+{
+  "name": "reddit-image-fetcher",
+  "version": "2.0.11",
+  "description": "A JavaScript package for fetching reddit images, memes, wallpapers and more",
+  "main": "index.js",
+  "typings": "./index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/arifszn/reddit-image-fetcher.git#readme",
+  "keywords": [
+    "reddit",
+    "reddit image",
+    "reddit image api",
+    "meme",
+    "memes",
+    "wallpaper",
+    "wallpapers",
+    "reddit meme",
+    "reddit wallpaper",
+    "random memes",
+    "random wallpaper"
+  ],
+  "license": "MIT",
+  "author": "arifszn",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arifszn/reddit-image-fetcher.git"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "shuffle-array": "^1.0.1"
+  }
+}

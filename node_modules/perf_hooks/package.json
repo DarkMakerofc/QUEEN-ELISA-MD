@@ -1,0 +1,19 @@
+{
+  "name": "perf_hooks",
+  "version": "0.0.1",
+  "description": "placeholder for Node core module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcollina/perf_hooks.git"
+  },
+  "author": "Matteo Collina <hello@matteocollina.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcollina/perf_hooks/issues"
+  },
+  "homepage": "https://github.com/mcollina/perf_hooks#readme"
+}

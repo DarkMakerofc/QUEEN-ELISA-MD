@@ -1,0 +1,8 @@
+test/
+dist/
+.travis.yml
+component.json
+bower.json
+Makefile
+History.md
+Gulpfile.js

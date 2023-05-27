@@ -1,0 +1,1 @@
+{"version":3,"file":"twitter.d.ts","sourceRoot":"","sources":["../../../src/social-media/twitter.ts"],"names":[],"mappings":"AAEA,OAAO,EACL,iBAAiB,EACjB,mBAAmB,EAEpB,MAAM,SAAS,CAAA;AAGhB,wBAAsB,SAAS,CAC7B,GAAG,EAAE,MAAM,GACV,OAAO,CAAC,iBAAiB,EAAE,GAAG,EAAE,CAAC,CAoCnC;AAED,wBAAsB,WAAW,CAAE,GAAG,EAAE,MAAM,GAAG,OAAO,CAAC,mBAAmB,EAAE,CAAC,CA6C9E"}

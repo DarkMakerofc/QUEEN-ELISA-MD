@@ -1,0 +1,1 @@
+{"version":3,"file":"tekateki.js","sourceRoot":"","sources":["../../../src/games/tekateki.ts"],"names":[],"mappings":";;;;;;AAAA,8CAAqB;AAIN,KAAK,UAAU,QAAQ;IACpC,IAAI,CAAC,oBAAY,EAAE;QACjB,oBAAY,GAAG,MAAM,IAAA,aAAG,EACtB,kFAAkF,CACnF,CAAC,IAAI,EAAE,CAAA;KACT;IACD,OAAO,oBAAY,CACjB,IAAI,CAAC,KAAK,CAAC,IAAI,CAAC,MAAM,EAAE,GAAG,oBAAY,CAAC,MAAM,CAAC,CACpC,CAAA;AACf,CAAC;AATD,2BASC"}

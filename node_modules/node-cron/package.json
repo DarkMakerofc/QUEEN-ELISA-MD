@@ -1,0 +1,43 @@
+{
+  "name": "node-cron",
+  "version": "3.0.2",
+  "description": "A simple cron-like task scheduler for Node.js",
+  "author": "Lucas Merencia",
+  "license": "ISC",
+  "homepage": "https://github.com/merencia/node-cron",
+  "main": "src/node-cron.js",
+  "scripts": {
+    "test": "nyc --reporter=html --reporter=text mocha --recursive",
+    "lint": "./node_modules/.bin/eslint ./src ./test",
+    "check": "npm run lint && npm test"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/merencia/node-cron.git"
+  },
+  "keywords": [
+    "cron",
+    "scheduler",
+    "schedule",
+    "task",
+    "job"
+  ],
+  "bugs": {
+    "url": "https://github.com/merencia/node-cron/issues"
+  },
+  "dependencies": {
+    "uuid": "8.3.2"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^5.7.0",
+    "istanbul": "^0.4.2",
+    "mocha": "^6.1.4",
+    "moment-timezone": "^0.5.33",
+    "nyc": "^14.0.0",
+    "sinon": "^7.3.2"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "g-i-s",
+  "version": "2.1.6",
+  "description": "Google Image Search",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jimkang/g-i-s.git"
+  },
+  "keywords": [],
+  "author": "Jim Kang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jimkang/g-i-s/issues"
+  },
+  "homepage": "https://github.com/jimkang/g-i-s",
+  "devDependencies": {
+    "eslint": "^7.4.0",
+    "tape": "^5.0.1"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "lodash.flatten": "^4.4.0",
+    "request": "^2.88.2"
+  }
+}
