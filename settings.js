@@ -84,7 +84,7 @@ global.botnma =  '𝐐𝐔𝚵𝚵𝚴 3 𝛁'
 //👇 Your name
 global.ownernma =  '𝐐𝐔𝚵𝚵𝚴 3 𝛁' 
 //👇 Sticker Author Name
-global.packname =  'Ⓥⓘⓖⓖⓞ.𝙿𝚒𝚎𝚗𝚜𝚊, 𝚜𝚞𝚎𝚗̃𝚊, 𝚌𝚛𝚎𝚎 𝚢 𝚊𝚝𝚛𝚎́𝚟𝚎𝚝𝚎🌻:𝙰𝚋𝚒-𝙳𝚊𝚗-𝚂𝚘𝚏𝚒-𝚁𝚘𝚡𝚢-𝚂𝚊𝚕𝚘-𝙶𝚎𝚛-𝙱𝚊𝚛-𝙸𝚜𝚜𝚊-𝚂𝚘𝚏𝚒𝚋𝚋-𝚂𝚛🦇-𝙺𝚒𝚛𝚒-𝙻𝚎𝚡-𝚈𝚎𝚒-𝚂𝚑𝚒𝚟𝚒𝚜🍒𝗙●𝗨●𝗖●𝗞 ≖ 𝗢●𝗙●𝗙🖕🏻😈😇' 
+global.packname =  'Ⓥⓘⓖⓖⓞ.𝙿𝚒𝚎𝚗𝚜𝚊,𝚜𝚞𝚎𝚗̃𝚊,𝚌𝚛𝚎𝚎 𝚢 𝚊𝚝𝚛𝚎́𝚟𝚎𝚝𝚎:🔹𝙰𝚋𝚒-𝙳𝚊𝚗¹²³𝚂𝚘𝚏𝚒-𝚁𝚘𝚡𝚢-𝚂𝚊𝚕𝚘-𝙶𝚎𝚛-𝙱𝚊𝚛-𝙸𝚜𝚜𝚊-𝚂𝚘𝚏𝚒𝚋𝚋-𝚂𝚛🦇-𝙺𝚒𝚛𝚒-𝙻𝚎𝚡¹²𝚈𝚎𝚒-𝚂𝚑𝚒𝚟𝚒𝚜🍒𝗙●𝗨●𝗖●𝗞≖𝗢●𝗙●𝗙🖕🏻😈😇' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
