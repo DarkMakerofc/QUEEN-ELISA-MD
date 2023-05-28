@@ -35,13 +35,13 @@ global.VOICE_REPLY = false
 //👇 Do you want show time on your bio use "true" want DISABLE use "false" , ස්වයං ක්‍රීය Bio එක ඔනි නම් true දාන්න
 global.AUTO_BIO = false
 //👇 Inbox massage block PM block , ඉන්බොක් බ්ලොක් 
-global.INBOX_BLOCK = false
+global.INBOX_BLOCK = true
 //👇 Auto react  , ස්වයංක්‍රීය රියක්ට්
 global.AUTO_REACT = false
 //👇 Bad word Auto delete ( you must add bad words ) නරක වචන ඩිලීට් කිරීම , ඔබ විසින් වචන දැමිය යුතුය 
 global.ANTI_BADWORD = false
 //👇 Kick And Auto Delete Group link Senders , ස්මූහ ස්බැදි දමන අයව ඉවත් කරයි
-global.ANTI_G_LINK = false
+global.ANTI_G_LINK = true 
 //👇 212 Number block
 global.NUMBER_212_BLOCK = false
 //👇 Send Welcome ( true or false ) වෙල්කම් ගූඩ් බායි මැසේජ් යවන්න ඔනි නම් 
@@ -55,7 +55,7 @@ global.BOT_OFFLINE = false
 //👇 Only PreFix [ true / false ]
 global.ONLY_PREFIX = false
 //👇 This uplaod youtube videos without limit ⚠️ if you use this you must have paid sever
-global.UPLOAD_MAX = false
+global.UPLOAD_MAX = true
 //👇 Desabale Bot inbox ඉන්බොක්ස් බ්ලොක් නොවී වැඩ නොකරන්නනම් 
 global.DISABLE_INBOX = false 
 //👇 DISABLE inbox message send ඉන්බොක්ස් වැඩනොකරන බවට මැසේජ් එක යැවිම true or false 
@@ -76,15 +76,15 @@ global.DISABLE_COMMAND_MESSAGE_SEND = false
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['0112941803] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 kinarawao  ²⁰²³'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  'kinarawao' 
 //👇 Your name
-global.ownernma =  'ᴍ ʀ ⃞ ɴ ɪ ᴍ ᴀ' 
+global.ownernma =  'boychildanto' 
 //👇 Sticker Author Name
-global.packname =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.packname =  '𝙼𝚁 tonny' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
@@ -100,7 +100,7 @@ global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Colombo'
 //👇 Removebg Api key
 global.REMOVE_BG_API = 'apikey get on remoebg.com'
 //👇 Change Bot Language 
-global.LANG = 'EN'
+global.LANG = 'english'
 //Alive logo
 global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
 //👇 Alive message
