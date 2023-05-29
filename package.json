@@ -1,7 +1,7 @@
 {
-  "name": "QUEEN-ELISA-MD",
+  "name": "⁣⁤᪳ᎻᏆᏢᏚᎢᎬᎡ-MD",
   "version": "3.8.6",
-  "description": "Queen Elisa Whatsapp Bot is Baileys Web base Whatsapp 3rd Party Module",
+  "description": "HIPSTER Whatsapp Bot is Baileys Web base Whatsapp 3rd Party Module",
   "type": "commonjs",
   "scripts": {
     "start": "node --max_old_space_size=8192 lib/runner/index.js"
@@ -17,7 +17,7 @@
     "multi-device",
     "dark-maker-ofc"
   ],
-  "author": "MR-NIMA",
+  "author": "MR-akshy",
   "license": "AGPL-3",
   "dependencies": {
     "@adiwajshing/baileys" : "npm:baileys-md@5.0.5",
