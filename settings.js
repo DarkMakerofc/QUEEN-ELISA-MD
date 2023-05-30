@@ -29,7 +29,7 @@ const chalk = require('chalk')
 ⚙️ BOT SETTINGS  ⚙️
 */
 //👇 if you need seen massage use " true " , මැසේජ් සීන් කරන්න ඔනි නම් true දාන්න ඔනි නැත්තම් false දාන්න
-global.READ_MASSAGE = false
+global.READ_MASSAGE = true
 //👇 enable DISABLE Girls Voice Reply , Auto Voice Reply යවන්න ඔනි නම් true දාන්න 
 global.VOICE_REPLY = false
 //👇 Do you want show time on your bio use "true" want DISABLE use "false" , ස්වයං ක්‍රීය Bio එක ඔනි නම් true දාන්න
@@ -76,19 +76,19 @@ global.DISABLE_COMMAND_MESSAGE_SEND = false
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['23437546246'] 
 //👇 Your Caption ( Image Video )
 global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
 //👇 Your Bot Name
 global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
 //👇 Your name
-global.ownernma =  'ᴍ ʀ ⃞ ɴ ɪ ᴍ ᴀ' 
+global.ownernma =  'trippie' 
 //👇 Sticker Author Name
 global.packname =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
 //👇 Inbox Block Massage 
-global.INBOX_BLOCK_MSG = 'BLOCK !!!'
+global.INBOX_BLOCK_MSG = 
 //👇 Owner React Imoji
-global.OWNER_REACT =  '💻'
+global.OWNER_REACT =  '💀'
 //👇 Song Download Massage 
 global.SONG_DOWN = '```⬇️ Downloading Your Song...```' 
 //👇 Song Uplode massage 
