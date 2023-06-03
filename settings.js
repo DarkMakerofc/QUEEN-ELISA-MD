@@ -102,7 +102,7 @@ global.REMOVE_BG_API = 'apikey get on remoebg.com'
 //👇 Change Bot Language 
 global.LANG = 'EN'
 //Alive logo
-global.alivelogo = process.env.ALIVE_IMAGE || `https://i.imgur.com/jL8EKR4.jpg`
+global.alivelogo = process.env.ALIVE_IMAGE || `https://i.imgur.com/2CkF3Z2.jpg`
 //👇 Alive message
 global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `default`
 //👇 Welcome Mesaage
@@ -118,7 +118,7 @@ global.NO_BLOCK = ["94715166712","94719574492"]
 //👇 DISABLE download words
 global.IMG_BLOCKER = ["xxx","sex","mia"]
 //👇 Open ai API Put Withouth "sk-" ( "sk-" අයින් කරල ඉතුරු ටික දාන්න )
-global.CHATGPT_API = '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'
+global.CHATGPT_API = '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'
 //👇 Sex  video Download Allowed Groups
 global.SEX_DOWNLOAD_GROUPS = ['120363147404508506@g.us']
 //👇 Your Bot Group Link
