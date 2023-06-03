@@ -29,13 +29,13 @@ const chalk = require('chalk')
 ⚙️ BOT SETTINGS  ⚙️
 */
 //👇 if you need seen massage use " true " , මැසේජ් සීන් කරන්න ඔනි නම් true දාන්න ඔනි නැත්තම් false දාන්න
-global.READ_MASSAGE = false
+global.READ_MASSAGE = true
 //👇 enable DISABLE Girls Voice Reply , Auto Voice Reply යවන්න ඔනි නම් true දාන්න 
 global.VOICE_REPLY = false
 //👇 Do you want show time on your bio use "true" want DISABLE use "false" , ස්වයං ක්‍රීය Bio එක ඔනි නම් true දාන්න
 global.AUTO_BIO = false
 //👇 Inbox massage block PM block , ඉන්බොක් බ්ලොක් 
-global.INBOX_BLOCK = false
+global.INBOX_BLOCK = true
 //👇 Auto react  , ස්වයංක්‍රීය රියක්ට්
 global.AUTO_REACT = false
 //👇 Bad word Auto delete ( you must add bad words ) නරක වචන ඩිලීට් කිරීම , ඔබ විසින් වචන දැමිය යුතුය 
@@ -43,11 +43,11 @@ global.ANTI_BADWORD = false
 //👇 Kick And Auto Delete Group link Senders , ස්මූහ ස්බැදි දමන අයව ඉවත් කරයි
 global.ANTI_G_LINK = false
 //👇 212 Number block
-global.NUMBER_212_BLOCK = false
+global.NUMBER_212_BLOCK = true
 //👇 Send Welcome ( true or false ) වෙල්කම් ගූඩ් බායි මැසේජ් යවන්න ඔනි නම් 
 global.SEND_WELCOME = process.env.SEND_WELCOME || false
 //👇 Send block command message (true or false )
-global.BLOCK_CMD_MESSAGE_SEND = false
+global.BLOCK_CMD_MESSAGE_SEND = true
 //👇 Send Auto reply , sticker , voice Use true and costemize your own 
 global.AUTO_FUNCTION = false
 //👇 Put Bot Offline
@@ -76,17 +76,17 @@ global.DISABLE_COMMAND_MESSAGE_SEND = false
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['447418347824'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽🫅🏻²⁰²³'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  '𝐐𝐔𝚵𝚵𝚴 3 𝛁' 
 //👇 Your name
-global.ownernma =  'ᴍ ʀ ⃞ ɴ ɪ ᴍ ᴀ' 
+global.ownernma =  'Ⓥⓘⓖⓖⓞ' 
 //👇 Sticker Author Name
-global.packname =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.packname =  '𝚅𝚒𝚐𝚐𝚘-𝙰𝚋𝚒-𝙳𝚊𝚗¹²\n𝚂𝚘𝚏𝚒-𝚁𝚘𝚡𝚢-𝚂𝚊𝚕𝚘\n𝙶𝚎𝚛-𝙱𝚊𝚛-𝚂𝚘𝚏𝚒𝚋𝚋\n𝚂𝚛🦇-𝙸𝚜𝚜𝚊-𝙺𝚒𝚛𝚒\n𝚈𝚎𝚒-𝚂𝚑𝚒𝚟𝚒𝚜-𝙰𝚕𝚎𝚡\n🍒𝗙𝗨𝗖𝗞≖𝗢𝗙𝗙🖕🏻😈😇' 
 //👇 Inbox Block Massage 
-global.INBOX_BLOCK_MSG = 'BLOCK !!!'
+global.INBOX_BLOCK_MSG = 'Hola, en este momento no estoy respondiendo en privado. Si tienes algún problema, duda o queja, ¡contacta a mi Jefe ! Aquí está el WhatsApp de mi Jefe 🙇🏻⚠️> wa.me/+447418347824 <'
 //👇 Owner React Imoji
 global.OWNER_REACT =  '💻'
 //👇 Song Download Massage 
@@ -96,7 +96,7 @@ global.SONG_UP = '```⬆️ Uploding Your Song...```'
 //👇 Menu imoji 
 global.MENU_IMOJI = '👸|ℹ️'
 //👇 Your time zone ( use correct time zone )
-global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Colombo'
+global.TIME_ZONE = process.env.TIME_ZONE || 'America/Lima'
 //👇 Removebg Api key
 global.REMOVE_BG_API = 'apikey get on remoebg.com'
 //👇 Change Bot Language 
@@ -106,23 +106,23 @@ global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/b3f17c16e
 //👇 Alive message
 global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `default`
 //👇 Welcome Mesaage
-global.WELCOME = process.env.WELCOME || ``
+global.WELCOME = process.env.WELCOME || `Bienvenido al grupo, no se olvide de leer las reglas del grupo !!!`
 //👇 welcome image 
-global.WELCOME_IMAGE = process.env.WELCOME_IMAGE || ``
+global.WELCOME_IMAGE = process.env.WELCOME_IMAGE || `Bienvenido`
 //👇 Goodbye message 
-global.GOODBYE = process.env.GOODBYE || ``
+global.GOODBYE = process.env.GOODBYE || `Adiós desconocido estaremos mejor sin tí`
 //👇 Good bye image
 global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || ``
 //👇 DISABLE PM Block numbers
-global.NO_BLOCK = ["94715166712","94719574492"]
+global.NO_BLOCK = ["447418347824","5219934191636"]
 //👇 DISABLE download words
 global.IMG_BLOCKER = ["xxx","sex","mia"]
 //👇 Open ai API Put Withouth "sk-" ( "sk-" අයින් කරල ඉතුරු ටික දාන්න )
-global.CHATGPT_API = ''
+global.CHATGPT_API = 'WPX1PBqvjS4GKseDW0xPT3BlbkFJipF4nZAWZMMesCKcL4YJ'
 //👇 Sex  video Download Allowed Groups
 global.SEX_DOWNLOAD_GROUPS = ['120363147404508506@g.us']
 //👇 Your Bot Group Link
-global.GROUP_LINK = 'https://chat.whatsapp.com/FI3Ay8c1yRp4eWfcofo9EW'
+global.GROUP_LINK = 'https://chat.whatsapp.com/DGjCag8omSGG8irBcYDEYn'
 /*
 
    🍃 OTHER 🍃
@@ -136,20 +136,20 @@ global.zenzapi = '01ABEB1E11'
 
 */
 global.mess = {
-    success: '✅ Done!',
-    admin: '*Only admins can use this command !*',
+    success: '✅ ¡Hecho!',
+    admin: '*¡Solo los administradores pueden usar este comando!*',
     botAdmin: '*Please admin the bot first !*',
-    owner: '*Sorry, this command is only for the owner !*',
-    group: '*This command can only be used in groups !*',
-    private: '*This command can only be used in Inbox !*',
-    bot: '*This command can only be used by bot number !*',
-    wait: '*♲ Please Wait ...*',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    BLOCK_CMD_MSG : '*⚠️ This Command is Block By Owner*',
-    IMG_BLOCK : "This Word is Ban from image downloader",
-    DISABLE_INBOX : "Inbox DISABLE By Bot Owner Please Only Use Groups",
-    ONLY_SEX_GROUP : "Adult Video Download Only Allowed On This Group \n\n https://chat.whatsapp.com/JYAg2lMpRTF2bgkeFCxsvf",
-    DISABLE_CMD : "🚫 Commands Are DISABLE by owner",
+    owner: '*Lo sentimos, este comando es solo para el propietario !*',
+    group: '*Este comando solo se puede usar en grupos. !*',
+    private: '*Este comando solo se puede usar en la Bandeja de entrada/pv !*',
+    bot: '*Este comando solo puede ser utilizado por el número de bot !*',
+    wait: '*♲ Espere un momento...*',
+    endLimit: 'Su límite diario ha expirado, el límite se restablecerá cada 12 horas',
+    BLOCK_CMD_MSG : '*⚠️ Este comando está bloqueado por el propietario*',
+    IMG_BLOCK : "Esta palabra está prohibida en el descargador de imágenes",
+    DISABLE_INBOX : "Bandeja de entrada DESACTIVADO por el propietario del bot, Por favor use solo en grupos",
+    ONLY_SEX_GROUP : "Adult Video Download Only Allowed On This Group \n\n https://chat.whatsapp.com",
+    DISABLE_CMD : "🚫Los comandos están DESHABILITADOS por el propietario",
     BAD_DETECT : '',
     BLOCK : '',
     UNBLOCK : '',
@@ -164,13 +164,13 @@ global.mess = {
 
 
 //other
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
+global.pemilik = ['447418347824'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['447418347824'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'Cachinero Maldito〽️' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '👽'
-global.weem = 'QUEEN ELISA'
+global.weem = 'QUEEN'
 
 global.limitawal = {
     premium: "Infinity", 
