@@ -78,31 +78,31 @@ global.DISABLE_COMMAND_MESSAGE_SEND = false
 // You Bots Owner Number 
 global.owner = ['254768827492'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 �MUlANDI²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 MULANDI²⁰²³'
 //👇 Your Bot Name
-global.botnma =  '�MULANDI 𝚳𝐃 3 𝛁' 
+global.botnma =  'MULANDI 𝚳𝐃 3 𝛁' 
 //👇 Your name
 global.ownernma =  'MULANDI ⃞' 
 //👇 Sticker Author Name
-global.packname =  '𝙼ULANDI O𝙵𝙲' 
+global.packname =  '𝙼ULANDI v 9.9' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
 global.OWNER_REACT =  '💻'
 //👇 Song Download Massage 
-global.SONG_DOWN = '```⬇️ Downloading Your Song...```' 
+global.SONG_DOWN = '```Downloading Your Song...```' 
 //👇 Song Uplode massage 
 global.SONG_UP = '```⬆️ Uploding Your Song...```'
 //👇 Menu imoji 
 global.MENU_IMOJI = '👸|ℹ️'
 //👇 Your time zone ( use correct time zone )
-global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Colombo'
+global.TIME_ZONE = process.env.TIME_ZONE || 'Africa/Nairobi'
 //👇 Removebg Api key
 global.REMOVE_BG_API = 'apikey get on remoebg.com'
 //👇 Change Bot Language 
 global.LANG = 'EN'
 //Alive logo
-global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
+global.alivelogo = process.env.ALIVE_IMAGE || `https://i.imgur.com/jL8EKR4.jpg`
 //👇 Alive message
 global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `default`
 //👇 Welcome Mesaage
@@ -118,7 +118,7 @@ global.NO_BLOCK = ["94715166712","94719574492"]
 //👇 DISABLE download words
 global.IMG_BLOCKER = ["xxx","sex","mia"]
 //👇 Open ai API Put Withouth "sk-" ( "sk-" අයින් කරල ඉතුරු ටික දාන්න )
-global.CHATGPT_API = ''
+global.CHATGPT_API = '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'
 //👇 Sex  video Download Allowed Groups
 global.SEX_DOWNLOAD_GROUPS = ['120363147404508506@g.us']
 //👇 Your Bot Group Link
