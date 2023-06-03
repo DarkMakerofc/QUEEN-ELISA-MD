@@ -84,7 +84,7 @@ global.botnma =  '𝐐𝐔𝚵𝚵𝚴 3 𝛁'
 //👇 Your name
 global.ownernma =  'Ⓥⓘⓖⓖⓞ' 
 //👇 Sticker Author Name
-global.packname =  '𝚅𝚒𝚐𝚐𝚘-𝙰𝚋𝚒-𝙳𝚊𝚗¹²\n𝚂𝚘𝚏𝚒-𝚁𝚘𝚡𝚢-𝚂𝚊𝚕𝚘\n𝙶𝚎𝚛-𝙱𝚊𝚛-𝚂𝚘𝚏𝚒𝚋𝚋\n𝚂𝚛🦇-𝙸𝚜𝚜𝚊-𝙺𝚒𝚛𝚒\n𝚈𝚎𝚒-𝚂𝚑𝚒𝚟𝚒𝚜-𝙰𝚕𝚎𝚡\n🍒𝗙𝗨𝗖𝗞≖𝗢𝗙𝗙🖕🏻😈😇' 
+global.packname =  '𝚅𝚒𝚐𝚐𝚘-𝙰𝚋𝚒-𝙳𝚊𝚗¹²-𝚂𝚘𝚏𝚒\n𝚁𝚘𝚡𝚢-𝚂𝚊𝚕𝚘-𝙶𝚎𝚛-𝚂𝚘𝚏𝚒𝚋𝚋\n𝙱𝚊𝚛-𝚂𝚛🦇-𝙸𝚜𝚜𝚊-𝙺𝚒𝚛𝚒\n𝚈𝚎𝚒\n𝚂𝚑𝚒𝚟𝚒𝚜-𝙰𝚕𝚎𝚡-𝙰𝚗𝚐𝚎𝚕\n🍒𝗙𝗨𝗖𝗞≖𝗢𝗙𝗙🖕🏻😈😇' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'Hola, en este momento no estoy respondiendo en privado. Si tienes algún problema, duda o queja, ¡contacta a mi Jefe ! Aquí está el WhatsApp de mi Jefe 🙇🏻⚠️> wa.me/+447418347824 <'
 //👇 Owner React Imoji
@@ -96,7 +96,7 @@ global.SONG_UP = '```⬆️ Uploding Your Song...```'
 //👇 Menu imoji 
 global.MENU_IMOJI = '👸|ℹ️'
 //👇 Your time zone ( use correct time zone )
-global.TIME_ZONE = process.env.TIME_ZONE || 'America/Lima'
+global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Colombo'
 //👇 Removebg Api key
 global.REMOVE_BG_API = 'apikey get on remoebg.com'
 //👇 Change Bot Language 
@@ -106,11 +106,11 @@ global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/b3f17c16e
 //👇 Alive message
 global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `default`
 //👇 Welcome Mesaage
-global.WELCOME = process.env.WELCOME || `Bienvenido al grupo, no se olvide de leer las reglas del grupo !!!`
+global.WELCOME = process.env.WELCOME || ``
 //👇 welcome image 
-global.WELCOME_IMAGE = process.env.WELCOME_IMAGE || `Bienvenido`
+global.WELCOME_IMAGE = process.env.WELCOME_IMAGE || ``
 //👇 Goodbye message 
-global.GOODBYE = process.env.GOODBYE || `Adiós desconocido estaremos mejor sin tí`
+global.GOODBYE = process.env.GOODBYE || ``
 //👇 Good bye image
 global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || ``
 //👇 DISABLE PM Block numbers
