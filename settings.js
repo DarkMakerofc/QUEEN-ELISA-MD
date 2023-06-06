@@ -122,7 +122,7 @@ global.CHATGPT_API = '06CqHpIKn3IumDJVM8SbT3BlbkFJPRlRb28qcyvzeO3TwTNd'
 //👇 Sex  video Download Allowed Groups
 global.SEX_DOWNLOAD_GROUPS = ['120363147404508506@g.us']
 //👇 Your Bot Group Link
-global.GROUP_LINK = 'https://chat.whatsapp.com/FI3Ay8c1yRp4eWfcofo9EW'
+global.GROUP_LINK = 'https://chat.whatsapp.com/JPbEGRrIWik2dr6BwqFuSv'
 /*
 
    🍃 OTHER 🍃
