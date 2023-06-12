@@ -76,7 +76,7 @@ global.DISABLE_COMMAND_MESSAGE_SEND = false
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['+917718617125'] 
+global.owner = ['917718617125'] 
 //👇 Your Caption ( Image Video )
 global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝐌𝐑 | 𝐏∆𝐏∆𝐈 ²⁰²³'
 //👇 Your Bot Name
