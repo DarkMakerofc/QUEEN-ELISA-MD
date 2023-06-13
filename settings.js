@@ -37,7 +37,7 @@ global.AUTO_BIO = true
 //👇 Inbox massage block PM block , ඉන්බොක් බ්ලොක් 
 global.INBOX_BLOCK = false
 //👇 Auto react  , ස්වයංක්‍රීය රියක්ට්
-global.AUTO_REACT = true
+global.AUTO_REACT = false
 //👇 Bad word Auto delete ( you must add bad words ) නරක වචන ඩිලීට් කිරීම , ඔබ විසින් වචන දැමිය යුතුය 
 global.ANTI_BADWORD = false
 //👇 Kick And Auto Delete Group link Senders , ස්මූහ ස්බැදි දමන අයව ඉවත් කරයි
@@ -76,15 +76,15 @@ global.DISABLE_COMMAND_MESSAGE_SEND = false
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['917718617125'] 
+global.owner = ['94761702752'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝐌𝐑 | 𝐏∆𝐏∆𝐈 ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 Itz Me Zany" ²⁰²³'
 //👇 Your Bot Name
-global.botnma =  '𝐌𝐑 | 𝐏∆𝐏∆𝐈' 
+global.botnma =  'Itz Me Zany"' 
 //👇 Your name
-global.ownernma =  '𝐌𝐑 | 𝐏∆𝐏∆𝐈' 
+global.ownernma =  'Itz Me Zany"' 
 //👇 Sticker Author Name
-global.packname =  ' 𝐌𝐑 | 𝐏∆𝐏∆𝐈 ' 
+global.packname =  ' Itz Me Zany" ' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = ' _*SORRY ❌*_
 © 𝐌𝐑 | 𝐏∆𝐏∆𝐈 _BLOCKED U ⚠️📍_ '
