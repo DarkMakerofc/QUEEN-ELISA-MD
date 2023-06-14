@@ -5,9 +5,9 @@
 
 WHATSAPP BOT BY MR NIMA ( DARK MAKER OFC )
 
-WHATSAPP - 94719574492
-SUPPORT GROUP - https://t.me/queenelisasupport
-YOUTUBE - http://youtube.com/MRNIMAOFC
+WHATSAPP - 69907657
+SUPPORT GROUP - https://chat.whatsapp.com/EZnhRaObz2gBUKCETwAEek
+YOUTUBE - NADA
 
 
 ℹ️ SPECIAL INFORMATION ℹ️
