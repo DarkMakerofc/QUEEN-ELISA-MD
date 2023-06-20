@@ -3,16 +3,16 @@
  █░▒█ █░▒█ █▀▀▀ █▀▀▀ █▒█▒█       █▀▀▀ █░░░ ░█░ ▀▀▀▄▄ █▄▄█
  ▀▀█▄ ▀▄▄▀ █▄▄▄ █▄▄▄ █░░▀█       █▄▄▄ █▄▄█ ▄█▄ █▄▄▄█ █░▒█
 
-WHATSAPP BOT BY MR NIMA ( DARK MAKER OFC )
+WHATSAPP BOT BBY INFINITY HACK3RS ( DARK MAKER OFC )
 
-WHATSAPP - 94719574492
-SUPPORT GROUP - https://t.me/queenelisasupport
-YOUTUBE - http://youtube.com/MRNIMAOFC
+WHATSAPP - 254768153167
+SUPPORT GROUP - https://t.me/infinityhack3rske
+YOUTUBE - https://www.youtube.com/@Infinityhack3rs 
 
 
 ℹ️ SPECIAL INFORMATION ℹ️
 
-Welcome to Queen Elisa Whatsapp Bot settings.js.
+Welcome to Infinity  Whatsapp Bot settings.js.
 Information provided to you.
 If you use true or false
 true = if you want to do that task
@@ -78,13 +78,13 @@ global.DISABLE_COMMAND_MESSAGE_SEND = false
 // You Bots Owner Number 
 global.owner = ['94715166712'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙸𝙽𝙵𝙸𝙽𝙸𝚃𝚈 𝙱𝙾𝚃'
 //👇 Your Bot Name
 global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
 //👇 Your name
-global.ownernma =  'ᴍ ʀ ⃞ ɴ ɪ ᴍ ᴀ' 
+global.ownernma =  '𝛫𝑅𝛯𝑆𝑆𝑊𝛯𝐿𝐿' 
 //👇 Sticker Author Name
-global.packname =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.packname =  '𝙺𝚁𝙴𝚂𝚂𝚆𝙴𝙻𝙻 𝙺𝙴'
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
@@ -96,13 +96,13 @@ global.SONG_UP = '```⬆️ Uploding Your Song...```'
 //👇 Menu imoji 
 global.MENU_IMOJI = '👸|ℹ️'
 //👇 Your time zone ( use correct time zone )
-global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Colombo'
+global.TIME_ZONE = process.env.TIME_ZONE || 'Africa/Nairobi '
 //👇 Removebg Api key
 global.REMOVE_BG_API = 'apikey get on remoebg.com'
 //👇 Change Bot Language 
 global.LANG = 'EN'
 //Alive logo
-global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
+global.alivelogo = process.env.ALIVE_IMAGE || `https://i.imgur.com/uUlxIwQ.jpeg`
 //👇 Alive message
 global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `default`
 //👇 Welcome Mesaage
@@ -114,7 +114,7 @@ global.GOODBYE = process.env.GOODBYE || ``
 //👇 Good bye image
 global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || ``
 //👇 DISABLE PM Block numbers
-global.NO_BLOCK = ["94715166712","94719574492"]
+global.NO_BLOCK = ["254768153167","2254759649378"]
 //👇 DISABLE download words
 global.IMG_BLOCKER = ["xxx","sex","mia"]
 //👇 Open ai API Put Withouth "sk-" ( "sk-" අයින් කරල ඉතුරු ටික දාන්න )
@@ -139,17 +139,17 @@ global.mess = {
     success: '✅ Done!',
     admin: '*Only admins can use this command !*',
     botAdmin: '*Please admin the bot first !*',
-    owner: '*Sorry, this command is only for the owner !*',
+    owner: '*Sorry, this command is only for Kresswell  !*',
     group: '*This command can only be used in groups !*',
     private: '*This command can only be used in Inbox !*',
     bot: '*This command can only be used by bot number !*',
     wait: '*♲ Please Wait ...*',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    BLOCK_CMD_MSG : '*⚠️ This Command is Block By Owner*',
+    BLOCK_CMD_MSG : '*⚠️ This Command is Block By Kresswell*',
     IMG_BLOCK : "This Word is Ban from image downloader",
     DISABLE_INBOX : "Inbox DISABLE By Bot Owner Please Only Use Groups",
     ONLY_SEX_GROUP : "Adult Video Download Only Allowed On This Group \n\n https://chat.whatsapp.com/JYAg2lMpRTF2bgkeFCxsvf",
-    DISABLE_CMD : "🚫 Commands Are DISABLE by owner",
+    DISABLE_CMD : "🚫 Commands Are DISABLE by Kresswell",
     BAD_DETECT : '',
     BLOCK : '',
     UNBLOCK : '',
@@ -164,13 +164,13 @@ global.mess = {
 
 
 //other
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
+global.pemilik = ['254768153167'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['254768153167'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = '𝛫𝑅𝛯𝑆𝑆𝑊𝛯𝐿𝐿' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '👽'
-global.weem = 'QUEEN ELISA'
+global.weem = 'IFINITY BOT '
 
 global.limitawal = {
     premium: "Infinity", 
@@ -185,7 +185,7 @@ global.APIKeys = {
 	'https://zenzapi.xyz': '01ABEB1E11', //Kalau habis beli sendiri
 }
 
-//global.alivelogo = `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
+//global.alivelogo = `https://i.imgur.com/uUlxIwQ.jpg
 global.imgalive = fs.readFileSync('./Media/image/Elisa.jpg')
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {

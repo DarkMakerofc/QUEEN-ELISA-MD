@@ -3,13 +3,13 @@
 <u>♥️ ᴀɴ ᴡʜᴀᴛsᴀᴘᴘ ᴜsᴇʀ ʙᴏᴛ ʙʏ ᴍʀ ɴɪᴍᴀ ♥️</u>
 </p>
 <p align="center">
-<img src="https://i.ibb.co/nPYVtwV/queen-elisa-new-logo-600-600.jpg" width="300" height="300"/>
+<img src="https://i.imgur.com/pXynZBR.jpeg" width="300" height="300"/>
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=QUEEN+ELISA+WHATSAPP+BOT" alt="">
 </p>
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Mrnima-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://i.imgur.com/uUlxIwQ.jpeg"></a>
 </p>
 <p align="center">
 <a href="https://github.com/darkmakerofc?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
@@ -23,12 +23,12 @@
 
 # 
 
-### Please Give One Star ✨ & [follow for me notify my updates 💗](https://github.com/DarkMakerofc)
+### Please Give One Star ✨ & [follow for me notify my updates 💗](https://github.com/Kresswell)
 <b>Version --> 3.8.6</b>
 # 
-Queen elisa whatsapp bot is,
+INFINITY WA whatsapp bot is,
 
-      Queen elisa whatsapp bot is an easy to use whatsapp robot.   |  Queen elisa whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
+      Infinity wa  whatsapp bot is an easy to use whatsapp robot. 
 
 # 
 * 𝗙𝗢𝗥𝗞 𝗡𝗢𝗪
@@ -40,7 +40,7 @@ Queen elisa whatsapp bot is,
 
 * [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@MRNima/QUEEN-ELISA-MULTIAUTH-QR-SCANER)
 
-      ℹ️ if there any error please infrom it support group.  | මෙහිදී යම් ගැටලුවක් ඇති උවහොත් සහය සමූහය වෙත සම්බන්ධ වන්න.
+      ℹ️ if there any error please infrom it support group.  
 # 
 
 <details>
@@ -60,7 +60,7 @@ Queen elisa whatsapp bot is,
 [`Deploy on Uffizzi`](https://www.uffizzi.com/)
 </details>
 
-## [`WATCH YOUTUBE VIDEOS`](youtube.com/MRNIMAOFC)
+## [`WATCH YOUTUBE VIDEOS`](youtube.com/Infinityhack3rs)
  
   ##* [How To setup Github 1st step](https://youtu.be/DEpSpJRg4CA)
   
@@ -130,14 +130,14 @@ npm start
 <summary>🌐 Support For Deploy </summary>
 <p>
 </details>
-THANAKS FOR USNING QUEEN ELISA 💃💖
+THANAKS FOR USING INFINITY WHATSAPP BOT🤖😁
 
-* [🧑‍💻 Join Queen Elisa Support Group 🧑‍💻](https://t.me/+Fc2vyKYBjFk3ZWZl)
+* [🧑‍💻 Join Queen Elisa Support Group 🧑‍💻](https://t.me/infinityhack3rske)
 
-* [🦄 Join Public Group 🦄](https://chat.whatsapp.com/BbIpvkRD4qP6xKckb8cpT0)
+* [🦄 Join Public Group 🦄](https://chat.whatsapp.com/FTMH3cUwDnb3YzrvITA9lx)
 
      
-       ⚠️ We are not responsible for any inconvenience caused by your mistakes!   | ඔබගේ අත්වැරදීම් නිසා සිදුවන අපහසුතාවයන් සඳහා අප වගකිවයනු නොලැබේ !
+       ⚠️ We are not responsible for any inconvenience caused by your mistakes!  
 
   
   #### ```TOTAL PROFILE VIEWS 🧚```
