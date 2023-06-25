@@ -20,6 +20,7 @@
   "author": "KRESSWELL",
   "license": "AGPL-3",
   "dependencies": {
+    "@adiwajshing/baileys" : "npm:baileys-md@5.0.5",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "^2.0.0",
     "@vitalets/google-translate-api": "^9.0.0",
