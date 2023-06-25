@@ -76,15 +76,15 @@ global.DISABLE_COMMAND_MESSAGE_SEND = false
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['2250545752448'] 
 //👇 Your Caption ( Image Video )
 global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
 //👇 Your Bot Name
 global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
 //👇 Your name
-global.ownernma =  'ᴍ ʀ ⃞ ɴ ɪ ᴍ ᴀ' 
+global.ownernma =  'levis' 
 //👇 Sticker Author Name
-global.packname =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.packname =  'levis' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
@@ -98,7 +98,7 @@ global.MENU_IMOJI = '👸|ℹ️'
 //👇 Your time zone ( use correct time zone )
 global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Colombo'
 //👇 Removebg Api key
-global.REMOVE_BG_API = 'apikey get on remoebg.com'
+global.REMOVE_BG_API = 'https://www.remove.bg/upload'
 //👇 Change Bot Language 
 global.LANG = 'EN'
 //Alive logo
@@ -164,10 +164,10 @@ global.mess = {
 
 
 //other
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
-global.sessionName = 'session'
+global.pemilik = ['2250545752448'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['2250545752448'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'levis' // Your name ඔබේ නම 
+global.sessionName = 'madara file'
 global.prefix = ['#','!','.'] 
 global.sp = '👽'
 global.weem = 'QUEEN ELISA'
@@ -181,7 +181,7 @@ global.fbapi = 'dd79-1aeb-21a3'
 global.APIs = {
 	zenz: 'https://zenzapi.xyz', 
 }
-global.APIKeys = {
+global.APIKeys = {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
 	'https://zenzapi.xyz': '01ABEB1E11', //Kalau habis beli sendiri
 }
 
