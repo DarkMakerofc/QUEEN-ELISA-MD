@@ -3,11 +3,11 @@
  █░▒█ █░▒█ █▀▀▀ █▀▀▀ █▒█▒█       █▀▀▀ █░░░ ░█░ ▀▀▀▄▄ █▄▄█
  ▀▀█▄ ▀▄▄▀ █▄▄▄ █▄▄▄ █░░▀█       █▄▄▄ █▄▄█ ▄█▄ █▄▄▄█ █░▒█
 
-WHATSAPP BOT BY MR NIMA ( DARK MAKER OFC )
+WHATSAPP BOT BY MR Raju ( DARK MAKER OFC )
 
-WHATSAPP - 94719574492
-SUPPORT GROUP - https://t.me/queenelisasupport
-YOUTUBE - http://youtube.com/MRNIMAOFC
+WHATSAPP - 923400470983
+SUPPORT GROUP - https://t.me/mairakhan076
+YOUTUBE - https://youtu.be/lH2EduAOaBk
 
 
 ℹ️ SPECIAL INFORMATION ℹ️
@@ -31,13 +31,13 @@ const chalk = require('chalk')
 //👇 if you need seen massage use " true " , මැසේජ් සීන් කරන්න ඔනි නම් true දාන්න ඔනි නැත්තම් false දාන්න
 global.READ_MASSAGE = false
 //👇 enable DISABLE Girls Voice Reply , Auto Voice Reply යවන්න ඔනි නම් true දාන්න 
-global.VOICE_REPLY = false
+global.VOICE_REPLY = true
 //👇 Do you want show time on your bio use "true" want DISABLE use "false" , ස්වයං ක්‍රීය Bio එක ඔනි නම් true දාන්න
 global.AUTO_BIO = false
 //👇 Inbox massage block PM block , ඉන්බොක් බ්ලොක් 
 global.INBOX_BLOCK = false
 //👇 Auto react  , ස්වයංක්‍රීය රියක්ට්
-global.AUTO_REACT = false
+global.AUTO_REACT = true
 //👇 Bad word Auto delete ( you must add bad words ) නරක වචන ඩිලීට් කිරීම , ඔබ විසින් වචන දැමිය යුතුය 
 global.ANTI_BADWORD = false
 //👇 Kick And Auto Delete Group link Senders , ස්මූහ ස්බැදි දමන අයව ඉවත් කරයි
@@ -45,7 +45,7 @@ global.ANTI_G_LINK = false
 //👇 212 Number block
 global.NUMBER_212_BLOCK = false
 //👇 Send Welcome ( true or false ) වෙල්කම් ගූඩ් බායි මැසේජ් යවන්න ඔනි නම් 
-global.SEND_WELCOME = process.env.SEND_WELCOME || false
+global.SEND_WELCOME = process.env.SEND_WELCOME || true
 //👇 Send block command message (true or false )
 global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Send Auto reply , sticker , voice Use true and costemize your own 
@@ -61,11 +61,11 @@ global.DISABLE_INBOX = false
 //👇 DISABLE inbox message send ඉන්බොක්ස් වැඩනොකරන බවට මැසේජ් එක යැවිම true or false 
 global.DISABLE_INBOX_MESSAGE_SEND = false
 //👇 Pron Video Download 
-global.SEX_VIDEO_DOWNLOAD = false
+global.SEX_VIDEO_DOWNLOAD = true
 //👇 Only Inbox Use ( Only PM Work )
 global.INBOX_ONLY_WORK = false
 //👇 Auto ChatGPT ( You Must put CHATGPT API KEY For use this )
-global.AUTO_OPEN_AI = false
+global.AUTO_OPEN_AI = true
 //👇 Bot On Privet
 global.PRIVET_BOT = false
 //👇 DISABLE Bot Commands But Others Are Working 
@@ -76,15 +76,15 @@ global.DISABLE_COMMAND_MESSAGE_SEND = false
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['923400470983'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
+global.cap = '© Dogar ²⁰²³'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  'Dogar 𝛁' 
 //👇 Your name
-global.ownernma =  'ᴍ ʀ ⃞ ɴ ɪ ᴍ ᴀ' 
+global.ownernma =  'Raju' 
 //👇 Sticker Author Name
-global.packname =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.packname =  'Raju' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
@@ -114,15 +114,15 @@ global.GOODBYE = process.env.GOODBYE || ``
 //👇 Good bye image
 global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || ``
 //👇 DISABLE PM Block numbers
-global.NO_BLOCK = ["94715166712","94719574492"]
+global.NO_BLOCK = ["923400470983","923094733538"]
 //👇 DISABLE download words
 global.IMG_BLOCKER = ["xxx","sex","mia"]
 //👇 Open ai API Put Withouth "sk-" ( "sk-" අයින් කරල ඉතුරු ටික දාන්න )
 global.CHATGPT_API = ''
 //👇 Sex  video Download Allowed Groups
-global.SEX_DOWNLOAD_GROUPS = ['120363147404508506@g.us']
+global.SEX_DOWNLOAD_GROUPS = ['https://chat.whatsapp.com/CxElQzhpdmYHiPQRLwDVnx']
 //👇 Your Bot Group Link
-global.GROUP_LINK = 'https://chat.whatsapp.com/Ih1udrdBNvX5xSu5mUVdql'
+global.GROUP_LINK = 'https://chat.whatsapp.com/Eeo2DAxu5ec4wrIoSxZhs5'
 /*
 
    🍃 OTHER 🍃
@@ -148,7 +148,7 @@ global.mess = {
     BLOCK_CMD_MSG : '*⚠️ This Command is Block By Owner*',
     IMG_BLOCK : "This Word is Ban from image downloader",
     DISABLE_INBOX : "Inbox DISABLE By Bot Owner Please Only Use Groups",
-    ONLY_SEX_GROUP : "Adult Video Download Only Allowed On This Group \n\n https://chat.whatsapp.com/JYAg2lMpRTF2bgkeFCxsvf",
+    ONLY_SEX_GROUP : "Adult Video Download Only Allowed On This Group \n\n https://chat.whatsapp.com/CxElQzhpdmYHiPQRLwDVnx",
     DISABLE_CMD : "🚫 Commands Are DISABLE by owner",
     BAD_DETECT : '',
     BLOCK : '',
@@ -164,13 +164,13 @@ global.mess = {
 
 
 //other
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
+global.pemilik = ['923400470983'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['923400470983'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'Raju' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '👽'
-global.weem = 'QUEEN ELISA'
+global.weem = 'Dogar'
 
 global.limitawal = {
     premium: "Infinity", 
