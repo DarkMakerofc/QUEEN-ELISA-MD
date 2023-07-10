@@ -104,13 +104,29 @@ global.LANG = 'SI'
 //Alive logo
 global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/47450a81683e6c344cdc3.jpg`
 //👇 Alive message
-global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `♥⃝𝙋𝙖𝙨𝙞𝙮𝙖 𝘽𝙤𝙩 𝙂𝙧𝙤𝙪𝙥 1৫⃟➤♥᭄᭄̊̊̊̊👇
+global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `💗 Queen Elisa Whatsapp Bot 𝘜𝘴𝘦𝘳 𝘱𝘢𝘴𝘪𝘺𝘢 💗
+
+Hello there I am Online ! 
+Click below buttons for more.
+
+Deploy : pasiya
+
+🧑‍💻 User : ࿓𝐑𝐞𝐚𝐥 paͥsiͣyͫaᴹᴿ᭄
+
+🧬 Version : 3.8.6
+
+🗃 Public Group :
 
 https://chat.whatsapp.com/BadI2fyfMtJ10A34c4xCoh
 
-*♥⃝⃘̉̉̉̉̉̉𝙋𝙖𝙨𝙞𝙮𝙖 𝘽𝙤𝙩 𝙂𝙧𝙤𝙪𝙥 2 ⃝৫⃟➤♥*👇
+🗃 Public Group 2 :
+ 
+https://chat.whatsapp.com/IwS1tdsrWHV9YpSqIDBdTf
 
-https://chat.whatsapp.com/IwS1tdsrWHV9YpSqIDBdTf`
+📲 Install Bot :
+ https://tinyurl.com/install-elisa-bot
+
+ǫᴜᴇᴇɴ ᴇʟɪsᴀ ᴡᴀ ʙᴏᴛ ʳᵉᵃˡᴘᴀꜱɪʏᴀ`
 //👇 Welcome Mesaage
 global.WELCOME = process.env.WELCOME || ``
 //👇 welcome image 
