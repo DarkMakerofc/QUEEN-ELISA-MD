@@ -31,7 +31,7 @@ const chalk = require('chalk')
 //👇 if you need seen massage use " true " , මැසේජ් සීන් කරන්න ඔනි නම් true දාන්න ඔනි නැත්තම් false දාන්න
 global.READ_MASSAGE = false
 //👇 enable DISABLE Girls Voice Reply , Auto Voice Reply යවන්න ඔනි නම් true දාන්න 
-global.VOICE_REPLY = false
+global.VOICE_REPLY = true
 //👇 Do you want show time on your bio use "true" want DISABLE use "false" , ස්වයං ක්‍රීය Bio එක ඔනි නම් true දාන්න
 global.AUTO_BIO = false
 //👇 Inbox massage block PM block , ඉන්බොක් බ්ලොක් 
@@ -39,17 +39,17 @@ global.INBOX_BLOCK = false
 //👇 Auto react  , ස්වයංක්‍රීය රියක්ට්
 global.AUTO_REACT = false
 //👇 Bad word Auto delete ( you must add bad words ) නරක වචන ඩිලීට් කිරීම , ඔබ විසින් වචන දැමිය යුතුය 
-global.ANTI_BADWORD = false
+global.ANTI_BADWORD = true
 //👇 Kick And Auto Delete Group link Senders , ස්මූහ ස්බැදි දමන අයව ඉවත් කරයි
-global.ANTI_G_LINK = false
+global.ANTI_G_LINK = true
 //👇 212 Number block
 global.NUMBER_212_BLOCK = false
 //👇 Send Welcome ( true or false ) වෙල්කම් ගූඩ් බායි මැසේජ් යවන්න ඔනි නම් 
-global.SEND_WELCOME = process.env.SEND_WELCOME || false
+global.SEND_WELCOME = process.env.SEND_WELCOME || true
 //👇 Send block command message (true or false )
 global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Send Auto reply , sticker , voice Use true and costemize your own 
-global.AUTO_FUNCTION = false
+global.AUTO_FUNCTION = true
 //👇 Put Bot Offline
 global.BOT_OFFLINE = false
 //👇 Only PreFix [ true / false ]
@@ -65,7 +65,7 @@ global.SEX_VIDEO_DOWNLOAD = false
 //👇 Only Inbox Use ( Only PM Work )
 global.INBOX_ONLY_WORK = false
 //👇 Auto ChatGPT ( You Must put CHATGPT API KEY For use this )
-global.AUTO_OPEN_AI = false
+global.AUTO_OPEN_AI = true
 //👇 Bot On Privet
 global.PRIVET_BOT = false
 //👇 DISABLE Bot Commands But Others Are Working 
@@ -76,25 +76,25 @@ global.DISABLE_COMMAND_MESSAGE_SEND = false
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['94763516471'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
+global.cap = '© 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 ༄●⃝𝐌𝐫_𝐎𝐳 _ 𝐗𝐗𝐗 𝟗 ∆ ²⁰²³'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  '༄●⃝𝐌𝐫_𝐎𝐳 _ 𝐗𝐗𝐗 𝟗 𝛁' 
 //👇 Your name
-global.ownernma =  'ᴍ ʀ ⃞ ɴ ɪ ᴍ ᴀ' 
+global.ownernma =  '༄●⃝𝐌𝐫_𝐎𝐳 _ 𝐗𝐗𝐗 𝟗 ∆' 
 //👇 Sticker Author Name
-global.packname =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.packname =  '༄●⃝𝐌𝐫_𝐎𝐳 _ 𝐎𝐅𝐂 𝟗 ∆' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
 global.OWNER_REACT =  '💻'
 //👇 Song Download Massage 
-global.SONG_DOWN = '```⬇️ Downloading Your Song...```' 
+global.SONG_DOWN = '```⏬ Downloading Your Song...```' 
 //👇 Song Uplode massage 
-global.SONG_UP = '```⬆️ Uploding Your Song...```'
+global.SONG_UP = '```⏫ Uploding Your Song...```'
 //👇 Menu imoji 
-global.MENU_IMOJI = '👸|ℹ️'
+global.MENU_IMOJI = '👸|⚠️'
 //👇 Your time zone ( use correct time zone )
 global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Colombo'
 //👇 Removebg Api key
@@ -102,9 +102,29 @@ global.REMOVE_BG_API = 'apikey get on remoebg.com'
 //👇 Change Bot Language 
 global.LANG = 'EN'
 //Alive logo
-global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
+global.alivelogo = process.env.ALIVE_IMAGE || `https://i.postimg.cc/3RdhWDjx/IMG-20230712-192745-102.jpg`
 //👇 Alive message
-global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `default`
+global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `༄●⃝Mr_☯Z⁷᭄ _ 𝕆𝔽𝔽𝕀ℂ𝕀𝔸𝕃 _ 𝔹𝕆𝕋 _ 𝔾𝕣𝕠𝕦𝕡_ ⁰²³ـﮩﮩـ╬━🖤
+
+ℍ𝕪🥰..... 𝕀'𝕞_𝕠𝕟𝕝𝕚𝕟𝕖_ℕ𝕠𝕨 😎
+
+🦞□□□□□ 0%
+🦞■□□□□ 20%
+🦞■■□□□ 40%
+🦞■■■□□ 60%
+🦞■■■■□ 80%
+🦞■■■■■ 100%
+
+*​🇫​​🇴​​🇱​​🇱​​🇴​🇼 👇*
+
+⌨️ 𝐏𝐥𝐞𝐚𝐬𝐞 𝐓𝐲𝐩𝐞 "*.𝐦𝐞𝐧𝐮*" 𝐓𝐨 𝐆𝐞𝐭 𝐀𝐥𝐥 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 📝
+⌨️ කමාන්ඩ් ලිස්ට් එක ගන්න .menu කියලා ටයිප් කරන්න 📝
+
+👥 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐁𝐨𝐭 𝐆𝐫𝐨𝐮𝐩 👉 *https://chat.whatsapp.com/GcJ5iJWGa48LU5TEOwknV4
+📲𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 👉 *+94715652343
+
+
+🥰​🇹​​🇭​​🇦​​🇳​​🇰​​🇸​ ​🇫​​🇴​​🇷​ ​🇺​​🇸​​🇮​​🇳​​🇬​ ​🇲​​🇾​ ​🇧​​🇴​​🇹🥰`
 //👇 Welcome Mesaage
 global.WELCOME = process.env.WELCOME || ``
 //👇 welcome image 
