@@ -128,15 +128,15 @@ global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `༄●⃝Mr_☯Z⁷᭄ _ �
 //👇 Welcome Mesaage
 global.WELCOME = process.env.WELCOME || ``
 //👇 welcome image 
-global.WELCOME_IMAGE = process.env.WELCOME_IMAGE || `false`
+global.WELCOME_IMAGE = process.env.WELCOME_IMAGE || `pp`
 //👇 Goodbye message 
-global.GOODBYE = process.env.GOODBYE || `false`
+global.GOODBYE = process.env.GOODBYE || `ගියා නේත🙄..?. ආ කමක් නැ👋`
 //👇 Good bye image
-global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || `false`
+global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || `pp`
 //👇 DISABLE PM Block numbers
 global.NO_BLOCK = ["94715166712","94719574492"]
 //👇 DISABLE download words
-global.IMG_BLOCKER = ["xxx","sex","mia"]
+global.IMG_BLOCKER = ["xxx","sex","mia","Sex","fuck","nude","boobs","nipple","pussy","lip kiss"]
 //👇 Open ai API Put Withouth "sk-" ( "sk-" අයින් කරල ඉතුරු ටික දාන්න )
 global.CHATGPT_API = ''
 //👇 Sex  video Download Allowed Groups
@@ -184,8 +184,8 @@ global.mess = {
 
 
 //other
-global.pemilik = ['94763516471'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94763516471'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pemilik = ['94715652343'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['94715652343'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
 global.pengguna = '༄●⃝𝐌𝐫_𝐎𝐳 _ 𝐗𝐗𝐗 𝟗 ∆' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
