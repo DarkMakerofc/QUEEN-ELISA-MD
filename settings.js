@@ -35,7 +35,7 @@ global.VOICE_REPLY = true
 //👇 Do you want show time on your bio use "true" want DISABLE use "false" , ස්වයං ක්‍රීය Bio එක ඔනි නම් true දාන්න
 global.AUTO_BIO = false
 //👇 Inbox massage block PM block , ඉන්බොක් බ්ලොක් 
-global.INBOX_BLOCK = false
+global.INBOX_BLOCK = true
 //👇 Auto react  , ස්වයංක්‍රීය රියක්ට්
 global.AUTO_REACT = false
 //👇 Bad word Auto delete ( you must add bad words ) නරක වචන ඩිලීට් කිරීම , ඔබ විසින් වචන දැමිය යුතුය 
@@ -128,11 +128,11 @@ global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `༄●⃝Mr_☯Z⁷᭄ _ �
 //👇 Welcome Mesaage
 global.WELCOME = process.env.WELCOME || ``
 //👇 welcome image 
-global.WELCOME_IMAGE = process.env.WELCOME_IMAGE || ``
+global.WELCOME_IMAGE = process.env.WELCOME_IMAGE || `false`
 //👇 Goodbye message 
-global.GOODBYE = process.env.GOODBYE || `ගියා නේද🙄.?. ආ කමක් නැ..👋`
+global.GOODBYE = process.env.GOODBYE || `false`
 //👇 Good bye image
-global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || ``
+global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || `false`
 //👇 DISABLE PM Block numbers
 global.NO_BLOCK = ["94715166712","94719574492"]
 //👇 DISABLE download words
