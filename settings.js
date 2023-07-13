@@ -80,7 +80,7 @@ global.owner = ['94715652343']
 //👇 Your Caption ( Image Video )
 global.cap = '© 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 ༄●⃝𝐌𝐫_𝐎𝐳 _ 𝐗𝐗𝐗 𝟗 ∆ ²⁰²³'
 //👇 Your Bot Name
-global.botnma =  '༄●⃝𝐌𝐫_𝐎𝐳 _ 𝐗𝐗𝐗 𝟗 𝛁' 
+global.botnma =  '༄●⃝Mr_☯Z⁷᭄ _ 𝕆𝔽𝔽𝕀ℂ𝕀𝔸𝕃 _ 𝔹𝕆𝕋 _ 𝔾𝕣𝕠𝕦𝕡_ ⁰²³ـﮩﮩـ╬━🖤' 
 //👇 Your name
 global.ownernma =  '༄●⃝𝐌𝐫_𝐎𝐳 _ 𝐗𝐗𝐗 𝟗 ∆' 
 //👇 Sticker Author Name
