@@ -1,18 +1,15 @@
-/*
- █▀▀█ █░▒█ █▀▀▀ █▀▀▀ █▄░▒█       █▀▀▀ █░░░ ▀█▀ █▀▀▀█ █▀▀█
- █░▒█ █░▒█ █▀▀▀ █▀▀▀ █▒█▒█       █▀▀▀ █░░░ ░█░ ▀▀▀▄▄ █▄▄█
- ▀▀█▄ ▀▄▄▀ █▄▄▄ █▄▄▄ █░░▀█       █▄▄▄ █▄▄█ ▄█▄ █▄▄▄█ █░▒█
 
-WHATSAPP BOT BY MR NIMA ( DARK MAKER OFC )
 
-WHATSAPP - 94719574492
-SUPPORT GROUP - https://t.me/queenelisasupport
-YOUTUBE - http://youtube.com/MRNIMAOFC
+WHATSAPP BOT BY MR DENNIS ( BIG BROTHER)
+
+WHATSAPP - 2347018087851
+SUPPORT GROUP - https://chat.whatsapp.com/JJIry5Jw3FOL9v1DEe7efc
+YOUTUBE - http://youtube.com/deeads9762
 
 
 ℹ️ SPECIAL INFORMATION ℹ️
 
-Welcome to Queen Elisa Whatsapp Bot settings.js.
+Welcome to BIG BROTHER Whatsapp Bot settings.js.
 Information provided to you.
 If you use true or false
 true = if you want to do that task
@@ -31,25 +28,25 @@ const chalk = require('chalk')
 //👇 if you need seen massage use " true " , මැසේජ් සීන් කරන්න ඔනි නම් true දාන්න ඔනි නැත්තම් false දාන්න
 global.READ_MASSAGE = false
 //👇 enable DISABLE Girls Voice Reply , Auto Voice Reply යවන්න ඔනි නම් true දාන්න 
-global.VOICE_REPLY = false
+global.VOICE_REPLY = true
 //👇 Do you want show time on your bio use "true" want DISABLE use "false" , ස්වයං ක්‍රීය Bio එක ඔනි නම් true දාන්න
-global.AUTO_BIO = false
+global.AUTO_BIO = true
 //👇 Inbox massage block PM block , ඉන්බොක් බ්ලොක් 
 global.INBOX_BLOCK = false
 //👇 Auto react  , ස්වයංක්‍රීය රියක්ට්
 global.AUTO_REACT = false
 //👇 Bad word Auto delete ( you must add bad words ) නරක වචන ඩිලීට් කිරීම , ඔබ විසින් වචන දැමිය යුතුය 
-global.ANTI_BADWORD = false
+global.ANTI_BADWORD = true
 //👇 Kick And Auto Delete Group link Senders , ස්මූහ ස්බැදි දමන අයව ඉවත් කරයි
-global.ANTI_G_LINK = false
+global.ANTI_G_LINK = true
 //👇 212 Number block
-global.NUMBER_212_BLOCK = false
+global.NUMBER_212_BLOCK = true
 //👇 Send Welcome ( true or false ) වෙල්කම් ගූඩ් බායි මැසේජ් යවන්න ඔනි නම් 
-global.SEND_WELCOME = process.env.SEND_WELCOME || false
+global.SEND_WELCOME = process.env.SEND_WELCOME || true
 //👇 Send block command message (true or false )
-global.BLOCK_CMD_MESSAGE_SEND = false
+global.BLOCK_CMD_MESSAGE_SEND = true
 //👇 Send Auto reply , sticker , voice Use true and costemize your own 
-global.AUTO_FUNCTION = false
+global.AUTO_FUNCTION = true
 //👇 Put Bot Offline
 global.BOT_OFFLINE = false
 //👇 Only PreFix [ true / false ]
@@ -61,7 +58,7 @@ global.DISABLE_INBOX = false
 //👇 DISABLE inbox message send ඉන්බොක්ස් වැඩනොකරන බවට මැසේජ් එක යැවිම true or false 
 global.DISABLE_INBOX_MESSAGE_SEND = false
 //👇 Pron Video Download 
-global.SEX_VIDEO_DOWNLOAD = false
+global.SEX_VIDEO_DOWNLOAD = true
 //👇 Only Inbox Use ( Only PM Work )
 global.INBOX_ONLY_WORK = false
 //👇 Auto ChatGPT ( You Must put CHATGPT API KEY For use this )
@@ -76,11 +73,11 @@ global.DISABLE_COMMAND_MESSAGE_SEND = false
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['2347018087851'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
+global.cap = '© BIG BROTHER ²⁰²³'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  'DENNIS BOT 3 𝛁' 
 //👇 Your name
 global.ownernma =  'ᴍ ʀ ⃞ ɴ ɪ ᴍ ᴀ' 
 //👇 Sticker Author Name
@@ -96,7 +93,7 @@ global.SONG_UP = '```⬆️ Uploding Your Song...```'
 //👇 Menu imoji 
 global.MENU_IMOJI = '👸|ℹ️'
 //👇 Your time zone ( use correct time zone )
-global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Colombo'
+global.TIME_ZONE = process.env.TIME_ZONE || 'Africa/Nigeria'
 //👇 Removebg Api key
 global.REMOVE_BG_API = 'apikey get on remoebg.com'
 //👇 Change Bot Language 
@@ -122,7 +119,7 @@ global.CHATGPT_API = ''
 //👇 Sex  video Download Allowed Groups
 global.SEX_DOWNLOAD_GROUPS = ['120363147404508506@g.us']
 //👇 Your Bot Group Link
-global.GROUP_LINK = 'https://chat.whatsapp.com/Ih1udrdBNvX5xSu5mUVdql'
+global.GROUP_LINK = 'https://chat.whatsapp.com/JJIry5Jw3FOL9v1DEe7efc'
 /*
 
    🍃 OTHER 🍃
@@ -164,17 +161,17 @@ global.mess = {
 
 
 //other
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
+global.pemilik = ['2347018087851'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['2347018087851'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'BIG BROTHER' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '👽'
-global.weem = 'QUEEN ELISA'
+global.weem = 'BIG BROTHER'
 
 global.limitawal = {
     premium: "Infinity", 
-    free: 90 
+    free: 90000
 }
 //global api
 global.fbapi = 'dd79-1aeb-21a3'
