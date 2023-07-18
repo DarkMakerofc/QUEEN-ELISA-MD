@@ -39,9 +39,9 @@ global.INBOX_BLOCK = false
 //👇 Auto react  , ස්වයංක්‍රීය රියක්ට්
 global.AUTO_REACT = false
 //👇 Bad word Auto delete ( you must add bad words ) නරක වචන ඩිලීට් කිරීම , ඔබ විසින් වචන දැමිය යුතුය 
-global.ANTI_BADWORD = false
+global.ANTI_BADWORD = true
 //👇 Kick And Auto Delete Group link Senders , ස්මූහ ස්බැදි දමන අයව ඉවත් කරයි
-global.ANTI_G_LINK = false
+global.ANTI_G_LINK = true
 //👇 212 Number block
 global.NUMBER_212_BLOCK = false
 //👇 Send Welcome ( true or false ) වෙල්කම් ගූඩ් බායි මැසේජ් යවන්න ඔනි නම් 
@@ -49,7 +49,7 @@ global.SEND_WELCOME = process.env.SEND_WELCOME || false
 //👇 Send block command message (true or false )
 global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Send Auto reply , sticker , voice Use true and costemize your own 
-global.AUTO_FUNCTION = false
+global.AUTO_FUNCTION = true
 //👇 Put Bot Offline
 global.BOT_OFFLINE = false
 //👇 Only PreFix [ true / false ]
@@ -57,7 +57,7 @@ global.ONLY_PREFIX = false
 //👇 This uplaod youtube videos without limit ⚠️ if you use this you must have paid sever
 global.UPLOAD_MAX = false
 //👇 Desabale Bot inbox ඉන්බොක්ස් බ්ලොක් නොවී වැඩ නොකරන්නනම් 
-global.DISABLE_INBOX = false 
+global.DISABLE_INBOX = true
 //👇 DISABLE inbox message send ඉන්බොක්ස් වැඩනොකරන බවට මැසේජ් එක යැවිම true or false 
 global.DISABLE_INBOX_MESSAGE_SEND = false
 //👇 Pron Video Download 
@@ -65,7 +65,7 @@ global.SEX_VIDEO_DOWNLOAD = false
 //👇 Only Inbox Use ( Only PM Work )
 global.INBOX_ONLY_WORK = false
 //👇 Auto ChatGPT ( You Must put CHATGPT API KEY For use this )
-global.AUTO_OPEN_AI = false
+global.AUTO_OPEN_AI = true
 //👇 Bot On Privet
 global.PRIVET_BOT = false
 //👇 DISABLE Bot Commands But Others Are Working 
@@ -76,15 +76,15 @@ global.DISABLE_COMMAND_MESSAGE_SEND = false
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['94763516471'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
+global.cap = '© Created By ༄●⃝𝐌𝐫_𝐎𝐳 _ 𝐗𝐗𝐗 𝟗 ∆ ²⁰²³'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  '༄●⃝𝐌𝐫_𝐎𝐳 _ 𝐗𝐗𝐗 𝟗 ∆ 𝛁' 
 //👇 Your name
-global.ownernma =  'ᴍ ʀ ⃞ ɴ ɪ ᴍ ᴀ' 
+global.ownernma =  '༄●⃝𝐌𝐫_𝐎𝐳 _ 𝐗𝐗𝐗 𝟗 ∆' 
 //👇 Sticker Author Name
-global.packname =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.packname =  '༄●⃝𝐌𝐫_𝐎𝐳 _ 𝐎𝐅𝐂 𝟗 ∆' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
@@ -102,9 +102,27 @@ global.REMOVE_BG_API = 'apikey get on remoebg.com'
 //👇 Change Bot Language 
 global.LANG = 'EN'
 //Alive logo
-global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
+global.alivelogo = process.env.ALIVE_IMAGE || `https://i.postimg.cc/3RdhWDjx/IMG-20230712-192745-102.jpg`
 //👇 Alive message
-global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `default`
+global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `༄●⃝Mr_☯Z⁷᭄ _ 𝕆𝔽𝔽𝕀ℂ𝕀𝔸𝕃 _ 𝔹𝕆𝕋 _ 𝔾𝕣𝕠𝕦𝕡_ ²⁰²³ـﮩ╬🖤
+
+ℍ𝕪.....  𝕀'𝕞_𝕠𝕟𝕝𝕚𝕟𝕖_ℕ𝕠𝕨 🥰
+🦞□□□□□ 0%
+🦞■□□□□ 20%
+🦞■■□□□ 40%
+🦞■■■□□ 60%
+🦞■■■■□ 80%
+🦞■■■■■ 100%
+
+⭕𝔽𝕠𝕝𝕝𝕠𝕨 𝕋𝕙𝕚𝕤 ℂ𝕠𝕞𝕞𝕒𝕟𝕕👇*
+⌨️ ℙ𝕝𝕖𝕒𝕤𝕖 𝕋𝕪𝕡𝕖 "*.𝕞𝕖𝕟𝕦*" 𝕋𝕠 𝔾𝕖𝕥 𝔸𝕝𝕝 ℂ𝕠𝕞𝕞𝕒𝕟𝕕 📝
+⌨️ කමාන්ඩ් ලිස්ට් එක ගන්න .menu කියලා ටයිප් කරන්න 📝
+
+👥 𝕎𝕙𝕒𝕥𝕤𝕒𝕡𝕡 𝔹𝕠𝕥 𝔾𝕣𝕠𝕦𝕡 👉 * https://chat.whatsapp.com/GcJ5iJWGa48LU5TEOwknV4
+📲 ℂ𝕠𝕟𝕥𝕒𝕔𝕥 𝕄𝕖 👉 *+94763516471
+
+🥰​🇹​​🇭​​🇦​​🇳​​🇰​​🇸​  ​🇫​​🇴​​🇷​  ​🇺​​🇸​​🇮​​🇳​​🇬​ ​🇲​​🇾​ ​ 🇧​​🇴​​🇹🥰`
+
 //👇 Welcome Mesaage
 global.WELCOME = process.env.WELCOME || ``
 //👇 welcome image 
@@ -122,7 +140,7 @@ global.CHATGPT_API = ''
 //👇 Sex  video Download Allowed Groups
 global.SEX_DOWNLOAD_GROUPS = ['120363147404508506@g.us']
 //👇 Your Bot Group Link
-global.GROUP_LINK = 'https://chat.whatsapp.com/Ih1udrdBNvX5xSu5mUVdql'
+global.GROUP_LINK = 'https://chat.whatsapp.com/GcJ5iJWGa48LU5TEOwknV4'
 /*
 
    🍃 OTHER 🍃
@@ -164,9 +182,9 @@ global.mess = {
 
 
 //other
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
+global.pemilik = ['94763516471'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['94763516471'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = '༄●⃝𝐌𝐫_𝐎𝐳 _ 𝐗𝐗𝐗 𝟗 ∆' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '👽'
