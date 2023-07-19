@@ -87,7 +87,7 @@ global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙷𝙳𝚃𝙸 
 //👇 Your Bot Name
 global.botnma =  '𝙷𝙳𝚃𝙸 𝚂𝚈𝚂𝚃𝙴𝙽 𝙼𝙳 3 𝛁' 
 //👇 Your name
-global.ownernma =  'ᴍ ʀ ⃞ ɴ ɪ ᴍ ᴀ' 
+global.ownernma =  'ᴛʜᴀʀɪ.ʙʀᴏ' 
 //👇 Sticker Author Name
 global.packname =  '𝙼𝚁 𝚃𝙷𝙰𝚁𝙸.𝙱𝚁𝙾' 
 //👇 Inbox Block Massage 
@@ -109,7 +109,29 @@ global.LANG = 'EN'
 //Alive logo
 global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
 //👇 Alive message
-global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `default`
+global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `👋🄷🄴🄻🄻🄾 🄸🄰🄼  🄷🄳🅃🄸 🅂🅈🅂🅃🄴🄼
+
+🎻⏰Hey There! I m Online 24 🪄
+
+🎻🎯 ʜᴅᴛɪ ꜱyꜱᴛᴇᴍ ᴡʜᴀᴛꜱ ᴀᴘᴘ ʙᴏᴛ
+┏━━━━━━━━━━━━━━━━➣
+┃➣✘My name : ʜᴅᴛɪ ꜱyꜱᴛᴇᴍ
+┃
+┃➣✘Developer: ᴍʀ ᴛʜᴀʀɪ.ʙʀᴏ 
+┃
+┃➣✘ Contact me : ❰ wa.me/94789003663 ❱ 
+┃
+┃➣✘Platfrom: Heroku 
+┃
+┃➣✘🄱🄾🅃🄾🄽🄻🄸🄽🄴 : ❮ .𝗮𝗹𝗶𝘃𝗲 ❯
+┃
+┃➣✘🄲🄾🄼🄼🄰🄽🄳 : ❮ .𝗺𝗲𝗻𝘂 ❯
+┃
+┃➣✘🄱🄾🅃🅂🄴🄴🄿🄳 : ❮ .𝗽𝗶𝗻𝗴 ❯
+┃➣✘ ᴍᴀɪɴ ʙᴏᴛ ɢʀᴏᴜᴘ ʟɪɴᴋ : https://chat.whatsapp.com/JA4qpXs92slDqgOwVR3zjt
+┗━━━━━━━━━━━━➣
+
+ʜᴅᴛɪ ꜱyꜱᴛᴇᴍ • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ`
 //👇 Welcome Mesaage
 global.WELCOME = process.env.WELCOME || ``
 //👇 welcome image 
