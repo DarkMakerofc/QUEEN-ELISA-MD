@@ -151,7 +151,22 @@ global.WELCOME = process.env.WELCOME || `*WELCOME TO HDTI MUSIC OFFICIAL BOT SER
 //👇 welcome image 
 global.WELCOME_IMAGE = process.env.WELCOME_IMAGE || ``
 //👇 Goodbye message 
-global.GOODBYE = process.env.GOODBYE || ``
+global.GOODBYE = process.env.GOODBYE || `*Link share කොරලා sup එකක් දෙන්න ළමයි හොමෝම 🌝❤️*
+
+ᴍᴀɪɴ ɢʀᴏᴜᴩꜱ 💗🔥 :
+
+1)https://chat.whatsapp.com/JA4qpXs92slDqgOwVR3zjt
+
+2)https://chat.whatsapp.com/JH9DWPS1MbH2CsgoofE8GA
+
+ᴏᴛʜᴇʀ ɢʀᴏᴜᴩꜱ ♥️💫 :
+
+1)https://chat.whatsapp.com/HmxRz9BbzcBDS7IG43XZGw
+
+2)https://chat.whatsapp.com/LRcXY6XEiY30bbDm5dDkPM
+
+
+*_ᴩᴏᴡᴇʀᴇᴅ ʙy ʜᴅᴛɪ ꜱyꜱᴛᴇᴍ_*`
 //👇 Good bye image
 global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || ``
 //👇 DISABLE PM Block numbers
@@ -163,7 +178,7 @@ global.CHATGPT_API = ''
 //👇 Sex  video Download Allowed Groups
 global.SEX_DOWNLOAD_GROUPS = ['120363147404508506@g.us']
 //👇 Your Bot Group Link
-global.GROUP_LINK = 'https://chat.whatsapp.com/Ih1udrdBNvX5xSu5mUVdql'
+global.GROUP_LINK = 'https://chat.whatsapp.com/JA4qpXs92slDqgOwVR3zjt'
 /*
 
    🍃 OTHER 🍃
@@ -205,9 +220,9 @@ global.mess = {
 
 
 //other
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
+global.pemilik = ['94789003663'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['94789003663'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'Thari.bro' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '👽'
