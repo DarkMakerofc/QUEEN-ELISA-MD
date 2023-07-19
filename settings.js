@@ -133,7 +133,21 @@ global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `👋🄷🄴🄻🄻🄾 �
 
 ʜᴅᴛɪ ꜱyꜱᴛᴇᴍ • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ`
 //👇 Welcome Mesaage
-global.WELCOME = process.env.WELCOME || ``
+global.WELCOME = process.env.WELCOME || `*WELCOME TO HDTI MUSIC OFFICIAL BOT SERVICE 💗🎧*
+ᴍᴀɪɴ ɢʀᴏᴜᴩꜱ 💗🔥 :
+
+1)https://chat.whatsapp.com/JA4qpXs92slDqgOwVR3zjt
+
+2)https://chat.whatsapp.com/JH9DWPS1MbH2CsgoofE8GA
+
+ᴏᴛʜᴇʀ ɢʀᴏᴜᴩꜱ ♥️💫 :
+
+1)https://chat.whatsapp.com/HmxRz9BbzcBDS7IG43XZGw
+
+2)https://chat.whatsapp.com/LRcXY6XEiY30bbDm5dDkPM
+
+
+*_ᴩᴏᴡᴇʀᴇᴅ ʙy ʜᴅᴛɪ ꜱyꜱᴛᴇᴍ_*`
 //👇 welcome image 
 global.WELCOME_IMAGE = process.env.WELCOME_IMAGE || ``
 //👇 Goodbye message 
