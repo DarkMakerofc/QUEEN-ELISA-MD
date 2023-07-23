@@ -81,7 +81,7 @@ global.AUTO_SEEN_STATUS = true
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94768211101'] 
+global.owner = ['94753335072'] 
 //👇 Your Caption ( Image Video )
 global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
 //👇 Your Bot Name
@@ -119,7 +119,7 @@ global.GOODBYE = process.env.GOODBYE || ``
 //👇 Good bye image
 global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || ``
 //👇 DISABLE PM Block numbers
-global.NO_BLOCK = ['+94753335072']
+global.NO_BLOCK = ['+94753335075']
 //👇 DISABLE download words
 global.IMG_BLOCKER = ["xxx","sex","mia"]
 //👇 Open ai API Put Withouth "sk-" ( "sk-" අයින් කරල ඉතුරු ටික දාන්න )
@@ -169,8 +169,8 @@ global.mess = {
 
 
 //other
-global.pemilik = ['94768211101'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94768211101'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pemilik = ['94753335072 //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['94753335072'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
 global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
