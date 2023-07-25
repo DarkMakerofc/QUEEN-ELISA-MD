@@ -62,7 +62,7 @@ global.DISABLE_INBOX = true
 //👇 DISABLE inbox message send ඉන්බොක්ස් වැඩනොකරන බවට මැසේජ් එක යැවිම true or false 
 global.DISABLE_INBOX_MESSAGE_SEND = true
 //👇 Pron Video Download 
-global.SEX_VIDEO_DOWNLOAD = false
+global.SEX_VIDEO_DOWNLOAD = true
 //👇 Only Inbox Use ( Only PM Work )
 global.INBOX_ONLY_WORK = false
 //👇 Auto ChatGPT ( You Must put CHATGPT API KEY For use this )
@@ -206,14 +206,14 @@ global.mess = {
     DISABLE_INBOX : "Inbox DISABLE By Bot Owner Please Only Use Groups",
     ONLY_SEX_GROUP : "Adult Video Download Only Allowed On This Group \n\n https://chat.whatsapp.com/JYAg2lMpRTF2bgkeFCxsvf",
     DISABLE_CMD : "🚫 Commands Are DISABLE by owner",
-    BAD_DETECT : '',
-    BLOCK : '',
-    UNBLOCK : '',
-    KICK : '',
-    ADD : '',
-    LEAVE : '',
-    PROMOTE : '',
-    DEMOTE : ''
+    BAD_DETECT : '*Bad word detected ⚠️*',
+    BLOCK : '*Number successfully blocked 🚫*',
+    UNBLOCK : '*Number successfully unblocked ☑️*',
+    KICK : '*Admin kicked by user ⛔*',
+    ADD : '*Admin added by user 👤*',
+    LEAVE : '*Admin leaved 😢*',
+    PROMOTE : '*Successfully promoted user 🕊️*',
+    DEMOTE : '*Successfully demoted user ❎*'
 }
 
 
