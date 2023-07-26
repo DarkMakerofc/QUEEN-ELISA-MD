@@ -16,8 +16,7 @@ Welcome to Queen Elisa Whatsapp Bot settings.js.
 Information provided to you.
 If you use true or false
 true = if you want to do that task
-false = return if you don't want to do the task.
-When you change the ones inside the commas, change them correctly.
+false = return if you don't want to do the task.When you change the ones inside the commas, change them correctly.
 If you are using Sex Video Downloader, you need to get permission from Bot Devoper. 
 
 */
@@ -54,7 +53,7 @@ global.AUTO_FUNCTION = false
 //👇 Put Bot Offline
 global.BOT_OFFLINE = false
 //👇 Only PreFix [ true / false ]
-global.ONLY_PREFIX = false
+global.ONLY_PREFIX = true
 //👇 This uplaod youtube videos without limit ⚠️ if you use this you must have paid sever
 global.UPLOAD_MAX = false
 //👇 Desabale Bot inbox ඉන්බොක්ස් බ්ලොක් නොවී වැඩ නොකරන්නනම් 
@@ -68,7 +67,7 @@ global.INBOX_ONLY_WORK = false
 //👇 Auto ChatGPT ( You Must put CHATGPT API KEY For use this )
 global.AUTO_OPEN_AI = false
 //👇 Bot On Privet
-global.PRIVET_BOT = false
+global.PRIVET_BOT = true 
 //👇 DISABLE Bot Commands But Others Are Working 
 global.DISABLE_COMMANDS = false
 //👇 DISABLE Bot Commands On Message Send On Off
@@ -81,15 +80,15 @@ global.AUTO_SEEN_STATUS = true
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['2348159911260'] 
 //👇 Your Caption ( Image Video )
 global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  '𝚫𝐘𝚫𝚴𝚯𝐊𝚯𝐉𝚰 𝐊𝚰𝐘𝚯𝚻𝚫𝐊𝚫 𝛁' 
 //👇 Your name
-global.ownernma =  'ᴍ ʀ ⃞ ɴ ɪ ᴍ ᴀ' 
+global.ownernma =  'segxy' 
 //👇 Sticker Author Name
-global.packname =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.packname =  '𝚫𝐘𝚫𝚴𝚯𝐊𝚯𝐉𝚰 𝐊𝚰𝐘𝚯𝚻𝚫𝐊𝚫' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
