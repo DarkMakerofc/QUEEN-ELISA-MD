@@ -31,7 +31,7 @@ const chalk = require('chalk')
 //👇 if you need seen massage use " true " , මැසේජ් සීන් කරන්න ඔනි නම් true දාන්න ඔනි නැත්තම් false දාන්න
 global.READ_MASSAGE = false
 //👇 enable DISABLE Girls Voice Reply , Auto Voice Reply යවන්න ඔනි නම් true දාන්න 
-global.VOICE_REPLY = false
+global.VOICE_REPLY = true
 //👇 Do you want show time on your bio use "true" want DISABLE use "false" , ස්වයං ක්‍රීය Bio එක ඔනි නම් true දාන්න
 global.AUTO_BIO = true
 //👇 Inbox massage block PM block , ඉන්බොක් බ්ලොක් 
@@ -76,15 +76,15 @@ global.DISABLE_COMMAND_MESSAGE_SEND = false
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94761702752'] 
+global.owner = ['917718617125'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 Itz Me Zany" ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝐌𝐑 | 𝐏∆𝐏∆𝐈" ²⁰²³'
 //👇 Your Bot Name
-global.botnma =  'Itz Me Zany"' 
+global.botnma =  '𝐌𝐑 | 𝐏∆𝐏∆𝐈"' 
 //👇 Your name
-global.ownernma =  'Itz Me Zany"' 
+global.ownernma =  '𝐌𝐑 | 𝐏∆𝐏∆𝐈"' 
 //👇 Sticker Author Name
-global.packname =  ' Itz Me Zany" ' 
+global.packname =  ' 𝐌𝐑 | 𝐏∆𝐏∆𝐈" ' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = ' _*SORRY ❌*_
 © 𝐌𝐑 | 𝐏∆𝐏∆𝐈 _BLOCKED U ⚠️📍_ '
@@ -138,7 +138,7 @@ global.zenzapi = '01ABEB1E11'
 */
 global.mess = {
     success: '✅ Done!',
-    admin: '*Only admins can use this command !*',
+    admin: '*Only 𝐌𝐑 | 𝐏∆𝐏∆𝐈 admin can use this command !*',
     botAdmin: '*Please admin the bot first !*',
     owner: '*Sorry, this command is only for the owner !*',
     group: '*This command can only be used in groups !*',
