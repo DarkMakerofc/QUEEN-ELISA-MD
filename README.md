@@ -1,18 +1,17 @@
 
 <p align="center"> 
-<u>♥️ ᴀɴ ᴡʜᴀᴛsᴀᴘᴘ ᴜsᴇʀ ʙᴏᴛ ʙʏ ᴍʀ ɴɪᴍᴀ ♥️</u>
+<u>♥️ ᴀɴ ᴡʜᴀᴛsᴀᴘᴘ ᴜsᴇʀ ʙᴏᴛ ʙʏ ᴍʀ ʏᴇʜᴀ ♥️</u>
 </p>
 <p align="center">
-<img src="https://i.ibb.co/nPYVtwV/queen-elisa-new-logo-600-600.jpg" width="300" height="300"/>
+<a href="https://ibb.co/T149htG"><img src="https://i.ibb.co/vh30zkW/IMG-20230801-WA0176-modified.png" alt="IMG-20230801-WA0176-modified" border="0"></a>
+<p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Mr+Yeha+Md+Whatsapp+Bot" alt="">
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=QUEEN+ELISA+WHATSAPP+BOT" alt="">
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Mryeha-gold.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Mrnima-red.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://github.com/darkmakerofc?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
+<a href="https://github.com/Yehan0?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
 <a href="https://github.com/DarkMakerofc/Queen-Elisa-Md-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/darkmakerofc/Queen-Elisa-MD-V2?color=white&style=flat-square"></a>
 <a href="https://github.com/DarkMakerofc/Queen-Elisa-Md-V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/darkmakerofc/Queen-Elisa-MD-V2?color=yellow&style=flat-square"></a>
 <a href="https://github.com/DarkMakerofc/Queen-Elisa-Md-V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/darkmakerofc/Queen-Elisa-MD-V2?label=Watchers&color=red&style=flat-square"></a>
@@ -26,21 +25,25 @@
 ### Please Give One Star ✨ & [follow for me notify my updates 💗](https://github.com/DarkMakerofc)
 <b>Version --> 3.9.0</b>
 # 
-Queen elisa whatsapp bot is,
+Yeha Md whatsapp bot is,
 
-      Queen elisa whatsapp bot is an easy to use whatsapp robot.   |  Queen elisa whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
+      Yeha Md whatsapp bot is an easy to use whatsapp robot.   |  Yeha Md whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
 
 # 
 * 𝗙𝗢𝗥𝗞 𝗡𝗢𝗪
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/DarkMakerofc/Queen-Elisa-MD-V2/fork"><img align="center" src="https://telegra.ph/file/3514997e86c4bb12d8f67.png" alt="Fork and deploy" height="35" width="155" /></a>
 
 # 
 
 * [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@MRNima/QUEEN-ELISA-MULTIAUTH-QR-SCANER)
 
-      ℹ️ if there any error please infrom it support group.  | මෙහිදී යම් ගැටලුවක් ඇති උවහොත් සහය සමූහය වෙත සම්බන්ධ වන්න.
+      ℹ️ if there any error please infrom it support group.  | මෙහිදී යම් ගැටලුවක් ඇති උවහොත් සහය සමූහය වෙත සම්බන්ධ වන්න. හෝ මා සමග සම්බන්ද වන්න.
+
+<p align="center">
+<a href="https//:wa.me+94764470256"><img title="Whatsapp" src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
+  
 # 
 
 <details>
@@ -65,15 +68,15 @@ Queen elisa whatsapp bot is,
   ##* [How To setup Github 1st step](https://youtu.be/DEpSpJRg4CA)
   
  * Deploy on Heroku Video ⇓
- <p align="left">
+ <p align="center">
 <a href="https://youtu.be/IIl6etHMyoA"><img align="center" src="https://telegra.ph/file/30a48f9e9879189d2ef6d.jpg" alt="DEPLOY" height="110" width="200" /></a>
    
 * Deploy on Railway Video ⇓
- <p align="left">
+ <p align="center">
 <a href="https://youtu.be/j91TKKIXaMg"><img align="center" src="https://telegra.ph/file/517fafc4228129ff18510.jpg" alt="DEPLOY" height="110" width="200" /></a>
    
 * Deploy on Replit Video ⇓
- <p align="left">
+ <p align="center">
 <a href="[https://youtube.com/mrnimaofc](https://youtu.be/j91TKKIXaMg)"><img align="center" src="https://telegra.ph/file/909f2519b1dc65a338b29.jpg" alt="DEPLOY" height="110" width="200" /></a>
    
    
