@@ -32,7 +32,7 @@ Yeha Md whatsapp bot is,
 # 
 * 𝗙𝗢𝗥𝗞 𝗡𝗢𝗪
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/DarkMakerofc/Queen-Elisa-MD-V2/fork"><img align="center" src="https://telegra.ph/file/3514997e86c4bb12d8f67.png" alt="Fork and deploy" height="35" width="155" /></a>
 
 # 
@@ -68,15 +68,15 @@ Yeha Md whatsapp bot is,
   ##* [How To setup Github 1st step](https://youtu.be/DEpSpJRg4CA)
   
  * Deploy on Heroku Video ⇓
- <p align="left">
+ <p align="center">
 <a href="https://youtu.be/IIl6etHMyoA"><img align="center" src="https://telegra.ph/file/30a48f9e9879189d2ef6d.jpg" alt="DEPLOY" height="110" width="200" /></a>
    
 * Deploy on Railway Video ⇓
- <p align="left">
+ <p align="center">
 <a href="https://youtu.be/j91TKKIXaMg"><img align="center" src="https://telegra.ph/file/517fafc4228129ff18510.jpg" alt="DEPLOY" height="110" width="200" /></a>
    
 * Deploy on Replit Video ⇓
- <p align="left">
+ <p align="center">
 <a href="[https://youtube.com/mrnimaofc](https://youtu.be/j91TKKIXaMg)"><img align="center" src="https://telegra.ph/file/909f2519b1dc65a338b29.jpg" alt="DEPLOY" height="110" width="200" /></a>
    
    
