@@ -25,9 +25,9 @@
 ### Please Give One Star ✨ & [follow for me notify my updates 💗](https://github.com/DarkMakerofc)
 <b>Version --> 3.9.0</b>
 # 
-Queen elisa whatsapp bot is,
+Yeha Md whatsapp bot is,
 
-      Queen elisa whatsapp bot is an easy to use whatsapp robot.   |  Queen elisa whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
+      Yeha Md whatsapp bot is an easy to use whatsapp robot.   |  Yeha Md whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
 
 # 
 * 𝗙𝗢𝗥𝗞 𝗡𝗢𝗪
@@ -39,7 +39,11 @@ Queen elisa whatsapp bot is,
 
 * [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@MRNima/QUEEN-ELISA-MULTIAUTH-QR-SCANER)
 
-      ℹ️ if there any error please infrom it support group.  | මෙහිදී යම් ගැටලුවක් ඇති උවහොත් සහය සමූහය වෙත සම්බන්ධ වන්න.
+      ℹ️ if there any error please infrom it support group.  | මෙහිදී යම් ගැටලුවක් ඇති උවහොත් සහය සමූහය වෙත සම්බන්ධ වන්න. හෝ මා සමග සම්බන්ද වන්න.
+
+<p align="center">
+<a href="https//:wa.me+94764470256"><img title="Whatsapp" src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
+  
 # 
 
 <details>
