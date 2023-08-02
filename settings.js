@@ -5,10 +5,10 @@
 
 WHATSAPP BOT BY MR NIMA ( DARK MAKER OFC )
 
-WHATSAPP - 94719574492
+WHATSAPP - 923170500586
 WEB SITE - http://queenelisa.42web.io/
-SUPPORT GROUP - https://t.me/queenelisasupport
-YOUTUBE - http://youtube.com/MRNIMAOFC
+SUPPORT GROUP - https://chat.whatsapp.com/EGVWpySI4qvFMq7bkujj5C
+YOUTUBE - http://youtube.com/shayan4you
 
 
 */
@@ -29,11 +29,11 @@ global.AUTO_BIO = false
 //👇 Inbox massage block PM block
 global.INBOX_BLOCK = false
 //👇 Auto react 
-global.AUTO_REACT = false
+global.AUTO_REACT = true
 //👇 Bad word Auto delete ( you must add bad words )
 global.ANTI_BADWORD = false
 //👇 Kick And Auto Delete Group link Senders
-global.ANTI_G_LINK = false
+global.ANTI_G_LINK = true
 //👇 212 Number block
 global.NUMBER_212_BLOCK = false
 //👇 Send Welcome ( true or false )
@@ -43,7 +43,7 @@ global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Send Auto reply , sticker , voice Use true and costemize your own 
 global.AUTO_FUNCTION = false
 //👇 Put Bot Offline
-global.BOT_OFFLINE = false
+global.BOT_OFFLINE = false 
 //👇 Only PreFix [ true / false ]
 global.ONLY_PREFIX = false
 //👇 This uplaod youtube videos without limit ⚠️ if you use this you must have paid sever
@@ -52,15 +52,15 @@ global.UPLOAD_MAX = false
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['923170500586'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝐊𝚮𝚫𝚴ZADA ²⁰²³'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  '𝐊𝚮𝚫𝚴ZADA𝛁' 
 //👇 Your name
-global.ownernma =  '𝑴𝒓 𝑵𝒊𝒎𝒂' 
+global.ownernma =  '𝐒𝐊 𝐊𝚮𝚫𝚴' 
 //👇 Sticker Author Name
-global.packname =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.packname =  '𝐒𝐊 𝐊𝚮𝚫𝚴' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
@@ -78,9 +78,9 @@ global.REMOVE_BG_API = 'apikey get on remoebg.com'
 //👇 Pron Video Download 
 global.SEX_VIDEO_DOWNLOAD = process.env.SEX_VIDEO_DOWNLOAD || 'false'
 //👇 Change Bot Language 
-global.LANG = 'EN'
+global.LANG = 'EN-UR'
 //Alive logo
-global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
+global.alivelogo = process.env.ALIVE_IMAGE || `https://imgur.com/gallery/JCraTUO`
 //👇 Alive message
 global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `default`
 //👇 Welcome Mesaage
@@ -95,10 +95,9 @@ global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || ``
 global.NO_BLOCK = ["94715166712","94719574492"]
 //👇 Desable download words
 global.IMG_BLOCKER = ["xxx","sex","mia"]
-//👇 Open ai API
-global.CHATGPT_API = ''
-/*
-
+//👇 AUTO VIEW STATUS 
+global.AUTO_STATUS_VIEW = 'true'
+*
    🍃 OTHER 🍃
 
 */
