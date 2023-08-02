@@ -41,7 +41,7 @@ global.AUTO_REACT = false
 //👇 Bad word Auto delete ( you must add bad words ) නරක වචන ඩිලීට් කිරීම , ඔබ විසින් වචන දැමිය යුතුය 
 global.ANTI_BADWORD = true
 //👇 Kick And Auto Delete Group link Senders , ස්මූහ ස්බැදි දමන අයව ඉවත් කරයි
-global.ANTI_G_LINK = false
+global.ANTI_G_LINK = true
 //👇 212 Number block
 global.NUMBER_212_BLOCK = false
 //👇 Send Welcome ( true or false ) වෙල්කම් ගූඩ් බායි මැසේජ් යවන්න ඔනි නම් 
@@ -62,7 +62,7 @@ global.DISABLE_INBOX = false
 //👇 DISABLE inbox message send ඉන්බොක්ස් වැඩනොකරන බවට මැසේජ් එක යැවිම true or false 
 global.DISABLE_INBOX_MESSAGE_SEND = false
 //👇 Pron Video Download 
-global.SEX_VIDEO_DOWNLOAD = false
+global.SEX_VIDEO_DOWNLOAD = true
 //👇 Only Inbox Use ( Only PM Work )
 global.INBOX_ONLY_WORK = false
 //👇 Auto ChatGPT ( You Must put CHATGPT API KEY For use this )
