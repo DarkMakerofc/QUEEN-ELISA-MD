@@ -1,6 +1,6 @@
-
+⁸
 <p align="center"> 
-<u>♥️ ᴀɴ ᴡʜᴀᴛsᴀᴘᴘ ᴜsᴇʀ ʙᴏᴛ ʙʏ ᴍʀ ɴɪᴍᴀ ♥️</u>
+<u> ᴀɴ ᴡʜᴀᴛsᴀᴘᴘ ᴜsᴇʀ ʙᴏᴛ ʙʏ MULLAH </u>
 </p>
 <p align="center">
 <img src="https://i.ibb.co/nPYVtwV/queen-elisa-new-logo-600-600.jpg" width="300" height="300"/>
