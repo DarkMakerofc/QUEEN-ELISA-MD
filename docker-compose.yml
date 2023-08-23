@@ -1,0 +1,13 @@
+version: "3.9"
+services:
+  worker:
+    build: .
+    volumes:
+      - .:/code
+      - logvolume01:/var/log
+    links:
+      - redis
+  redis:
+    image: redis
+volumes:
+  logvolume01: {}
