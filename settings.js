@@ -41,7 +41,7 @@ global.AUTO_REACT = false
 //👇 Bad word Auto delete ( you must add bad words ) නරක වචන ඩිලීට් කිරීම , ඔබ විසින් වචන දැමිය යුතුය 
 global.ANTI_BADWORD = true
 //👇 Kick And Auto Delete Group link Senders , ස්මූහ ස්බැදි දමන අයව ඉවත් කරයි
-global.ANTI_G_LINK = false
+global.ANTI_G_LINK = true
 //👇 212 Number block
 global.NUMBER_212_BLOCK = true
 //👇 Send Welcome ( true or false ) වෙල්කම් ගූඩ් බායි මැසේජ් යවන්න ඔනි නම් 
@@ -52,7 +52,7 @@ global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Send Auto reply , sticker , voice Use true and costemize your own 
 global.AUTO_FUNCTION = false
 //👇 Put Bot Offline
-global.BOT_OFFLINE = true
+global.BOT_OFFLINE = false
 //👇 Only PreFix [ true / false ]
 global.ONLY_PREFIX = true
 //👇 This uplaod youtube videos without limit ⚠️ if you use this you must have paid sever
@@ -82,7 +82,7 @@ global.AUTO_SEEN_STATUS = false
 */
 // You Bots Owner Number 
 global.owner = ['94110821'] 
-//👇 Your Caption ( Image Video )
+//👇 Your Caption ( Image 📸)
 global.cap = '© GHOST 💀'
 //👇 Your Bot Name
 global.botnma =  'terminator dark 𝛁' 
@@ -93,7 +93,7 @@ global.packname =  ' Natious 𝙾𝙵𝙲' k
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
-global.OWNER_REACT =  '⌨️'
+global.OWNER_REACT =  '💀'
 //👇 Song Download Massage 
 global.SONG_DOWN = '```⬇️ Downloading Your Song...```' 
 //👇 Song Uplode massage 
@@ -123,11 +123,11 @@ global.NO_BLOCK = ["94110821","90627796"]
 //👇 DISABLE download words
 global.IMG_BLOCKER = ["xxx","sex","😁"]
 //👇 Open ai API Put Withouth "sk-" ( "sk-" අයින් කරල ඉතුරු ටික දාන්න )
-global.CHATGPT_API = ''
+global.CHATGPT_API = 'LRkgwMSvdp55QBupzyCYT3BlbkFJrUWWW6M7mg9X7xJJaYke'
 //👇 Sex  video Download Allowed Groups
 global.SEX_DOWNLOAD_GROUPS = ['120363147404508506@g.us']
 //👇 Your Bot Group Link
-global.GROUP_LINK = 'https://chat.whatsapp.com/Ih1udrdBNvX5xSu5mUVdql'
+global.GROUP_LINK = 'https://chat.whatsapp.com'
 /*
 
    🍃 OTHER 🍃
@@ -174,8 +174,8 @@ global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් 
 global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
-global.sp = '👽'
-global.weem = 'QUEEN ELISA'
+global.sp = '💀'
+global.weem = 'MULLAH'
 
 global.limitawal = {
     premium: "Infinity", 
