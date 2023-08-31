@@ -3,9 +3,9 @@
  █░▒█ █░▒█ █▀▀▀ █▀▀▀ █▒█▒█       █▀▀▀ █░░░ ░█░ ▀▀▀▄▄ █▄▄█
  ▀▀█▄ ▀▄▄▀ █▄▄▄ █▄▄▄ █░░▀█       █▄▄▄ █▄▄█ ▄█▄ █▄▄▄█ █░▒█
 
-WHATSAPP BOT BY MR NIMA ( DARK MAKER OFC )
+WHATSAPP BOT BY MR NIMA ( MD AISAN )
 
-WHATSAPP - 94719574492
+WHATSAPP - 919354869137
 SUPPORT GROUP - https://t.me/queenelisasupport
 YOUTUBE - http://youtube.com/MRNIMAOFC
 
@@ -133,7 +133,7 @@ global.GROUP_LINK = 'https://chat.whatsapp.com/Ih1udrdBNvX5xSu5mUVdql'
    🍃 OTHER 🍃
 
 */
-global.PORT = process.env.PORT ||  '8000'
+global.PORT = process.env.PORT ||  '8080'
 global.zenzapi = '01ABEB1E11'
 /*
 
@@ -169,8 +169,8 @@ global.mess = {
 
 
 //other
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pemilik = ['919354869137'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['919354869137'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
 global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
