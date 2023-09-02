@@ -29,9 +29,9 @@ const chalk = require('chalk')
 ⚙️ BOT SETTINGS  ⚙️
 */
 //👇 if you need seen massage use " true " , මැසේජ් සීන් කරන්න ඔනි නම් true දාන්න ඔනි නැත්තම් false දාන්න
-global.READ_MASSAGE = false
+global.READ_MASSAGE = true
 //👇 enable DISABLE Girls Voice Reply , Auto Voice Reply යවන්න ඔනි නම් true දාන්න 
-global.VOICE_REPLY = false
+global.VOICE_REPLY = true
 //👇 Do you want show time on your bio use "true" want DISABLE use "false" , ස්වයං ක්‍රීය Bio එක ඔනි නම් true දාන්න
 global.AUTO_BIO = false
 //👇 Inbox massage block PM block , ඉන්බොක් බ්ලොක් 
@@ -45,7 +45,7 @@ global.ANTI_G_LINK = false
 //👇 212 Number block
 global.NUMBER_212_BLOCK = false
 //👇 Send Welcome ( true or false ) වෙල්කම් ගූඩ් බායි මැසේජ් යවන්න ඔනි නම් 
-global.SEND_WELCOME = false
+global.SEND_WELCOME = true
 global.SEND_GOODBYE = false
 //👇 Send block command message (true or false )
 global.BLOCK_CMD_MESSAGE_SEND = false
@@ -62,11 +62,11 @@ global.DISABLE_INBOX = false
 //👇 DISABLE inbox message send ඉන්බොක්ස් වැඩනොකරන බවට මැසේජ් එක යැවිම true or false 
 global.DISABLE_INBOX_MESSAGE_SEND = false
 //👇 Pron Video Download 
-global.SEX_VIDEO_DOWNLOAD = false
+global.SEX_VIDEO_DOWNLOAD = true
 //👇 Only Inbox Use ( Only PM Work )
-global.INBOX_ONLY_WORK = false
+global.INBOX_ONLY_WORK = true
 //👇 Auto ChatGPT ( You Must put CHATGPT API KEY For use this )
-global.AUTO_OPEN_AI = false
+global.AUTO_OPEN_AI = true
 //👇 Bot On Privet
 global.PRIVET_BOT = false
 //👇 DISABLE Bot Commands But Others Are Working 
@@ -81,15 +81,15 @@ global.AUTO_SEEN_STATUS = true
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['94772932003'] 
 //👇 Your Caption ( Image Video )
 global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
 //👇 Your Bot Name
 global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
 //👇 Your name
-global.ownernma =  'ᴍ ʀ ⃞ ɴ ɪ ᴍ ᴀ' 
+global.ownernma =  'Chandimal Bot' 
 //👇 Sticker Author Name
-global.packname =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.packname =  '𝙼𝚁 CHANDIMAL 𝙾𝙵𝙲' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
