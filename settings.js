@@ -173,7 +173,7 @@ global.pemilik = ['243993366258'] //Change  it , ඔබට කැමති න�
 global.premium = ['243993366258'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
 global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
 global.sessionName = 'session'
-global.prefix = ['#','!','.'] 
+global.prefix = ['#'] 
 global.sp = '👽'
 global.weem = 'QUEEN ELISA'
 
