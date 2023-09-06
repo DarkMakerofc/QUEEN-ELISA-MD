@@ -160,11 +160,20 @@ global.mess = {
     UNBLOCK : '',
     KICK : '',
     ADD : '',
+    ANTILINK : '',
+    AUTOMUTE : '',
+    AUTOUNMUTE : '',
+    RESET: '',
+    UNBAN : '',
+    REVORK : '',
+    JOIN :'',
+    SEND_WELCOME : '',
+    SEND_GOODBYE 
     LEAVE : '',
     PROMOTE : '',
     DEMOTE : ''
 }
-
+ft
 
 
 
