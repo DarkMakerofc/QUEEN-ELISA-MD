@@ -1,11 +1,11 @@
-itI'm/*
+weitI'm/*
  █▀▀█ █░▒█ █▀▀▀ █▀▀▀ █▄░▒█       █▀▀▀ █░░░ ▀█▀ █▀▀▀█ █▀▀█
  █░▒█ █░▒█ █▀▀▀ █▀▀▀ █▒█▒█       █▀▀▀ █░░░ ░█░ ▀▀▀▄▄ █▄▄█
  ▀▀█▄ ▀▄▄▀ █▄▄▄ █▄▄▄ █░░▀█       █▄▄▄ █▄▄█ ▄█▄ █▄▄▄█ █░▒█
 
-WHATSAPP BOT BY MR NIMA ( DARK MAKER OFC )
+WHATSAPP BOT BY MULLAH 
 
-WHATSAPP - 94719574492
+WHATSAPP - 2254110821
 SUPPORT GROUP - https://t.me/queenelisasupport
 YOUTUBE - http://youtube.com/MRNIMAOFC
 
@@ -43,7 +43,7 @@ global.ANTI_BADWORD = true
 //👇 Kick And Auto Delete Group link Senders , ස්මූහ ස්බැදි දමන අයව ඉවත් කරයි
 global.ANTI_G_LINK =true
 //👇 212 Number block
-global.NUMBER_212_BLOCK = true
+global.NUMBER_212_BLOCK = false
 //👇 Send Welcome ( true or false ) වෙල්කම් ගූඩ් බායි මැසේජ් යවන්න ඔනි නම් 
 global.SEND_WELCOME = true
 global.SEND_GOODBYE = true
@@ -144,17 +144,17 @@ global.mess = {
     success: '✅ Done!',
     admin: '*Only admins can use this command !*',
     botAdmin: '*Please admin the bot first !*',
-    owner: '*Sorry, this command is only for the owner !*',
+    owner: '*Sorry, this command is only for Mullah !*',
     group: '*This command can only be used in groups !*',
     private: '*This command can only be used in Inbox !*',
-    bot: '*This command can only be used by bot number !*',
+    bot: '*This command can only be used by Mullah !*',
     wait: '*♲ Please Wait ...*',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    BLOCK_CMD_MSG : '*⚠️ This Command is Block By Owner*',
+    BLOCK_CMD_MSG : '*⚠️ This Command is Block By Mullah*',
     IMG_BLOCK : "This Word is Ban from image downloader",
     DISABLE_INBOX : "Inbox DISABLE By Bot Owner Please Only Use Groups",
     ONLY_SEX_GROUP : "Adult Video Download Only Allowed On This Group \n\n https://chat.whatsapp.com/JYAg2lMpRTF2bgkeFCxsvf",
-    DISABLE_CMD : "🚫 Commands Are DISABLE by owner",
+    DISABLE_CMD : "🚫 Commands Are DISABLE by Mullah",
     BAD_DETECT : '',
     BLOCK : '',
     UNBLOCK : '',
@@ -164,7 +164,7 @@ global.mess = {
     AUTOMUTE : '',
     AUTOUNMUTE : '',
     RESET: '',
-    UNBAN : '',
+    BAN : '',
     REVORK : '',
     JOIN :'',
     SEND_WELCOME : '',
