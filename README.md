@@ -24,7 +24,7 @@
 # 
 
 ### Please Give One Star ✨ & [follow for me notify my updates 💗](https://github.com/DarkMakerofc)
-<b>Version -> 3.9.5</b>
+<b>Version -> 3.9.6</b>
 # 
 Queen elisa whatsapp bot is,
 
@@ -110,9 +110,7 @@ npm start
 <details>
 <summary>✅ New Updates</summary>
 
-  
-  ◉ Fix Downloaders ( fb , insta , tiktok )
-  ◉ Fix Logo error
+• Fix Youtube video and song not download error. 
 
 
 <p>
@@ -142,3 +140,5 @@ THANAKS FOR USNING QUEEN ELISA 💃💖
 <b>Thanks For</b> -
 
  [thashi 💖]() for Voice ,[slrealtech](https://youtube.com/slrealtech) , [darkalpha](http://github.com/darkalphaxteam) and [isuru]() thanks for helps 💖
+
+ ## [ WHATSAPP GROUPS ](https://github.com/DarkMakerofc/groups#README.md)
