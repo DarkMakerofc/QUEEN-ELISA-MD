@@ -133,7 +133,7 @@ global.GROUP_LINK = 'https://chat.whatsapp.com'
    🍃 OTHER 🍃
 
 */
-global.PORT = process.env.PORT ||  '8000'
+global.PORT = process.env.PORT ||  '2030'
 global.zenzapi = '01ABEB1E11'
 /*
 
