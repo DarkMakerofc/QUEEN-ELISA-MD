@@ -167,13 +167,11 @@ global.mess = {
     UNBAN : '',
     REVORK : '',
     JOIN :'',
-    SEND_WELCOME : '',
-    SEND_GOODBYE 
     LEAVE : '',
     PROMOTE : '',
     DEMOTE : ''
 }
-ft
+
 
 
 
