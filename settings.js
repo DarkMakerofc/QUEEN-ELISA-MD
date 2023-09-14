@@ -158,11 +158,11 @@ global.mess = {
     BAD_DETECT : '',
     BLOCK : '',
     UNBLOCK : '',
-    KICK : 'වෙන පැත්තක් හොයන් පලයන් 😾👊',
+    KICK : '',
     ADD : '',
-    LEAVE : 'bye මන් යනවා 👋😒',
-    PROMOTE : 'ඇඩ්මින් බලතල ඉවත් කරන ලදී 😢',
-    DEMOTE : 'ඇඩ්මින් බලතල ලබා දෙන ලදී ☺️'
+    LEAVE : '',
+    PROMOTE : '',
+    DEMOTE : ''
 }
 
 
