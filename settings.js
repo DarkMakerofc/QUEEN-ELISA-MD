@@ -95,9 +95,9 @@ global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
 global.OWNER_REACT =  '🇰🇷'
 //👇 Song Download Massage 
-global.SONG_DOWN = '```⬇️ පොඩ්ඩක් ඉන්න Download වෙන ගමන් 🤚...```' 
+global.SONG_DOWN = '```⬇️ Downloading Your Song...```' 
 //👇 Song Uplode massage 
-global.SONG_UP = '```⬆️ Uploding වෙන ගමන් ...```'
+global.SONG_UP = '```⬆️ Uploding Your Song...```'
 //👇 Menu imoji 
 global.MENU_IMOJI = '📃|ℹ️'
 //👇 Your time zone ( use correct time zone )
@@ -119,7 +119,7 @@ global.GOODBYE = process.env.GOODBYE || ``
 //👇 Good bye image
 global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || ``
 //👇 DISABLE PM Block numbers
-global.NO_BLOCK = ["94760007746","94719574492"]
+global.NO_BLOCK = ["94715166712","94719574492"]
 //👇 DISABLE download words
 global.IMG_BLOCKER = ["xxx","sex","mia"]
 //👇 Open ai API Put Withouth "sk-" ( "sk-" අයින් කරල ඉතුරු ටික දාන්න )
@@ -169,9 +169,9 @@ global.mess = {
 
 
 //other
-global.pemilik = ['94760007746'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94760007746'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'ᴍʀ-ꜱᴀᴄʜɪʏᴀ' // Your name ඔබේ නම 
+global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '👽'
@@ -190,7 +190,7 @@ global.APIKeys = {
 	'https://zenzapi.xyz': '01ABEB1E11', //Kalau habis beli sendiri
 }
 
-//global.alivelogo = `https://telegra.ph/file/7547ae4c5eaa33e4d6148.jpg`
+//global.alivelogo = `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
 global.imgalive = fs.readFileSync('./Media/image/Elisa.jpg')
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
