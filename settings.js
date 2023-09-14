@@ -81,11 +81,11 @@ global.AUTO_SEEN_STATUS = true
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94779734617'] 
+global.owner = ['94760007746'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
+global.cap = '🄶🄴🄽🄴🅁🄰🅃🄴🄳 𝐁𝐘 𝐌𝐑-𝐒𝐀𝐂𝐇𝐈𝐘𝐀'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  '𝐌𝐑-𝐒𝐀𝐂𝐇𝐈𝐘𝐀 𝐌𝐃 𝐁𝐎𝐓' 
 //👇 Your name
 global.ownernma =  '𝙼𝚁-𝚂𝙰𝙲𝙷𝙸𝚈𝙰' 
 //👇 Sticker Author Name
@@ -93,7 +93,7 @@ global.packname =  '𝙼𝚁-𝚂𝙰𝙲𝙷𝙸𝚈𝙰 𝙼𝙳 𝙱𝙾𝚃'
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
-global.OWNER_REACT =  '💻'
+global.OWNER_REACT =  '🐰'
 //👇 Song Download Massage 
 global.SONG_DOWN = '```⬇️ Downloading Your Song...```' 
 //👇 Song Uplode massage 
@@ -105,9 +105,9 @@ global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Colombo'
 //👇 Removebg Api key
 global.REMOVE_BG_API = 'apikey get on remoebg.com'
 //👇 Change Bot Language 
-global.LANG = 'EN'
+global.LANG = 'SI'
 //Alive logo
-global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
+global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/7547ae4c5eaa33e4d6148.jpg`
 //👇 Alive message
 global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `default`
 //👇 Welcome Mesaage
@@ -127,7 +127,7 @@ global.CHATGPT_API = ''
 //👇 Sex  video Download Allowed Groups
 global.SEX_DOWNLOAD_GROUPS = ['120363147404508506@g.us']
 //👇 Your Bot Group Link
-global.GROUP_LINK = 'https://chat.whatsapp.com/Ih1udrdBNvX5xSu5mUVdql'
+global.GROUP_LINK = 'https://chat.whatsapp.com/IUnhdAYaPG9Dqzut2v2iLZ'
 /*
 
    🍃 OTHER 🍃
