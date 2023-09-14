@@ -58,7 +58,7 @@ global.ONLY_PREFIX = false
 //👇 This uplaod youtube videos without limit ⚠️ if you use this you must have paid sever
 global.UPLOAD_MAX = false
 //👇 Desabale Bot inbox ඉන්බොක්ස් බ්ලොක් නොවී වැඩ නොකරන්නනම් 
-global.DISABLE_INBOX = false 
+global.DISABLE_INBOX = true
 //👇 DISABLE inbox message send ඉන්බොක්ස් වැඩනොකරන බවට මැසේජ් එක යැවිම true or false 
 global.DISABLE_INBOX_MESSAGE_SEND = true
 //👇 Pron Video Download 
@@ -93,11 +93,11 @@ global.packname =  '𝙼𝚁-𝚂𝙰𝙲𝙷𝙸𝚈𝙰 𝙼𝙳 𝙱𝙾𝚃'
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
-global.OWNER_REACT =  '🌺'
+global.OWNER_REACT =  '🇰🇷'
 //👇 Song Download Massage 
-global.SONG_DOWN = '```⬇️ Downloading Your Song...```' 
+global.SONG_DOWN = '```⬇️ පොඩ්ඩක් ඉන්න Download වෙන ගමන් 🤚...```' 
 //👇 Song Uplode massage 
-global.SONG_UP = '```⬆️ Uploding Your Song...```'
+global.SONG_UP = '```⬆️ Uploding වෙන ගමන් ...```'
 //👇 Menu imoji 
 global.MENU_IMOJI = '📃|ℹ️'
 //👇 Your time zone ( use correct time zone )
