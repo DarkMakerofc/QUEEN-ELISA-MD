@@ -60,7 +60,7 @@ global.UPLOAD_MAX = false
 //👇 Desabale Bot inbox ඉන්බොක්ස් බ්ලොක් නොවී වැඩ නොකරන්නනම් 
 global.DISABLE_INBOX = false 
 //👇 DISABLE inbox message send ඉන්බොක්ස් වැඩනොකරන බවට මැසේජ් එක යැවිම true or false 
-global.DISABLE_INBOX_MESSAGE_SEND = false
+global.DISABLE_INBOX_MESSAGE_SEND = true
 //👇 Pron Video Download 
 global.SEX_VIDEO_DOWNLOAD = false
 //👇 Only Inbox Use ( Only PM Work )
@@ -119,7 +119,7 @@ global.GOODBYE = process.env.GOODBYE || ``
 //👇 Good bye image
 global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || ``
 //👇 DISABLE PM Block numbers
-global.NO_BLOCK = ["94715166712","94719574492"]
+global.NO_BLOCK = ["94760007746","94719574492"]
 //👇 DISABLE download words
 global.IMG_BLOCKER = ["xxx","sex","mia"]
 //👇 Open ai API Put Withouth "sk-" ( "sk-" අයින් කරල ඉතුරු ටික දාන්න )
@@ -158,20 +158,20 @@ global.mess = {
     BAD_DETECT : '',
     BLOCK : '',
     UNBLOCK : '',
-    KICK : '',
+    KICK : 'වෙන පැත්තක් හොයන් පලයන් 😾👊',
     ADD : '',
-    LEAVE : '',
-    PROMOTE : '',
-    DEMOTE : ''
+    LEAVE : 'bye මන් යනවා 👋😒',
+    PROMOTE : 'ඇඩ්මින් බලතල ඉවත් කරන ලදී 😢',
+    DEMOTE : 'ඇඩ්මින් බලතල ලබා දෙන ලදී ☺️'
 }
 
 
 
 
 //other
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
+global.pemilik = ['94760007746'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['94760007746'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'ᴍʀ-ꜱᴀᴄʜɪʏᴀ' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '👽'
@@ -190,7 +190,7 @@ global.APIKeys = {
 	'https://zenzapi.xyz': '01ABEB1E11', //Kalau habis beli sendiri
 }
 
-//global.alivelogo = `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
+//global.alivelogo = `https://telegra.ph/file/7547ae4c5eaa33e4d6148.jpg`
 global.imgalive = fs.readFileSync('./Media/image/Elisa.jpg')
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
