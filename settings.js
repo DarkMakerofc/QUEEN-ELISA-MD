@@ -5,7 +5,7 @@
 
 WHATSAPP BOT BY MR NIMA ( DARK MAKER OFC )
 
-WHATSAPP - 94719574492
+WHATSAPP:923046950301
 SUPPORT GROUP - https://t.me/queenelisasupport
 YOUTUBE - http://youtube.com/MRNIMAOFC
 
@@ -45,8 +45,8 @@ global.ANTI_G_LINK = false
 //👇 212 Number block
 global.NUMBER_212_BLOCK = false
 //👇 Send Welcome ( true or false ) වෙල්කම් ගූඩ් බායි මැසේජ් යවන්න ඔනි නම් 
-global.SEND_WELCOME = false
-global.SEND_GOODBYE = false
+global.SEND_WELCOME = true
+global.SEND_GOODBYE = true
 //👇 Send block command message (true or false )
 global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Send Auto reply , sticker , voice Use true and costemize your own 
@@ -81,17 +81,17 @@ global.AUTO_SEEN_STATUS = true
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['923046950301'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 Shan;boss ²⁰²³'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  'Shan;boss 𝛁' 
 //👇 Your name
-global.ownernma =  'ᴍ ʀ ⃞ ɴ ɪ ᴍ ᴀ' 
+global.ownernma =  'ᴍ ʀ ⃞ Shan' 
 //👇 Sticker Author Name
-global.packname =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.packname =  '𝙼𝚁 Shan 𝙾𝙵𝙲' 
 //👇 Inbox Block Massage 
-global.INBOX_BLOCK_MSG = 'BLOCK !!!'
+global.INBOX_BLOCK_MSG = ' !!!'
 //👇 Owner React Imoji
 global.OWNER_REACT =  '💻'
 //👇 Song Download Massage 
@@ -101,7 +101,7 @@ global.SONG_UP = '```⬆️ Uploding Your Song...```'
 //👇 Menu imoji 
 global.MENU_IMOJI = '👸|ℹ️'
 //👇 Your time zone ( use correct time zone )
-global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Colombo'
+global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Islamabad'
 //👇 Removebg Api key
 global.REMOVE_BG_API = 'apikey get on remoebg.com'
 //👇 Change Bot Language 
@@ -109,7 +109,7 @@ global.LANG = 'EN'
 //Alive logo
 global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
 //👇 Alive message
-global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `default`
+global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `welcome dear`
 //👇 Welcome Mesaage
 global.WELCOME = process.env.WELCOME || ``
 //👇 welcome image 
@@ -119,7 +119,7 @@ global.GOODBYE = process.env.GOODBYE || ``
 //👇 Good bye image
 global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || ``
 //👇 DISABLE PM Block numbers
-global.NO_BLOCK = ["94715166712","94719574492"]
+global.NO_BLOCK = ["923046950301","923046950301"]
 //👇 DISABLE download words
 global.IMG_BLOCKER = ["xxx","sex","mia"]
 //👇 Open ai API Put Withouth "sk-" ( "sk-" අයින් කරල ඉතුරු ටික දාන්න )
