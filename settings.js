@@ -73,7 +73,7 @@ global.PRIVET_BOT = false
 global.DISABLE_COMMANDS = false
 //👇 DISABLE Bot Commands On Message Send On Off
 global.DISABLE_COMMAND_MESSAGE_SEND = false 
-global.AUTO_SEEN_STATUS = true
+global.AUTO_SEEN_STATUS = false
 
 
 
@@ -81,15 +81,15 @@ global.AUTO_SEEN_STATUS = true
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['237690910725'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚩𝚵𝛁𝚵𝚪𝐋𝐘 𝐊𝚰𝚳 ²⁰²³'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  '𝚩𝚵𝛁𝚵𝚪𝐋𝐘 𝐊𝚰𝚳  ²⁰²³ 𝛁' 
 //👇 Your name
-global.ownernma =  'ᴍ ʀ ⃞ ɴ ɪ ᴍ ᴀ' 
+global.ownernma =  '𝐊𝚰𝚳 𝚩𝚯𝚻 ²⁰²³' 
 //👇 Sticker Author Name
-global.packname =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.packname =  '𝐊𝚰𝚳 𝚩𝚯𝚻' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
