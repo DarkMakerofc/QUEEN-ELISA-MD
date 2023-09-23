@@ -41,7 +41,7 @@ global.AUTO_REACT = false
 //👇 Bad word Auto delete ( you must add bad words ) නරක වචන ඩිලීට් කිරීම , ඔබ විසින් වචන දැමිය යුතුය 
 global.ANTI_BADWORD = false
 //👇 Kick And Auto Delete Group link Senders , ස්මූහ ස්බැදි දමන අයව ඉවත් කරයි
-global.ANTI_G_LINK = false
+global.ANTI_G_LINK = true
 //👇 212 Number block
 global.NUMBER_212_BLOCK = false
 //👇 Send Welcome ( true or false ) වෙල්කම් ගූඩ් බායි මැසේජ් යවන්න ඔනි නම් 
@@ -62,18 +62,18 @@ global.DISABLE_INBOX = false
 //👇 DISABLE inbox message send ඉන්බොක්ස් වැඩනොකරන බවට මැසේජ් එක යැවිම true or false 
 global.DISABLE_INBOX_MESSAGE_SEND = false
 //👇 Pron Video Download 
-global.SEX_VIDEO_DOWNLOAD = false
+global.SEX_VIDEO_DOWNLOAD = true
 //👇 Only Inbox Use ( Only PM Work )
 global.INBOX_ONLY_WORK = false
 //👇 Auto ChatGPT ( You Must put CHATGPT API KEY For use this )
 global.AUTO_OPEN_AI = false
 //👇 Bot On Privet
-global.PRIVET_BOT = false
+global.PRIVET_BOT = true
 //👇 DISABLE Bot Commands But Others Are Working 
 global.DISABLE_COMMANDS = false
 //👇 DISABLE Bot Commands On Message Send On Off
 global.DISABLE_COMMAND_MESSAGE_SEND = false 
-global.AUTO_SEEN_STATUS = true
+global.AUTO_SEEN_STATUS = false
 
 
 
@@ -85,11 +85,11 @@ global.owner = ['2349129145338']
 //👇 Your Caption ( Image Video )
 global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  'OLA TV 𝛁' 
 //👇 Your name
-global.ownernma =  'ᴍ ʀ ⃞ ɴ ɪ ᴍ ᴀ' 
+global.ownernma =  'OLA TV' 
 //👇 Sticker Author Name
-global.packname =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.packname =  'OLA TV' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
@@ -144,7 +144,7 @@ global.mess = {
     success: '✅ Done!',
     admin: '*Only admins can use this command !*',
     botAdmin: '*Please admin the bot first !*',
-    owner: '*Sorry, this command is only for the owner !*',
+    owner: '*Sorry, this command is only for the owner !.',
     group: '*This command can only be used in groups !*',
     private: '*This command can only be used in Inbox !*',
     bot: '*This command can only be used by bot number !*',
@@ -162,18 +162,18 @@ global.mess = {
     ADD : '',
     LEAVE : '',
     PROMOTE : '',
-    DEMOTE : ''
+    DEMOTE : '',
 }
 
 
 
 
 //other
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pemilik = ['2349129145338'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['2349139145338'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
 global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
 global.sessionName = 'session'
-global.prefix = ['#','!','.'] 
+global.prefix = ['.'] 
 global.sp = '👽'
 global.weem = 'QUEEN ELISA'
 
