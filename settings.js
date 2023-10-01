@@ -89,7 +89,7 @@ global.botnma =  'Mullah dark 𝛁'
 //👇 Your name
 global.ownernma =  'm u ll a h ' 
 //👇 Sticker Author Name
-global.packname =  ' mullah 𝙾𝙵𝙲' k
+global.packname =  ' mullah 𝙾𝙵𝙲' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
