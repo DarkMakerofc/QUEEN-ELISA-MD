@@ -50,8 +50,8 @@ global.SEND_GOODBYE = false
 //👇 Send block command message (true or false )
 global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Send Auto reply , sticker , voice Use true and costemize your own 
-global.AUTO_FUNCTION = false
-//👇 Put Bot Offline
+global.AUTO_FUNCTION = true
+//👇 Put Bot Online
 global.BOT_OFFLINE = false
 //👇 Only PreFix [ true / false ]
 global.ONLY_PREFIX = false
@@ -67,8 +67,8 @@ global.SEX_VIDEO_DOWNLOAD = false
 global.INBOX_ONLY_WORK = false
 //👇 Auto ChatGPT ( You Must put CHATGPT API KEY For use this )
 global.AUTO_OPEN_AI = false
-//👇 Bot On Privet
-global.PRIVET_BOT = false
+//👇 Bot On Public
+global.Public_BOT = true
 //👇 DISABLE Bot Commands But Others Are Working 
 global.DISABLE_COMMANDS = false
 //👇 DISABLE Bot Commands On Message Send On Off
