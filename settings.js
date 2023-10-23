@@ -3,9 +3,9 @@
  █░▒█ █░▒█ █▀▀▀ █▀▀▀ █▒█▒█       █▀▀▀ █░░░ ░█░ ▀▀▀▄▄ █▄▄█
  ▀▀█▄ ▀▄▄▀ █▄▄▄ █▄▄▄ █░░▀█       █▄▄▄ █▄▄█ ▄█▄ █▄▄▄█ █░▒█
 
-WHATSAPP BOT BY MR NIMA ( DARK MAKER OFC )
+WHATSAPP BOT BY MR Sahan ( DARK MAKER OFC )
 
-WHATSAPP - 94719574492
+WHATSAPP - 94720797915
 SUPPORT GROUP - https://t.me/queenelisasupport
 YOUTUBE - http://youtube.com/MRNIMAOFC
 
@@ -39,18 +39,18 @@ global.INBOX_BLOCK = false
 //👇 Auto react  , ස්වයංක්‍රීය රියක්ට්
 global.AUTO_REACT = false
 //👇 Bad word Auto delete ( you must add bad words ) නරක වචන ඩිලීට් කිරීම , ඔබ විසින් වචන දැමිය යුතුය 
-global.ANTI_BADWORD = false
+global.ANTI_BADWORD = true 
 //👇 Kick And Auto Delete Group link Senders , ස්මූහ ස්බැදි දමන අයව ඉවත් කරයි
-global.ANTI_G_LINK = false
+global.ANTI_G_LINK = true
 //👇 212 Number block
-global.NUMBER_212_BLOCK = false
+global.NUMBER_212_BLOCK = true
 //👇 Send Welcome ( true or false ) වෙල්කම් ගූඩ් බායි මැසේජ් යවන්න ඔනි නම් 
-global.SEND_WELCOME = false
-global.SEND_GOODBYE = false
+global.SEND_WELCOME = true
+global.SEND_GOODBYE = true
 //👇 Send block command message (true or false )
-global.BLOCK_CMD_MESSAGE_SEND = false
+global.BLOCK_CMD_MESSAGE_SEND = true
 //👇 Send Auto reply , sticker , voice Use true and costemize your own 
-global.AUTO_FUNCTION = false
+global.AUTO_FUNCTION = true
 //👇 Put Bot Offline
 global.BOT_OFFLINE = false
 //👇 Only PreFix [ true / false ]
@@ -62,7 +62,7 @@ global.DISABLE_INBOX = false
 //👇 DISABLE inbox message send ඉන්බොක්ස් වැඩනොකරන බවට මැසේජ් එක යැවිම true or false 
 global.DISABLE_INBOX_MESSAGE_SEND = false
 //👇 Pron Video Download 
-global.SEX_VIDEO_DOWNLOAD = false
+global.SEX_VIDEO_DOWNLOAD = true
 //👇 Only Inbox Use ( Only PM Work )
 global.INBOX_ONLY_WORK = false
 //👇 Auto ChatGPT ( You Must put CHATGPT API KEY For use this )
@@ -81,15 +81,15 @@ global.AUTO_SEEN_STATUS = true
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['94720797915'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 Sahan Maduwantha ²⁰²³'
 //👇 Your Bot Name
 global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
 //👇 Your name
-global.ownernma =  'ᴍ ʀ ⃞ ɴ ɪ ᴍ ᴀ' 
+global.ownernma =  'Sahan Maduwantha' 
 //👇 Sticker Author Name
-global.packname =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.packname =  '𝙼𝚁 Sahan 𝙾𝙵𝙲' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
@@ -111,11 +111,11 @@ global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/b3f17c16e
 //👇 Alive message
 global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `default`
 //👇 Welcome Mesaage
-global.WELCOME = process.env.WELCOME || ``
+global.WELCOME = process.env.WELCOME || `Welcome `
 //👇 welcome image 
 global.WELCOME_IMAGE = process.env.WELCOME_IMAGE || ``
 //👇 Goodbye message 
-global.GOODBYE = process.env.GOODBYE || ``
+global.GOODBYE = process.env.GOODBYE || `Bye`
 //👇 Good bye image
 global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || ``
 //👇 DISABLE PM Block numbers
@@ -127,7 +127,7 @@ global.CHATGPT_API = ''
 //👇 Sex  video Download Allowed Groups
 global.SEX_DOWNLOAD_GROUPS = ['120363147404508506@g.us']
 //👇 Your Bot Group Link
-global.GROUP_LINK = 'https://chat.whatsapp.com/Ih1udrdBNvX5xSu5mUVdql'
+global.GROUP_LINK = ''
 /*
 
    🍃 OTHER 🍃
