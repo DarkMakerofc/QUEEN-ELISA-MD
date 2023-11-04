@@ -109,7 +109,7 @@ global.LANG = 'EN'
 //Alive logo
 global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
 //👇 Alive message
-global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `💗 Queen Seww Whatsapp Bot 💗`
+global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `💗 Queen Seww Whatsapp Bot 💗
 
 Hello there I am Online ! 
 Click below buttons fr more.
