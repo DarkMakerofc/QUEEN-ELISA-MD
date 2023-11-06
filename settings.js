@@ -37,7 +37,7 @@ global.AUTO_BIO = false
 //👇 Inbox massage block PM block , ඉන්බොක් බ්ලොක් 
 global.INBOX_BLOCK = false
 //👇 Auto react  , ස්වයංක්‍රීය රියක්ට්
-global.AUTO_REACT = false
+global.AUTO_REACT = true
 //👇 Bad word Auto delete ( you must add bad words ) නරක වචන ඩිලීට් කිරීම , ඔබ විසින් වචන දැමිය යුතුය 
 global.ANTI_BADWORD = false
 //👇 Kick And Auto Delete Group link Senders , ස්මූහ ස්බැදි දමන අයව ඉවත් කරයි
@@ -119,7 +119,7 @@ global.GOODBYE = process.env.GOODBYE || ``
 //👇 Good bye image
 global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || ``
 //👇 DISABLE PM Block numbers
-global.NO_BLOCK = ["94715166712","94719574492"]
+global.NO_BLOCK = ["94777208905"]
 //👇 DISABLE download words
 global.IMG_BLOCKER = ["xxx","sex","mia"]
 //👇 Open ai API Put Withouth "sk-" ( "sk-" අයින් කරල ඉතුරු ටික දාන්න )
