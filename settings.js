@@ -107,9 +107,9 @@ global.REMOVE_BG_API = 'apikey get on remoebg.com'
 //👇 Change Bot Language 
 global.LANG = 'EN'
 //Alive logo
-global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
+global.alivelogo = process.env.ALIVE_IMAGE || `https://ibb.co/Q6771Jw`
 //👇 Alive message
-global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `💗 Queen Seww Whatsapp Bot 💗
+global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `💗 Queen Shenuu Whatsapp Bot 💗
 
 Hello there I am Online ! 
 Click below buttons fr more.
@@ -134,11 +134,11 @@ global.WELCOME = process.env.WELCOME || `*හායි ළමයෝ🥺📍*
 *😍😚මේකෙ ඉන්න කෙල්ලොන්ගෙ ඉන්බොක්ස්📲 යන්න එපා ❌එහෙම ගියොත් ඇඩ්මින්🧑🏻‍💻 කෙනෙක් දැනුවත් කරන්න 😌👉👈 එයාව අපි ගෲප් එකෙන් රිමූ කරනවා😾📍*
 https://chat.whatsapp.com/LHMjyztC9orGNScB7a6joc`
 //👇 welcome image 
-global.WELCOME_IMAGE = process.env.WELCOME_IMAGE || ``
+global.WELCOME_IMAGE = process.env.WELCOME_IMAGE || `https://ibb.co/Q6771Jw`
 //👇 Goodbye message 
 global.GOODBYE = process.env.GOODBYE || `උබ හිටියත් වැඩක් නෑ යකෝ😂`
 //👇 Good bye image
-global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || ``
+global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || `https://ibb.co/Q6771Jw`
 //👇 DISABLE PM Block numbers
 global.NO_BLOCK = ["94715166712","94719574492"]
 //👇 DISABLE download words
