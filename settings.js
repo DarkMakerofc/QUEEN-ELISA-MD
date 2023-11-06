@@ -89,7 +89,7 @@ global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝕊𝔼𝕎𝕎 𝚳𝐃 3 𝛁'
 //👇 Your name
 global.ownernma =  '𝗔𝗯𝗵𝗶𝗶.....' 
 //👇 Sticker Author Name
-global.packname =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.packname =  '❤️‍🩹𝙼𝚁 𝙰𝙱𝙷𝙸 𝙾𝙵𝙲❤️‍🩹' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
