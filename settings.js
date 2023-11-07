@@ -81,7 +81,7 @@ global.AUTO_SEEN_STATUS = true
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['94741084633'] 
 //👇 Your Caption ( Image Video )
 global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
 //👇 Your Bot Name
@@ -103,7 +103,7 @@ global.MENU_IMOJI = '👸|ℹ️'
 //👇 Your time zone ( use correct time zone )
 global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Colombo'
 //👇 Removebg Api key
-global.REMOVE_BG_API = 'apikey get on remoebg.com'
+global.REMOVE_BG_API = 'E5aBSJnGKNto3mzdeGG2huDt'
 //👇 Change Bot Language 
 global.LANG = 'EN'
 //Alive logo
@@ -169,8 +169,8 @@ global.mess = {
 
 
 //other
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pemilik = ['94741084633'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['94741084633'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
 global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
