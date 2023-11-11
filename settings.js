@@ -83,11 +83,11 @@ global.AUTO_SEEN_STATUS = false
 // You Bots Owner Number 
 global.owner = ['03420005131'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 Attiq Ur Rehman  ²⁰²³'
+global.cap = '© Labbaik DefenderS  ²⁰²³'
 //👇 Your Bot Name
 global.botnma =  'Labbaik' 
 //👇 Your name
-global.ownernma =  'ᴍ ʀ ⃞ Attiq' 
+global.ownernma =  'ᴍ ʀ ⃞ Attiq Ur Rehman' 
 //👇 Sticker Author Name
 global.packname =  'Attiq Ur Rehman' 
 //👇 Inbox Block Massage 
