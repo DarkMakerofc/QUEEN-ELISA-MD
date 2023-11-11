@@ -37,7 +37,7 @@ global.AUTO_BIO = false
 //👇 Inbox massage block PM block , ඉන්බොක් බ්ලොක් 
 global.INBOX_BLOCK = false
 //👇 Auto react  , ස්වයංක්‍රීය රියක්ට්
-global.AUTO_REACT = true
+global.AUTO_REACT = false
 //👇 Bad word Auto delete ( you must add bad words ) නරක වචන ඩිලීට් කිරීම , ඔබ විසින් වචන දැමිය යුතුය 
 global.ANTI_BADWORD = true
 //👇 Kick And Auto Delete Group link Senders , ස්මූහ ස්බැදි දමන අයව ඉවත් කරයි
@@ -93,7 +93,7 @@ global.packname =  '𝙼𝚁 𝙰𝚂𝙷𝙰𝙽 𝙾𝙵𝙲'
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
-global.OWNER_REACT =  '💻'
+global.OWNER_REACT =  '💃'
 //👇 Song Download Massage 
 global.SONG_DOWN = '```⬇️ Downloading Your Song...```' 
 //👇 Song Uplode massage 
