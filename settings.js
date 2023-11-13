@@ -83,9 +83,9 @@ global.AUTO_SEEN_STATUS = true
 // You Bots Owner Number 
 global.owner = ['94740525045'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝚂𝙴𝚆𝚆 ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙰𝙱𝙷𝙸 𝙱𝙾𝚃𝚉 ²⁰²³'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝕊𝔼𝕎𝕎 𝚳𝐃 3 𝛁' 
+global.botnma =  '𝔸𝔹ℍ𝕀 𝔹𝕆𝕋ℤ 𝕄𝔻 3 𝛁' 
 //👇 Your name
 global.ownernma =  '𝗔𝗯𝗵𝗶𝗶.....' 
 //👇 Sticker Author Name
@@ -109,7 +109,7 @@ global.LANG = 'EN'
 //Alive logo
 global.alivelogo = process.env.ALIVE_IMAGE || `https://ibb.co/Q6771Jw`
 //👇 Alive message
-global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `💗 Queen Shenuu Whatsapp Bot 💗
+global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `💗 Abhiz Whatsapp Bot 💗
 
 Hello there I am Online ! 
 Click below buttons fr more.
@@ -134,7 +134,7 @@ global.WELCOME = process.env.WELCOME || `*හායි ළමයෝ🥺📍*
 *😍😚මේකෙ ඉන්න කෙල්ලොන්ගෙ ඉන්බොක්ස්📲 යන්න එපා ❌එහෙම ගියොත් ඇඩ්මින්🧑🏻‍💻 කෙනෙක් දැනුවත් කරන්න 😌👉👈 එයාව අපි ගෲප් එකෙන් රිමූ කරනවා😾📍*
 https://chat.whatsapp.com/LHMjyztC9orGNScB7a6joc`
 //👇 welcome image 
-global.WELCOME_IMAGE = process.env.WELCOME_IMAGE || `https://ibb.co/Q6771Jw`
+global.WELCOME_IMAGE = process.env.WELCOME_IMAGE || `https://ibb.co/QvP8VZX`
 //👇 Goodbye message 
 global.GOODBYE = process.env.GOODBYE || `උබ හිටියත් වැඩක් නෑ යකෝ😂`
 //👇 Good bye image
@@ -177,7 +177,7 @@ global.mess = {
     ONLY_SEX_GROUP : "Adult Video Download Only Allowed On This Group \n\n https://chat.whatsapp.com/JYAg2lMpRTF2bgkeFCxsvf",
     DISABLE_CMD : "🚫 Commands Are DISABLE by owner",
     BAD_DETECT : '',
-    BLOCK : '',
+    BLOCK : '*විසාල කරදරයක්😒*',
     UNBLOCK : '',
     KICK : '',
     ADD : '',
