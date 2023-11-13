@@ -68,11 +68,11 @@ global.INBOX_ONLY_WORK = false
 //👇 Auto ChatGPT ( You Must put CHATGPT API KEY For use this )
 global.AUTO_OPEN_AI = false
 //👇 Bot On Privet
-global.PRIVET_BOT = false
+global.PRIVET_BOT = true
 //👇 DISABLE Bot Commands But Others Are Working 
-global.DISABLE_COMMANDS = false
+global.DISABLE_COMMANDS = true 
 //👇 DISABLE Bot Commands On Message Send On Off
-global.DISABLE_COMMAND_MESSAGE_SEND = false 
+global.DISABLE_COMMAND_MESSAGE_SEND = true
 global.AUTO_SEEN_STATUS = true
 
 
@@ -85,11 +85,11 @@ global.owner = ['94715166712']
 //👇 Your Caption ( Image Video )
 global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  'Tinklemuffins' 
 //👇 Your name
 global.ownernma =  'ᴍ ʀ ⃞ ɴ ɪ ᴍ ᴀ' 
 //👇 Sticker Author Name
-global.packname =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.packname =  'tinklemuffins' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
