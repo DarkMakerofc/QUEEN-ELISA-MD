@@ -73,7 +73,7 @@ global.PRIVET_BOT = false
 global.DISABLE_COMMANDS = false
 //👇 DISABLE Bot Commands On Message Send On Off
 global.DISABLE_COMMAND_MESSAGE_SEND = false 
-global.AUTO_SEEN_STATUS = false
+global.AUTO_SEEN_STATUS = true
 
 
 
