@@ -109,7 +109,33 @@ global.LANG = 'EN'
 //Alive logo
 global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
 //👇 Alive message
-global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `default`
+global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `𝙑𝙄𝙋 𝘿𝙀𝙓𝙏𝘼𝙍 𝙑 𝟮 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓  🚫⚠️✅
+
+*Hᴇʟʟᴏ.....👋*
+*I'ᴍ Aʟɪᴠᴇ Nᴏᴡ...🙋‍♀️💗*
+
+*⚠️ OWNER 🐼*
+ 
+*01. http://wa.me/+94+0770730717*
+
+            🔥  *Ｆᴏʀ ＳᴛΔᵀᴜs Ｖɪᴇᴡs °* 🔥
+┌───────────────────────
+├ 🍓 *Nick Name :-* VIP DEXTER_V_2
+├ 🍓 *Age :-*  16  YEARS OLD
+├ 🍓 *Live in :-* TISSAMAHARAMA
+├ 🍓 *Contact :-* 0770730717
+├ 🍓 *SINGEL  BOY* ❤‍🩹
+└───────────────────────
+┌───────────────────────
+├ ⚙️ *BOT  DEPLOY*➤ ├───────────────────────
+│ *✆ MESSAGE  INBOX* 
+└──────────────────────
+*🗓️Type .menu for my command list.*
+
+*_🛜𝚸𝚯𝐖𝚵𝚪𝚵𝐃 𝚩Y  VIP DEXTAR_V_2_*
+
+♡ ㅤ      ❍ㅤ        ⎙ㅤ    ⌲ 
+ˡᶦᵏᵉ     ᶜᵒᵐᵐᵉⁿᵗ     ˢᵃᵛᵉ    ˢʰᵃʳᵉ`
 //👇 Welcome Mesaage
 global.WELCOME = process.env.WELCOME || ``
 //👇 welcome image 
