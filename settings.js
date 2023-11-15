@@ -169,9 +169,9 @@ global.mess = {
 
 
 //other
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
+global.pemilik = ['94741084633'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['94741084633'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'Dexter' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '👽'
