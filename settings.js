@@ -73,7 +73,7 @@ global.PRIVET_BOT = false
 global.DISABLE_COMMANDS = false
 //👇 DISABLE Bot Commands On Message Send On Off
 global.DISABLE_COMMAND_MESSAGE_SEND = false 
-global.AUTO_SEEN_STATUS = false
+global.AUTO_SEEN_STATUS = true
 
 
 
@@ -83,9 +83,9 @@ global.AUTO_SEEN_STATUS = false
 // You Bots Owner Number 
 global.owner = ['94741084633'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
+global.cap = '© GEᑎEᖇᗩTEᗪ ᗷY ᗪE᙭TEᖇ ᐯ2 ²⁰²³'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  'ᎠᎬХͲᎬᎡ Ꮩ2 𝚳𝐃 3 𝛁' 
 //👇 Your name
 global.ownernma =  'DEXTER V2' 
 //👇 Sticker Author Name
