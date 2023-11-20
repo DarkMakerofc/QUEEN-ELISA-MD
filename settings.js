@@ -103,7 +103,7 @@ global.MENU_IMOJI = '👸|ℹ️'
 //👇 Your time zone ( use correct time zone )
 global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Colombo'
 //👇 Removebg Api key
-global.REMOVE_BG_API = 'apikey get on remoebg.com'
+global.REMOVE_BG_API = 'WSDmNLMeaAzeC7sVge3KFSVR'
 //👇 Change Bot Language 
 global.LANG = 'EN'
 //Alive logo
