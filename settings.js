@@ -116,13 +116,13 @@ Click below buttons fr more.
 
 *🧑‍💻 Devoloper  :Abhiii*
 *🧬 Version :* 3.8.6
-*🗃️ Public Group :https://chat.whatsapp.com/LHMjyztC9orGNScB7a6joc* 
+*🗃️ Public Group :https://chat.whatsapp.com/Lp995idgiyyIuhyOBI2u2D* 
 
 🫀© ǫᴜᴇᴇɴ 𝚂𝙴𝚆𝚆 ᴡᴀ ʙᴏᴛ ᴛᴇᴀᴍ`
 //👇 Welcome Mesaage
 global.WELCOME = process.env.WELCOME || `*Hello🥰*
 _*Welcome To The Our Group*_
-https://chat.whatsapp.com/LHMjyztC9orGNScB7a6joc`
+https://chat.whatsapp.com/Lp995idgiyyIuhyOBI2u2D`
 //👇 welcome image 
 global.WELCOME_IMAGE = process.env.WELCOME_IMAGE || `https://ibb.co/QvP8VZX`
 //👇 Goodbye message 
@@ -138,7 +138,7 @@ global.CHATGPT_API = ''
 //👇 Sex  video Download Allowed Groups
 global.SEX_DOWNLOAD_GROUPS = ['120363147404508506@g.us']
 //👇 Your Bot Group Link
-global.GROUP_LINK = 'https://chat.whatsapp.com/LHMjyztC9orGNScB7a6joc'
+global.GROUP_LINK = 'https://chat.whatsapp.com/Lp995idgiyyIuhyOBI2u2D'
 /*
 
    🍃 OTHER 🍃
@@ -172,8 +172,8 @@ global.mess = {
     KICK : '',
     ADD : '_*New Member Added Done*_',
     LEAVE : '',
-    PROMOTE : '',
-    DEMOTE : ''
+    PROMOTE : '_*Promote Done*_ 🙈',
+    DEMOTE : '_*Demote Done😾*_'
 }
 
 
