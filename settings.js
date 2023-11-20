@@ -116,7 +116,8 @@ Click below buttons fr more.
 
 *🧑‍💻 Devoloper  :Abhiii*
 *🧬 Version :* 3.8.6
-*🗃️ Public Group :https://chat.whatsapp.com/Lp995idgiyyIuhyOBI2u2D* 
+*🗃️ Public Group 1 :https://chat.whatsapp.com/LHMjyztC9orGNScB7a6joc* 
+*🗃️ Public Group 2 :https://chat.whatsapp.com/Lp995idgiyyIuhyOBI2u2D*
 
 🫀© ǫᴜᴇᴇɴ 𝚂𝙴𝚆𝚆 ᴡᴀ ʙᴏᴛ ᴛᴇᴀᴍ`
 //👇 Welcome Mesaage
