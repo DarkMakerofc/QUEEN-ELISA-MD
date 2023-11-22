@@ -107,7 +107,7 @@ global.REMOVE_BG_API = 'WSDmNLMeaAzeC7sVge3KFSVR'
 //👇 Change Bot Language 
 global.LANG = 'EN'
 //Alive logo
-global.alivelogo = process.env.ALIVE_IMAGE || `https://ibb.co/Q6771Jw`
+global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/b08fe75e4ebae860876d2.jpg`
 //👇 Alive message
 global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `💗 Abhiz Whatsapp Bot 💗
 
@@ -125,11 +125,11 @@ global.WELCOME = process.env.WELCOME || `*Hello🥰*
 _*Welcome To The Our Group*_
 https://chat.whatsapp.com/Lp995idgiyyIuhyOBI2u2D`
 //👇 welcome image 
-global.WELCOME_IMAGE = process.env.WELCOME_IMAGE || `https://ibb.co/QvP8VZX`
+global.WELCOME_IMAGE = process.env.WELCOME_IMAGE || `https://telegra.ph/file/b08fe75e4ebae860876d2.jpg`
 //👇 Goodbye message 
 global.GOODBYE = process.env.GOODBYE || `_*Bye Bye Broo🥺*_`
 //👇 Good bye image
-global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || `https://ibb.co/Q6771Jw`
+global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || `https://telegra.ph/file/b08fe75e4ebae860876d2.jpg`
 //👇 DISABLE PM Block numbers
 global.NO_BLOCK = ["94715166712","94719574492"]
 //👇 DISABLE download words
