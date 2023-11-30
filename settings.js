@@ -56,7 +56,7 @@ global.BOT_OFFLINE = false
 //👇 Only PreFix [ true / false ]
 global.ONLY_PREFIX = false
 //👇 This uplaod youtube videos without limit ⚠️ if you use this you must have paid sever
-global.UPLOAD_MAX = false
+global.UPLOAD_MAX = true
 //👇 Desabale Bot inbox ඉන්බොක්ස් බ්ලොක් නොවී වැඩ නොකරන්නනම් 
 global.DISABLE_INBOX = false 
 //👇 DISABLE inbox message send ඉන්බොක්ස් වැඩනොකරන බවට මැසේජ් එක යැවිම true or false 
@@ -68,7 +68,7 @@ global.INBOX_ONLY_WORK = false
 //👇 Auto ChatGPT ( You Must put CHATGPT API KEY For use this )
 global.AUTO_OPEN_AI = false
 //👇 Bot On Privet
-global.PRIVET_BOT = false
+global.PRIVET_BOT = true
 //👇 DISABLE Bot Commands But Others Are Working 
 global.DISABLE_COMMANDS = false
 //👇 DISABLE Bot Commands On Message Send On Off
@@ -81,15 +81,15 @@ global.AUTO_SEEN_STATUS = true
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['94705262620'] 
 //👇 Your Caption ( Image Video )
 global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
 //👇 Your Bot Name
 global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
 //👇 Your name
-global.ownernma =  'ᴍ ʀ ⃞ ɴ ɪ ᴍ ᴀ' 
+global.ownernma =  'ѕαηѕυη ℓαкѕнαη❤️' 
 //👇 Sticker Author Name
-global.packname =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.packname =  '𝙼𝚁 𝚂𝙰𝙽𝚄𝚄 𝙾𝙵𝙲' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
