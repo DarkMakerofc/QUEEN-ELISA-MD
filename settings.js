@@ -31,26 +31,26 @@ const chalk = require('chalk')
 //👇 if you need seen massage use " true " , මැසේජ් සීන් කරන්න ඔනි නම් true දාන්න ඔනි නැත්තම් false දාන්න
 global.READ_MASSAGE = false
 //👇 enable DISABLE Girls Voice Reply , Auto Voice Reply යවන්න ඔනි නම් true දාන්න 
-global.VOICE_REPLY = false
+global.VOICE_REPLY = true
 //👇 Do you want show time on your bio use "true" want DISABLE use "false" , ස්වයං ක්‍රීය Bio එක ඔනි නම් true දාන්න
-global.AUTO_BIO = false
+global.AUTO_BIO = true
 //👇 Inbox massage block PM block , ඉන්බොක් බ්ලොක් 
 global.INBOX_BLOCK = false
 //👇 Auto react  , ස්වයංක්‍රීය රියක්ට්
-global.AUTO_REACT = false
+global.AUTO_REACT = true
 //👇 Bad word Auto delete ( you must add bad words ) නරක වචන ඩිලීට් කිරීම , ඔබ විසින් වචන දැමිය යුතුය 
-global.ANTI_BADWORD = false
+global.ANTI_BADWORD = true
 //👇 Kick And Auto Delete Group link Senders , ස්මූහ ස්බැදි දමන අයව ඉවත් කරයි
-global.ANTI_G_LINK = false
+global.ANTI_G_LINK = true
 //👇 212 Number block
 global.NUMBER_212_BLOCK = false
 //👇 Send Welcome ( true or false ) වෙල්කම් ගූඩ් බායි මැසේජ් යවන්න ඔනි නම් 
-global.SEND_WELCOME = false
-global.SEND_GOODBYE = false
+global.SEND_WELCOME = true
+global.SEND_GOODBYE = true
 //👇 Send block command message (true or false )
 global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Send Auto reply , sticker , voice Use true and costemize your own 
-global.AUTO_FUNCTION = false
+global.AUTO_FUNCTION = true
 //👇 Put Bot Offline
 global.BOT_OFFLINE = false
 //👇 Only PreFix [ true / false ]
@@ -62,7 +62,7 @@ global.DISABLE_INBOX = false
 //👇 DISABLE inbox message send ඉන්බොක්ස් වැඩනොකරන බවට මැසේජ් එක යැවිම true or false 
 global.DISABLE_INBOX_MESSAGE_SEND = false
 //👇 Pron Video Download 
-global.SEX_VIDEO_DOWNLOAD = false
+global.SEX_VIDEO_DOWNLOAD = true
 //👇 Only Inbox Use ( Only PM Work )
 global.INBOX_ONLY_WORK = false
 //👇 Auto ChatGPT ( You Must put CHATGPT API KEY For use this )
@@ -81,15 +81,15 @@ global.AUTO_SEEN_STATUS = true
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['94740525045'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙰𝙱𝙷𝙸 𝙱𝙾𝚃𝚉 ²⁰²³'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  '𝔸𝔹ℍ𝕀 𝔹𝕆𝕋ℤ 𝕄𝔻 3 𝛁' 
 //👇 Your name
-global.ownernma =  'ᴍ ʀ ⃞ ɴ ɪ ᴍ ᴀ' 
+global.ownernma =  '𝗔𝗯𝗵𝗶𝗶.....' 
 //👇 Sticker Author Name
-global.packname =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.packname =  '❤️‍🩹𝙼𝚁 𝙰𝙱𝙷𝙸 𝙾𝙵𝙲❤️‍🩹' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
@@ -103,31 +103,43 @@ global.MENU_IMOJI = '👸|ℹ️'
 //👇 Your time zone ( use correct time zone )
 global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Colombo'
 //👇 Removebg Api key
-global.REMOVE_BG_API = 'apikey get on remoebg.com'
+global.REMOVE_BG_API = 'WSDmNLMeaAzeC7sVge3KFSVR'
 //👇 Change Bot Language 
 global.LANG = 'EN'
 //Alive logo
-global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
+global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/b08fe75e4ebae860876d2.jpg`
 //👇 Alive message
-global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `default`
+global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `💗 Abhiz Whatsapp Bot 💗
+
+Hello there I am Online ! 
+Click below buttons fr more.
+
+*🧑‍💻 Devoloper  :Abhiii*
+*🧬 Version :* 3.8.6
+*🗃️ Public Group 1 :https://chat.whatsapp.com/LHMjyztC9orGNScB7a6joc* 
+*🗃️ Public Group 2 :https://chat.whatsapp.com/Lp995idgiyyIuhyOBI2u2D*
+
+🫀© ǫᴜᴇᴇɴ 𝚂𝙴𝚆𝚆 ᴡᴀ ʙᴏᴛ ᴛᴇᴀᴍ`
 //👇 Welcome Mesaage
-global.WELCOME = process.env.WELCOME || ``
+global.WELCOME = process.env.WELCOME || `*Hello🥰*
+_*Welcome To The Our Group*_
+https://chat.whatsapp.com/Lp995idgiyyIuhyOBI2u2D`
 //👇 welcome image 
-global.WELCOME_IMAGE = process.env.WELCOME_IMAGE || ``
+global.WELCOME_IMAGE = process.env.WELCOME_IMAGE || `https://telegra.ph/file/b08fe75e4ebae860876d2.jpg`
 //👇 Goodbye message 
-global.GOODBYE = process.env.GOODBYE || ``
+global.GOODBYE = process.env.GOODBYE || `_*Bye Bye Broo🥺*_`
 //👇 Good bye image
-global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || ``
+global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || `https://telegra.ph/file/b08fe75e4ebae860876d2.jpg`
 //👇 DISABLE PM Block numbers
 global.NO_BLOCK = ["94715166712","94719574492"]
 //👇 DISABLE download words
 global.IMG_BLOCKER = ["xxx","sex","mia"]
 //👇 Open ai API Put Withouth "sk-" ( "sk-" අයින් කරල ඉතුරු ටික දාන්න )
-global.CHATGPT_API = ''
+global.CHATGPT_API = 'Q7TZO4jruKCaaUFikjxdT3BlbkFJoQMv2oIi5OEltGAc7QxA'
 //👇 Sex  video Download Allowed Groups
 global.SEX_DOWNLOAD_GROUPS = ['120363147404508506@g.us']
 //👇 Your Bot Group Link
-global.GROUP_LINK = 'https://chat.whatsapp.com/Ih1udrdBNvX5xSu5mUVdql'
+global.GROUP_LINK = 'https://chat.whatsapp.com/Lp995idgiyyIuhyOBI2u2D'
 /*
 
    🍃 OTHER 🍃
@@ -156,13 +168,13 @@ global.mess = {
     ONLY_SEX_GROUP : "Adult Video Download Only Allowed On This Group \n\n https://chat.whatsapp.com/JYAg2lMpRTF2bgkeFCxsvf",
     DISABLE_CMD : "🚫 Commands Are DISABLE by owner",
     BAD_DETECT : '',
-    BLOCK : '',
+    BLOCK : '*විසාල කරදරයක්😒*',
     UNBLOCK : '',
     KICK : '',
-    ADD : '',
+    ADD : '_*New Member Added Done*_',
     LEAVE : '',
-    PROMOTE : '',
-    DEMOTE : ''
+    PROMOTE : '_*Promote Done*_ 🙈',
+    DEMOTE : '_*Demote Done😾*_'
 }
 
 
