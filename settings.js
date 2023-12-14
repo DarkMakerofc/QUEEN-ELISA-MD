@@ -143,7 +143,7 @@ global.zenzapi = '01ABEB1E11'
 global.mess = {
     success: '✅ Done!',
     admin: '*Only admins can use this command !*',
-    botAdmin: '*Please admin the bot first !*',
+    botAdmin: '*Please admin the bot owner first !*',
     owner: '*Sorry, this command is only for the owner !*',
     group: '*This command can only be used in groups !*',
     private: '*This command can only be used in Inbox !*',
@@ -162,8 +162,7 @@ global.mess = {
     ADD : '',
     LEAVE : '',
     PROMOTE : '',
-    DEMOTE : '',
-    WARN : '' 
+    DEMOTE : ''
 }
 
 
