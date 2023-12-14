@@ -85,7 +85,7 @@ global.owner = ['09069690635']
 //👇 Your Caption ( Image Video )
 global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  'ʟᴜᴄɪᴀɴ ʏᴏᴜʀꜰᴀᴅᴀ' 
 //👇 Your name
 global.ownernma =  'ʟᴜᴄɪᴀɴ' 
 //👇 Sticker Author Name
@@ -162,7 +162,8 @@ global.mess = {
     ADD : '',
     LEAVE : '',
     PROMOTE : '',
-    DEMOTE : ''
+    DEMOTE : '',
+    WARN : '' 
 }
 
 
