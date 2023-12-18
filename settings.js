@@ -56,7 +56,7 @@ global.BOT_OFFLINE = false
 //👇 Only PreFix [ true / false ]
 global.ONLY_PREFIX = false
 //👇 This uplaod youtube videos without limit ⚠️ if you use this you must have paid sever
-global.UPLOAD_MAX = true
+global.UPLOAD_MAX = false
 //👇 Desabale Bot inbox ඉන්බොක්ස් බ්ලොක් නොවී වැඩ නොකරන්නනම් 
 global.DISABLE_INBOX = false 
 //👇 DISABLE inbox message send ඉන්බොක්ස් වැඩනොකරන බවට මැසේජ් එක යැවිම true or false 
@@ -83,9 +83,9 @@ global.AUTO_SEEN_STATUS = false
 // You Bots Owner Number 
 global.owner = ['03420005131'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© Labbaik DefenderS  ²⁰²³'
+global.cap = '°•°•Vote for TLP ²⁰²⁴'
 //👇 Your Bot Name
-global.botnma =  'Labbaik' 
+global.botnma =  'TLP Working' 
 //👇 Your name
 global.ownernma =  'ᴍ ʀ ⃞ Attiq Ur Rehman' 
 //👇 Sticker Author Name
