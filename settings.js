@@ -91,7 +91,7 @@ global.ownernma =  'ᴍ ʀ ⃞ ɴ ɪ ᴍ ᴀ'
 //👇 Sticker Author Name
 global.packname =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
 //👇 Inbox Block Massage 
-global.INBOX_BLOCK_MSG = 'BLOCK !!!'
+global.INBOX_BLOCK_MSG = 'BLOCK !!! You are not authorized to message inbox'
 //👇 Owner React Imoji
 global.OWNER_REACT =  '💻'
 //👇 Song Download Massage 
