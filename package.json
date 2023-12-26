@@ -15,7 +15,7 @@
     "multi-device",
     "dark-maker-ofc"
   ],
-  "author": "MR-NIMA",
+  "author": "×PODDA",
   "license": "AGPL-3",
   "dependencies": {
     "@adiwajshing/baileys" : "npm:baileys-md@5.0.5",
