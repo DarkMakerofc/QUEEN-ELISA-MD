@@ -4,11 +4,11 @@
   👑 𝐏𝐀𝐊𝚰𝐒𝐓𝐀𝐍 𝐂𝐘𝐁𝐄𝐑 👑
       👑 𝐒𝐄𝐂𝐔𝐑𝚰𝐓𝐘 👑
 
-WHATSAPP BOT BY MR NIMA ( DARK MAKER OFC )
+WHATSAPP BOT BY MR SAHIL ( PAKISTAN CYBER SECURITY )
 
 WHATSAPP +447729415999
-SUPPORT GROUP - https://t.me/queenelisasupport
-YOUTUBE - http://youtube.com/MRNIMAOFC
+SUPPORT GROUP - wa.me/+447729415999
+WHATSAPP - https://whatsapp.com/channel/0029Va95gTQLCoX18KmLp70c
 
 
 ℹ️ SPECIAL INFORMATION ℹ️
