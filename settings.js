@@ -1,11 +1,12 @@
 /*
- █▀▀█ █░▒█ █▀▀▀ █▀▀▀ █▄░▒█       █▀▀▀ █░░░ ▀█▀ █▀▀▀█ █▀▀█
- █░▒█ █░▒█ █▀▀▀ █▀▀▀ █▒█▒█       █▀▀▀ █░░░ ░█░ ▀▀▀▄▄ █▄▄█
- ▀▀█▄ ▀▄▄▀ █▄▄▄ █▄▄▄ █░░▀█       █▄▄▄ █▄▄█ ▄█▄ █▄▄▄█ █░▒█
+ 👑 🆂🅰🅷🅸🅻 ⁶⁶⁶ـــ٨ﮩﮩ♡👑
+👑𝐀𝐃𝐌𝚰𝐍 𝐇𝐀𝐍𝚰𝐀 𝐐𝐔𝐄𝐄𝐍👑
+  👑 𝐏𝐀𝐊𝚰𝐒𝐓𝐀𝐍 𝐂𝐘𝐁𝐄𝐑 👑
+      👑 𝐒𝐄𝐂𝐔𝐑𝚰𝐓𝐘 👑
 
 WHATSAPP BOT BY MR NIMA ( DARK MAKER OFC )
 
-WHATSAPP - 94719574492
+WHATSAPP +447729415999
 SUPPORT GROUP - https://t.me/queenelisasupport
 YOUTUBE - http://youtube.com/MRNIMAOFC
 
