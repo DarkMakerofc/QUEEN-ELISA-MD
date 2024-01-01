@@ -13,7 +13,7 @@ WHATSAPP - https://whatsapp.com/channel/0029Va95gTQLCoX18KmLp70c
 
 ℹ️ SPECIAL INFORMATION ℹ️
 
-Welcome to Queen Elisa Whatsapp Bot settings.js.
+Welcome to Sahil Pakistan Cyber Security Whatsapp Bot settings.js.
 Information provided to you.
 If you use true or false
 true = if you want to do that task
@@ -177,7 +177,7 @@ global.mess = {
 //other
 global.pemilik = ['+447729415999'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
 global.premium = ['+447729415999'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
+global.pengguna = 'Sahil' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '👽'
