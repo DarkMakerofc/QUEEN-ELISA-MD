@@ -1,18 +1,19 @@
 /*
- █▀▀█ █░▒█ █▀▀▀ █▀▀▀ █▄░▒█       █▀▀▀ █░░░ ▀█▀ █▀▀▀█ █▀▀█
- █░▒█ █░▒█ █▀▀▀ █▀▀▀ █▒█▒█       █▀▀▀ █░░░ ░█░ ▀▀▀▄▄ █▄▄█
- ▀▀█▄ ▀▄▄▀ █▄▄▄ █▄▄▄ █░░▀█       █▄▄▄ █▄▄█ ▄█▄ █▄▄▄█ █░▒█
+👑 🆂🅰🅷🅸🅻 ⁶⁶⁶ـــ٨ﮩﮩ♡👑
+👑𝐀𝐃𝐌𝚰𝐍 𝐇𝐀𝐍𝚰𝐀 𝐐𝐔𝐄𝐄𝐍👑
+  👑 𝐏𝐀𝐊𝚰𝐒𝐓𝐀𝐍 𝐂𝐘𝐁𝐄𝐑 👑
+      👑 𝐒𝐄𝐂𝐔𝐑𝚰𝐓𝐘 👑
 
-WHATSAPP BOT BY MR NIMA ( DARK MAKER OFC )
+WHATSAPP BOT BY 𝐌𝐑 𝐒αɦ𝗂ᥣ ( DARK MAKER OFC )
 
-WHATSAPP - 94719574492
-SUPPORT GROUP - https://t.me/queenelisasupport
-YOUTUBE - http://youtube.com/MRNIMAOFC
+WHATSAPP - +447729415999
+SUPPORT GROUP - https://whatsapp.com/channel/0029Va95gTQLCoX18KmLp70c
+YOUTUBE - wa.me/+447729415999
 
 
 ℹ️ SPECIAL INFORMATION ℹ️
 
-Welcome to Queen Elisa Whatsapp Bot settings.js.
+Welcome to 𝐌𝐑 𝐒αɦ𝗂ᥣ 𝐏𝐀𝐊𝚰𝐒𝐓𝐀𝐍 𝐂𝐘𝐁𝐄𝐑 𝐒𝐄𝐂𝐔𝐑𝚰𝐓𝐘 Whatsapp Bot settings.js.
 Information provided to you.
 If you use true or false
 true = if you want to do that task
@@ -81,15 +82,19 @@ global.AUTO_SEEN_STATUS = true
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['+447729415999'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝐌𝐑 𝐒αɦ𝗂ᥣ 𝐏𝐀𝐊𝚰𝐒𝐓𝐀𝐍 𝐂𝐘𝐁𝐄𝐑 𝐒𝐄𝐂𝐔𝐑𝚰𝐓𝐘 ²⁰²4'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  '👑 🆂🅰🅷🅸🅻 👑
+👑 𝐏𝐀𝐊𝚰𝐒𝐓𝐀𝐍 𝐂𝐘𝐁𝐄𝐑 𝐒𝐄𝐂𝐔𝐑𝚰𝐓𝐘 👑𝛁' 
 //👇 Your name
-global.ownernma =  'ᴍ ʀ ⃞ ɴ ɪ ᴍ ᴀ' 
+global.ownernma =  '👑 🆂🅰🅷🅸🅻 ⁶⁶⁶ـــ٨ﮩﮩ♡👑
+👑𝐀𝐃𝐌𝚰𝐍 𝐇𝐀𝐍𝚰𝐀 𝐐𝐔𝐄𝐄𝐍👑
+  👑 𝐏𝐀𝐊𝚰𝐒𝐓𝐀𝐍 𝐂𝐘𝐁𝐄𝐑 👑
+      👑 𝐒𝐄𝐂𝐔𝐑𝚰𝐓𝐘 👑' 
 //👇 Sticker Author Name
-global.packname =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.packname =  '𝐌𝐑 𝐒αɦ𝗂ᥣ 𝙾𝙵𝙲' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
@@ -119,7 +124,7 @@ global.GOODBYE = process.env.GOODBYE || ``
 //👇 Good bye image
 global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || ``
 //👇 DISABLE PM Block numbers
-global.NO_BLOCK = ["94715166712","94719574492"]
+global.NO_BLOCK = ["94715166712","+447729415999"]
 //👇 DISABLE download words
 global.IMG_BLOCKER = ["xxx","sex","mia"]
 //👇 Open ai API Put Withouth "sk-" ( "sk-" අයින් කරල ඉතුරු ටික දාන්න )
@@ -127,7 +132,7 @@ global.CHATGPT_API = ''
 //👇 Sex  video Download Allowed Groups
 global.SEX_DOWNLOAD_GROUPS = ['120363147404508506@g.us']
 //👇 Your Bot Group Link
-global.GROUP_LINK = 'https://chat.whatsapp.com/Ih1udrdBNvX5xSu5mUVdql'
+global.GROUP_LINK = 'https://whatsapp.com/channel/0029Va95gTQLCoX18KmLp70c'
 /*
 
    🍃 OTHER 🍃
@@ -169,13 +174,13 @@ global.mess = {
 
 
 //other
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
+global.pemilik = ['+447729415999'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['+447729415999'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = '𝐌𝐑 𝐒αɦ𝗂ᥣ' // Your name 𝐌𝐑 𝐒αɦ𝗂ᥣ 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '👽'
-global.weem = 'QUEEN ELISA'
+global.weem = '𝐌𝐑 𝐒αɦ𝗂ᥣ'
 
 global.limitawal = {
     premium: "Infinity", 
