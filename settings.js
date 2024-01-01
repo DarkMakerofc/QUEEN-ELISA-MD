@@ -38,16 +38,21 @@ global.AUTO_BIO = false
 //👇 Inbox massage block PM block , ඉන්බොක් බ්ලොක් 
 global.INBOX_BLOCK = false
 //👇 Auto react  , ස්වයංක්‍රීය රියක්ට්
-global.AUTO_REACT = false
+global.AUTO_REACT = true
 //👇 Bad word Auto delete ( you must add bad words ) නරක වචන ඩිලීට් කිරීම , ඔබ විසින් වචන දැමිය යුතුය 
-global.ANTI_BADWORD = false
+global.ANTI_BADWORD = true
 //👇 Kick And Auto Delete Group link Senders , ස්මූහ ස්බැදි දමන අයව ඉවත් කරයි
-global.ANTI_G_LINK = false
+global.ANTI_G_LINK = true
 //👇 212 Number block
 global.NUMBER_212_BLOCK = false
-//👇 Send Welcome ( true or false ) වෙල්කම් ගූඩ් බායි මැසේජ් යවන්න ඔනි නම් 
-global.SEND_WELCOME = false
-global.SEND_GOODBYE = false
+//👇 Send Welcome ( true or false )  ★❍ 𝑰 𝒂𝒎 𝑺𝒂𝒉𝒊𝒍❍★
+╔━━❖❖♥❖❖━━╗
+  ۝ 𝐖𝐞𝐥𝐥𝐂𝐨𝐦𝐞 𝐭𝐎𝐨 𝐇𝐚𝐜𝐤𝐢𝐧𝐠 𝐙𝐨𝐧𝐞۝
+╚━━❖❖♥❖❖━━╝
+𝑨𝒏𝒐𝒏𝒚𝒎𝒐𝒖𝒔 𝑫𝑩 𝑻𝒆𝒂𝒎 𝑨𝒅𝒎𝒊𝒏
+𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐀𝐜𝐜𝐨𝐮𝐧𝐭 🔥
+global.SEND_WELCOME = true
+global.SEND_GOODBYE = true
 //👇 Send block command message (true or false )
 global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Send Auto reply , sticker , voice Use true and costemize your own 
