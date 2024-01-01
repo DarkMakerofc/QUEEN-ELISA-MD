@@ -175,13 +175,13 @@ global.mess = {
 
 
 //other
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pemilik = ['+447729415999'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['+447729415999'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
 global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '👽'
-global.weem = 'QUEEN ELISA'
+global.weem = '𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙉 𝘾𝙔𝘽𝙀𝙍 𝙎𝙀𝘾𝙐𝙍𝙄𝙏𝙔'
 
 global.limitawal = {
     premium: "Infinity", 
