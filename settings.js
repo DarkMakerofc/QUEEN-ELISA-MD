@@ -49,8 +49,6 @@ global.NUMBER_212_BLOCK = false
 ╔━━❖❖♥❖❖━━╗
   ۝ 𝐖𝐞𝐥𝐥𝐂𝐨𝐦𝐞 𝐭𝐎𝐨 𝐇𝐚𝐜𝐤𝐢𝐧𝐠 𝐙𝐨𝐧𝐞۝
 ╚━━❖❖♥❖❖━━╝
-𝑨𝒏𝒐𝒏𝒚𝒎𝒐𝒖𝒔 𝑫𝑩 𝑻𝒆𝒂𝒎 𝑨𝒅𝒎𝒊𝒏
-𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐀𝐜𝐜𝐨𝐮𝐧𝐭 🔥
 global.SEND_WELCOME = true
 global.SEND_GOODBYE = true
 //👇 Send block command message (true or false )
@@ -70,7 +68,7 @@ global.DISABLE_INBOX_MESSAGE_SEND = false
 //👇 Pron Video Download 
 global.SEX_VIDEO_DOWNLOAD = false
 //👇 Only Inbox Use ( Only PM Work )
-global.INBOX_ONLY_WORK = false
+global.INBOX_ONLY_WORK = true
 //👇 Auto ChatGPT ( You Must put CHATGPT API KEY For use this )
 global.AUTO_OPEN_AI = false
 //👇 Bot On Privet
@@ -89,9 +87,9 @@ global.AUTO_SEEN_STATUS = true
 // You Bots Owner Number 
 global.owner = ['+447729415999'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝑺𝒂𝒉𝒊𝒍 𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙉 𝘾𝙔𝘽𝙀𝙍 𝙎𝙀𝘾𝙐𝙍𝙄𝙏𝙔²⁰²⁴'
+global.cap = '𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝑺𝒂𝒉𝒊𝒍 𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙉 𝘾𝙔𝘽𝙀𝙍 𝙎𝙀𝘾𝙐𝙍𝙄𝙏𝙔²⁰²⁴'
 //👇 Your Bot Name
-global.botnma =  '𝑺𝒂𝒉𝒊𝒍 𝛁' 
+global.botnma =  '𝑺𝒂𝒉𝒊𝒍𝛁' 
 //👇 Your name
 global.ownernma =  '𝑺𝒂𝒉𝒊𝒍 ⃞ 𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙉 𝘾𝙔𝘽𝙀𝙍 𝙎𝙀𝘾𝙐𝙍𝙄𝙏𝙔' 
 //👇 Sticker Author Name
@@ -99,13 +97,13 @@ global.packname =  '𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙉 𝘾𝙔𝘽𝙀𝙍 𝙎�
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
-global.OWNER_REACT =  '💻'
+global.OWNER_REACT =  '⌚'
 //👇 Song Download Massage 
 global.SONG_DOWN = '```⬇️ Downloading Your Song...```' 
 //👇 Song Uplode massage 
 global.SONG_UP = '```⬆️ Uploding Your Song...```'
 //👇 Menu imoji 
-global.MENU_IMOJI = '👸|ℹ️'
+global.MENU_IMOJI = '🎩|ℹ️'
 //👇 Your time zone ( use correct time zone )
 global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Colombo'
 //👇 Removebg Api key
