@@ -1,9 +1,5 @@
 /*
- 👑 🆂🅰🅷🅸🅻 ⁶⁶⁶ـــ٨ﮩﮩ♡👑
-👑𝐀𝐃𝐌𝚰𝐍 𝐇𝐀𝐍𝚰𝐀 𝐐𝐔𝐄𝐄𝐍👑
-  👑 𝐏𝐀𝐊𝚰𝐒𝐓𝐀𝐍 𝐂𝐘𝐁𝐄𝐑 👑
-      👑 𝐒𝐄𝐂𝐔𝐑𝚰𝐓𝐘 👑
-
+ 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝑺𝒂𝒉𝒊𝒍 𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙉 𝘾𝙔𝘽𝙀𝙍 𝙎𝙀𝘾𝙐𝙍𝙄𝙏𝙔²⁰²⁴
 WHATSAPP BOT BY MR SAHIL ( PAKISTAN CYBER SECURITY )
 
 WHATSAPP +447729415999
@@ -45,10 +41,8 @@ global.ANTI_BADWORD = true
 global.ANTI_G_LINK = true
 //👇 212 Number block
 global.NUMBER_212_BLOCK = false
-//👇 Send Welcome ( true or false )  ★❍ 𝑰 𝒂𝒎 𝑺𝒂𝒉𝒊𝒍❍★
-╔━━❖❖♥❖❖━━╗
-  ۝ 𝐖𝐞𝐥𝐥𝐂𝐨𝐦𝐞 𝐭𝐎𝐨 𝐇𝐚𝐜𝐤𝐢𝐧𝐠 𝐙𝐨𝐧𝐞۝
-╚━━❖❖♥❖❖━━╝
+//👇 Send Welcome ( true or false ) true
+Welcome Dear User Sahil Hacking Zone
 global.SEND_WELCOME = true
 global.SEND_GOODBYE = true
 //👇 Send block command message (true or false )
@@ -68,7 +62,7 @@ global.DISABLE_INBOX_MESSAGE_SEND = false
 //👇 Pron Video Download 
 global.SEX_VIDEO_DOWNLOAD = false
 //👇 Only Inbox Use ( Only PM Work )
-global.INBOX_ONLY_WORK = true
+global.INBOX_ONLY_WORK = false
 //👇 Auto ChatGPT ( You Must put CHATGPT API KEY For use this )
 global.AUTO_OPEN_AI = false
 //👇 Bot On Privet
@@ -91,9 +85,9 @@ global.cap = '𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝑺𝒂𝒉𝒊𝒍
 //👇 Your Bot Name
 global.botnma =  '𝑺𝒂𝒉𝒊𝒍𝛁' 
 //👇 Your name
-global.ownernma =  '𝑺𝒂𝒉𝒊𝒍 ⃞ 𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙉 𝘾𝙔𝘽𝙀𝙍 𝙎𝙀𝘾𝙐𝙍𝙄𝙏𝙔' 
+global.ownernma =  '𝑺𝒂𝒉𝒊𝒍 ⃞𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙉 𝘾𝙔𝘽𝙀𝙍 𝙎𝙀𝘾𝙐𝙍𝙄𝙏𝙔' 
 //👇 Sticker Author Name
-global.packname =  '𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙉 𝘾𝙔𝘽𝙀𝙍 𝙎𝙀𝘾𝙐𝙍𝙄𝙏𝙔' 
+global.packname =  '𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝑺𝒂𝒉𝒊𝒍 𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙉 𝘾𝙔𝘽𝙀𝙍 𝙎𝙀𝘾𝙐𝙍𝙄𝙏𝙔²⁰²⁴' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
@@ -105,7 +99,7 @@ global.SONG_UP = '```⬆️ Uploding Your Song...```'
 //👇 Menu imoji 
 global.MENU_IMOJI = '🎩|ℹ️'
 //👇 Your time zone ( use correct time zone )
-global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Colombo'
+global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Pakistan'
 //👇 Removebg Api key
 global.REMOVE_BG_API = 'apikey get on remoebg.com'
 //👇 Change Bot Language 
