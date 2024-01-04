@@ -1,7 +1,7 @@
 {
-  "name": "𝐌𝐑 𝐒αɦ𝗂ᥣ 𝐏𝐀𝐊𝚰𝐒𝐓𝐀𝐍 𝐂𝐘𝐁𝐄𝐑 𝐒𝐄𝐂𝐔𝐑𝚰𝐓𝐘",
+  "name": "QUEEN-ELISA-MD",
   "version": "3.9.7",
-  "description": "𝐌𝐑 𝐒αɦ𝗂ᥣ 𝐏𝐀𝐊𝚰𝐒𝐓𝐀𝐍 𝐂𝐘𝐁𝐄𝐑 𝐒𝐄𝐂𝐔𝐑𝚰𝐓𝐘 Whatsapp Bot is Baileys Web base Whatsapp 3rd Party Module",
+  "description": "Queen Elisa Whatsapp Bot is Baileys Web base Whatsapp 3rd Party Module",
   "type": "commonjs",
   "scripts": {
     "start": "node --max_old_space_size=8192 lib/runner/index.js"
@@ -15,7 +15,7 @@
     "multi-device",
     "dark-maker-ofc"
   ],
-  "author": "MR-𝐌𝐑 𝐒αɦ𝗂ᥣ 𝐏𝐀𝐊𝚰𝐒𝐓𝐀𝐍 𝐂𝐘𝐁𝐄𝐑 𝐒𝐄𝐂𝐔𝐑𝚰𝐓𝐘",
+  "author": "MR-NIMA",
   "license": "AGPL-3",
   "dependencies": {
     "@adiwajshing/baileys" : "npm:baileys-md@5.0.5",
@@ -52,7 +52,7 @@
     "mal-scraper": "^2.11.4",
     "moment-timezone": "^0.5.34",
     "mongoose": "^6.2.1",
-    "mumaker": "npm:𝐌𝐑 𝐒αɦ𝗂ᥣ 𝐏𝐀𝐊𝚰𝐒𝐓𝐀𝐍 𝐂𝐘𝐁𝐄𝐑 𝐒𝐄𝐂𝐔𝐑𝚰𝐓𝐘_maker@0.0.1",
+    "mumaker": "npm:nima_maker@0.0.1",
     "node-cron": "^3.0.0",
     "node-fetch": "^2.6.1",
     "node-id3": "^0.2.3",
@@ -89,10 +89,10 @@
     "src": "src"
   },
   "devDependencies": {},
-  "repository": "git+https://github.com/DarkMakerofc/𝐌𝐑 𝐒αɦ𝗂ᥣ 𝐏𝐀𝐊𝚰𝐒𝐓𝐀𝐍 𝐂𝐘𝐁𝐄𝐑 𝐒𝐄𝐂𝐔𝐑𝚰𝐓𝐘.git",
+  "repository": "git+https://github.com/DarkMakerofc/QUEEN-ELISA-MD.git",
   "bugs": {
-    "url": "https://github.com/DarkMakerofc/𝐌𝐑 𝐒αɦ𝗂ᥣ 𝐏𝐀𝐊𝚰𝐒𝐓𝐀𝐍 𝐂𝐘𝐁𝐄𝐑 𝐒𝐄𝐂𝐔𝐑𝚰𝐓𝐘/issues"
+    "url": "https://github.com/DarkMakerofc/QUEEN-ELISA-MD/issues"
   },
-  "homepage": "https://github.com/DarkMakerofc/𝐌𝐑 𝐒αɦ𝗂ᥣ 𝐏𝐀𝐊𝚰𝐒𝐓𝐀𝐍 𝐂𝐘𝐁𝐄𝐑 𝐒𝐄𝐂𝐔𝐑𝚰𝐓𝐘/#readme",
+  "homepage": "https://github.com/DarkMakerofc/QUEEN-ELISA-MD/#readme",
   "main": "index.js"
 }
