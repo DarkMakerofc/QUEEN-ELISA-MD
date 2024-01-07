@@ -1,18 +1,15 @@
 /*
- █▀▀█ █░▒█ █▀▀▀ █▀▀▀ █▄░▒█       █▀▀▀ █░░░ ▀█▀ █▀▀▀█ █▀▀█
- █░▒█ █░▒█ █▀▀▀ █▀▀▀ █▒█▒█       █▀▀▀ █░░░ ░█░ ▀▀▀▄▄ █▄▄█
- ▀▀█▄ ▀▄▄▀ █▄▄▄ █▄▄▄ █░░▀█       █▄▄▄ █▄▄█ ▄█▄ █▄▄▄█ █░▒█
+ 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝑺𝒂𝒉𝒊𝒍 𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙉 𝘾𝙔𝘽𝙀𝙍 𝙎𝙀𝘾𝙐𝙍𝙄𝙏𝙔²⁰²⁴
+WHATSAPP BOT BY MR SAHIL ( PAKISTAN CYBER SECURITY )
 
-WHATSAPP BOT BY MR NIMA ( DARK MAKER OFC )
-
-WHATSAPP - 94719574492
-SUPPORT GROUP - https://t.me/queenelisasupport
-YOUTUBE - http://youtube.com/MRNIMAOFC
+WHATSAPP +447729415999
+SUPPORT GROUP - wa.me/+447729415999
+WHATSAPP - https://whatsapp.com/channel/0029Va95gTQLCoX18KmLp70c
 
 
 ℹ️ SPECIAL INFORMATION ℹ️
 
-Welcome to Queen Elisa Whatsapp Bot settings.js.
+Welcome to Sahil Pakistan Cyber Security Whatsapp Bot settings.js.
 Information provided to you.
 If you use true or false
 true = if you want to do that task
@@ -37,22 +34,23 @@ global.AUTO_BIO = false
 //👇 Inbox massage block PM block , ඉන්බොක් බ්ලොක් 
 global.INBOX_BLOCK = false
 //👇 Auto react  , ස්වයංක්‍රීය රියක්ට්
-global.AUTO_REACT = false
+global.AUTO_REACT = true
 //👇 Bad word Auto delete ( you must add bad words ) නරක වචන ඩිලීට් කිරීම , ඔබ විසින් වචන දැමිය යුතුය 
-global.ANTI_BADWORD = false
+global.ANTI_BADWORD = true
 //👇 Kick And Auto Delete Group link Senders , ස්මූහ ස්බැදි දමන අයව ඉවත් කරයි
-global.ANTI_G_LINK = false
+global.ANTI_G_LINK = true
 //👇 212 Number block
 global.NUMBER_212_BLOCK = false
-//👇 Send Welcome ( true or false ) වෙල්කම් ගූඩ් බායි මැසේජ් යවන්න ඔනි නම් 
-global.SEND_WELCOME = false
-global.SEND_GOODBYE = false
+//👇 Send Welcome ( true or false ) true
+Welcome Dear User Sahil Hacking Zone
+global.SEND_WELCOME = true
+global.SEND_GOODBYE = true
 //👇 Send block command message (true or false )
 global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Send Auto reply , sticker , voice Use true and costemize your own 
-global.AUTO_FUNCTION = false
+global.AUTO_FUNCTION = true
 //👇 Put Bot Offline
-global.BOT_OFFLINE = false
+global.BOT_OFFLINE = true
 //👇 Only PreFix [ true / false ]
 global.ONLY_PREFIX = false
 //👇 This uplaod youtube videos without limit ⚠️ if you use this you must have paid sever
@@ -64,11 +62,11 @@ global.DISABLE_INBOX_MESSAGE_SEND = false
 //👇 Pron Video Download 
 global.SEX_VIDEO_DOWNLOAD = false
 //👇 Only Inbox Use ( Only PM Work )
-global.INBOX_ONLY_WORK = false
+global.INBOX_ONLY_WORK = true
 //👇 Auto ChatGPT ( You Must put CHATGPT API KEY For use this )
 global.AUTO_OPEN_AI = false
 //👇 Bot On Privet
-global.PRIVET_BOT = false
+global.PRIVET_BOT = Public 
 //👇 DISABLE Bot Commands But Others Are Working 
 global.DISABLE_COMMANDS = false
 //👇 DISABLE Bot Commands On Message Send On Off
@@ -81,27 +79,27 @@ global.AUTO_SEEN_STATUS = true
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['+447729415999'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
+global.cap = '𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝑺𝒂𝒉𝒊𝒍 𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙉 𝘾𝙔𝘽𝙀𝙍 𝙎𝙀𝘾𝙐𝙍𝙄𝙏𝙔²⁰²⁴'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  '𝑺𝒂𝒉𝒊𝒍𝛁' 
 //👇 Your name
-global.ownernma =  'ᴍ ʀ ⃞ ɴ ɪ ᴍ ᴀ' 
+global.ownernma =  '𝑺𝒂𝒉𝒊𝒍 ⃞𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙉 𝘾𝙔𝘽𝙀𝙍 𝙎𝙀𝘾𝙐𝙍𝙄𝙏𝙔' 
 //👇 Sticker Author Name
-global.packname =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.packname =  '𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝑺𝒂𝒉𝒊𝒍 𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙉 𝘾𝙔𝘽𝙀𝙍 𝙎𝙀𝘾𝙐𝙍𝙄𝙏𝙔²⁰²⁴' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
-global.OWNER_REACT =  '💻'
+global.OWNER_REACT =  '⌚'
 //👇 Song Download Massage 
 global.SONG_DOWN = '```⬇️ Downloading Your Song...```' 
 //👇 Song Uplode massage 
 global.SONG_UP = '```⬆️ Uploding Your Song...```'
 //👇 Menu imoji 
-global.MENU_IMOJI = '👸|ℹ️'
+global.MENU_IMOJI = '🎩|ℹ️'
 //👇 Your time zone ( use correct time zone )
-global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Colombo'
+global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Pakistan'
 //👇 Removebg Api key
 global.REMOVE_BG_API = 'apikey get on remoebg.com'
 //👇 Change Bot Language 
@@ -119,7 +117,7 @@ global.GOODBYE = process.env.GOODBYE || ``
 //👇 Good bye image
 global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || ``
 //👇 DISABLE PM Block numbers
-global.NO_BLOCK = ["94715166712","94719574492"]
+global.NO_BLOCK = ["+447729415999","+447729415999"]
 //👇 DISABLE download words
 global.IMG_BLOCKER = ["xxx","sex","mia"]
 //👇 Open ai API Put Withouth "sk-" ( "sk-" අයින් කරල ඉතුරු ටික දාන්න )
@@ -127,7 +125,7 @@ global.CHATGPT_API = ''
 //👇 Sex  video Download Allowed Groups
 global.SEX_DOWNLOAD_GROUPS = ['120363147404508506@g.us']
 //👇 Your Bot Group Link
-global.GROUP_LINK = 'https://chat.whatsapp.com/Ih1udrdBNvX5xSu5mUVdql'
+global.GROUP_LINK = 'https://whatsapp.com/channel/0029Va95gTQLCoX18KmLp70c'
 /*
 
    🍃 OTHER 🍃
@@ -169,13 +167,13 @@ global.mess = {
 
 
 //other
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
+global.pemilik = ['+447729415999'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['+447729415999'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'Sahil' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '👽'
-global.weem = 'QUEEN ELISA'
+global.weem = '𝙋𝘼𝙆𝙄𝙎𝙏𝘼𝙉 𝘾𝙔𝘽𝙀𝙍 𝙎𝙀𝘾𝙐𝙍𝙄𝙏𝙔'
 
 global.limitawal = {
     premium: "Infinity", 
