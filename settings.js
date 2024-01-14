@@ -171,7 +171,7 @@ global.mess = {
 //other
 global.pemilik = ['254718382875'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
 global.premium = ['254718382875'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
+global.pengguna = 'WHITE NICK' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '👽'
