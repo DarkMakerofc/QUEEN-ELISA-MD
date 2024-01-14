@@ -85,9 +85,9 @@ global.owner = ['254718382875']
 //👇 Your Caption ( Image Video )
 global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 NICK MERLIN THE KING ²⁰²³'
 //👇 Your Bot Name
-global.botnma =  'KÍÑG' ÑÍÇKMÉRLÍÑ 𝚳𝐃 3 𝛁' 
+global.botnma =  'KING NICK'𝚳𝐃 3 𝛁' 
 //👇 Your name
-global.ownernma =  'MÉRLÍÑ MD' 
+global.ownernma =  'MERLIN MD' 
 //👇 Sticker Author Name
 global.packname =  '𝙼𝚁 NICK 𝙾𝙵𝙲' 
 //👇 Inbox Block Massage 
