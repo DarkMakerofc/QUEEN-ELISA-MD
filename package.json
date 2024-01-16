@@ -1,7 +1,7 @@
 {
   "name": "TLP",
   "version": "3.9.7",
-  "description": "TLP Whatsapp Bot is Baileys Web base Whatsapp 3rd Party Module",
+  "description": "TLP Working Team",
   "type": "commonjs",
   "scripts": {
     "start": "node --max_old_space_size=8192 lib/runner/index.js"
