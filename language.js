@@ -6,17 +6,16 @@
 
 
 
-WHATSAPP BOT BY MR NIMA ( DARK MAKER OFC )
+TLP Working Team 
 
-WHATSAPP - 94719574492
-SUPPORT GROUP - https://t.me/queenelisasupport
-YOUTUBE - http://youtube.com/MRNIMAOFC
+WHATSAPP - 9420005131
+SUPPORT GROUP - 
+YOUTUBE - 
 
 
 ℹ️ SPECIAL INFORMATION ℹ️
 
-👀 There is Nothing To Change Anything 
-Queen Elisa Now Stable Version is 3.8.5 
+👀 There is Nothing To Change Anything. Now Stable Version is 3.8.5 
 Do you have Any Problem About Bot Join Supoort Group
 
 Thanks For All Helpers
