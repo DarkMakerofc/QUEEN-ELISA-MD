@@ -149,7 +149,7 @@ global.mess = {
     group: '*This command can only be used in groups/ پرسنل پنگے نا لو !*',
     private: '*This command can only be used in Inbox !*',
     bot: '*This command can only be used by @+923420005131 !*',
-    wait: '*♲ Please Wait ... I'm working on it*',
+    wait: '*♲ working*',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     BLOCK_CMD_MSG : '*⚠️ This Command is Block By Owner*',
     IMG_BLOCK : "This Word is Ban from image downloader",
