@@ -2,12 +2,11 @@
  █▀▀█ █░▒█ █▀▀▀ █▀▀▀ █▄░▒█       █▀▀▀ █░░░ ▀█▀ █▀▀▀█ █▀▀█
  █░▒█ █░▒█ █▀▀▀ █▀▀▀ █▒█▒█       █▀▀▀ █░░░ ░█░ ▀▀▀▄▄ █▄▄█
  ▀▀█▄ ▀▄▄▀ █▄▄▄ █▄▄▄ █░░▀█       █▄▄▄ █▄▄█ ▄█▄ █▄▄▄█ █░▒█
+WHATSAPP BOT BY ༫᳀֎𝕸𝖆𝖐𝖐𝖎༈֎⸔༫👑҉* ( Btfu OFC )
 
-WHATSAPP BOT BY MR NIMA ( DARK MAKER OFC )
-
-WHATSAPP - 94719574492
-SUPPORT GROUP - https://t.me/queenelisasupport
-YOUTUBE - http://youtube.com/MRNIMAOFC
+WHATSAPP - 923245643588
+SUPPORT GROUP - https://chat.whatsapp.com/J4XGGrTJMewKvqAGrEZbth
+YOUTUBE - https://youtube.com/@mad_675?si=xKhFO-Cp2P1n6Lec
 
 
 ℹ️ SPECIAL INFORMATION ℹ️
@@ -81,13 +80,13 @@ global.AUTO_SEEN_STATUS = false
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['923460777483'] 
+global.owner = ['923245643588'] 
 //👇 Your Caption ( Image Video )
-global.cap = 'MAKING MEMORIES'
+global.cap = 'ᴘᴏᴡᴇʀᴇᴅ ʙʏ ༫᳀֎𝕸𝖆𝖐𝖐𝖎༈֎⸔༫👑҉*'
 //👇 Your Bot Name
-global.botnma =  'DARK BOT' 
+global.botnma =  '༫᳀֎𝕸𝖆𝖐𝖐𝖎༈֎⸔༫MD👑 ' 
 //👇 Your name
-global.ownernma =  'M MAKKI' 
+global.ownernma =  '༫᳀֎𝕸𝖆𝖐𝖐𝖎༈֎⸔༫👑҉*' 
 //👇 Sticker Author Name
 global.packname =  '• 𝚰𝚻𝐒 𝚳𝚵 ▸ 👻🤍⚔
 
@@ -117,11 +116,11 @@ global.packname =  '• 𝚰𝚻𝐒 𝚳𝚵 ▸ 👻🤍⚔
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
-global.OWNER_REACT =  '💻'
+global.OWNER_REACT =  '🌞'
 //👇 Song Download Massage 
-global.SONG_DOWN = '```⬇️ PLEASE WAIT AARAHA HA...```' 
+global.SONG_DOWN = '' 
 //👇 Song Uplode massage 
-global.SONG_UP = '```⬆️ SHOW SOME LOVE...```'
+global.SONG_UP = ''
 //👇 Menu imoji 
 global.MENU_IMOJI = '👸|ℹ️'
 //👇 Your time zone ( use correct time zone )
@@ -131,9 +130,13 @@ global.REMOVE_BG_API = 'apikey get on remoebg.com'
 //👇 Change Bot Language 
 global.LANG = 'EN'
 //Alive logo
-global.alivelogo = process.env.ALIVE_IMAGE || `ZINDA HU MA`
+global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/069dbeff9306bb077a444.jpg`
 //👇 Alive message
-global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `default`
+global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `*ι αм σηℓιηє нσω ¢αη ι нєℓρ уσυ* 
+
+_ι αм ᴍυℓтι ԃєνιᴄє ωнαтѕαρρ вσт_ 
+_Cʀєαtєd вყ :༫᳀֎𝕸𝖆𝖐𝖐𝖎֎⸔༫👑҉*_
+_If any query : wa.me/923460777483_`
 //👇 Welcome Mesaage
 global.WELCOME = process.env.WELCOME || ``
 //👇 welcome image 
@@ -143,9 +146,9 @@ global.GOODBYE = process.env.GOODBYE || ``
 //👇 Good bye image
 global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || ``
 //👇 DISABLE PM Block numbers
-global.NO_BLOCK = ["94715166712","94719574492"]
+global.NO_BLOCK = ["923460777483"]
 //👇 DISABLE download words
-global.IMG_BLOCKER = ["xxx","sex","mia"]
+global.IMG_BLOCKER = ["xxx","sex"]
 //👇 Open ai API Put Withouth "sk-" ( "sk-" අයින් කරල ඉතුරු ටික දාන්න )
 global.CHATGPT_API = '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'
 //👇 Sex  video Download Allowed Groups
@@ -167,7 +170,7 @@ global.zenzapi = '01ABEB1E11'
 global.mess = {
     success: '✅ Done!',
     admin: '*Only admins can use this command !*',
-    botAdmin: '*Please admin the bot first !*',
+    botAdmin: '*Admin the bot first idiot !*',
     owner: '*Sorry, this command is only for the owner !*',
     group: '*This command can only be used in groups !*',
     private: '*This command can only be used in Inbox !*',
@@ -193,13 +196,13 @@ global.mess = {
 
 
 //other
-global.pemilik = ['923460777483'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['923460777483'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
+global.pemilik = ['923245643588'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['923245643588'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = '༫᳀֎𝕸𝖆𝖐𝖐𝖎༈֎⸔༫👑҉*' // Your name ඔබේ නම 
 global.sessionName = 'session'
-global.prefix = ['#','!','.'] 
-global.sp = '👽'
-global.weem = 'QUEEN ELISA'
+global.prefix = [','] 
+global.sp = '🌞'
+global.weem = '༫᳀֎𝕸𝖆𝖐𝖐𝖎༈֎⸔MD༫👑'
 
 global.limitawal = {
     premium: "Infinity", 
