@@ -88,30 +88,7 @@ global.botnma =  '༫᳀֎𝕸𝖆𝖐𝖐𝖎༈֎⸔༫MD👑 '
 //👇 Your name
 global.ownernma =  '༫᳀֎𝕸𝖆𝖐𝖐𝖎༈֎⸔༫👑҉*' 
 //👇 Sticker Author Name
-global.packname =  '• 𝚰𝚻𝐒 𝚳𝚵 ▸ 👻🤍⚔
-
-•
-•
-
-•
-•
-
-•
-•
-
-•
-
-•
-•
-
-•
-•
-•
-
-•
-•
-
-     +𝟵𝟮𝟯𝟰𝟲𝟬𝟳𝟳𝟳𝟰𝟴𝟯 : 🇵🇰
+global.packname =  '+𝟵𝟮𝟯𝟰𝟲𝟬𝟳𝟳𝟳𝟰𝟴𝟯 : 🇵🇰
 ༫᳀֎𝕸𝖆𝖐𝖐𝖎༈֎⸔༫👑҉  ⃙°お°' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
@@ -136,9 +113,7 @@ global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `*ι αм σηℓιηє нσ
 
 _ι αм ᴍυℓтι ԃєνιᴄє ωнαтѕαρρ вσт_ 
 _Cʀєαtєd вყ :༫᳀֎𝕸𝖆𝖐𝖐𝖎֎⸔༫👑҉*_
-_If any query : wa.me/923460777483_`
-//👇 Welcome Mesaage
-global.WELCOME = process.env.WELCOME || ``
+_If any query : wa.me/923460777483E = process.env.WELCOME || ``
 //👇 welcome image 
 global.WELCOME_IMAGE = process.env.WELCOME_IMAGE || ``
 //👇 Goodbye message 
