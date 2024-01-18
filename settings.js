@@ -88,8 +88,7 @@ global.botnma =  '༫᳀֎𝕸𝖆𝖐𝖐𝖎༈֎⸔༫MD👑 '
 //👇 Your name
 global.ownernma =  '༫᳀֎𝕸𝖆𝖐𝖐𝖎༈֎⸔༫👑҉*' 
 //👇 Sticker Author Name
-global.packname =  '+𝟵𝟮𝟯𝟰𝟲𝟬𝟳𝟳𝟳𝟰𝟴𝟯 : 🇵🇰
-༫᳀֎𝕸𝖆𝖐𝖐𝖎༈֎⸔༫👑҉  ⃙°お°' 
+global.packname =  '༫᳀֎𝕸𝖆𝖐𝖐𝖎༈֎⸔༫👑҉' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
