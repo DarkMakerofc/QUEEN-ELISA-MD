@@ -2,12 +2,11 @@
  █▀▀█ █░▒█ █▀▀▀ █▀▀▀ █▄░▒█       █▀▀▀ █░░░ ▀█▀ █▀▀▀█ █▀▀█
  █░▒█ █░▒█ █▀▀▀ █▀▀▀ █▒█▒█       █▀▀▀ █░░░ ░█░ ▀▀▀▄▄ █▄▄█
  ▀▀█▄ ▀▄▄▀ █▄▄▄ █▄▄▄ █░░▀█       █▄▄▄ █▄▄█ ▄█▄ █▄▄▄█ █░▒█
+WHATSAPP BOT BY ༫᳀֎𝕸𝖆𝖐𝖐𝖎༈֎⸔༫👑҉* ( Btfu OFC )
 
-WHATSAPP BOT BY MR NIMA ( DARK MAKER OFC )
-
-WHATSAPP - 94719574492
-SUPPORT GROUP - https://t.me/queenelisasupport
-YOUTUBE - http://youtube.com/MRNIMAOFC
+WHATSAPP - 923245643588
+SUPPORT GROUP - https://chat.whatsapp.com/J4XGGrTJMewKvqAGrEZbth
+YOUTUBE - https://youtube.com/@mad_675?si=xKhFO-Cp2P1n6Lec
 
 
 ℹ️ SPECIAL INFORMATION ℹ️
@@ -73,7 +72,7 @@ global.PRIVET_BOT = false
 global.DISABLE_COMMANDS = false
 //👇 DISABLE Bot Commands On Message Send On Off
 global.DISABLE_COMMAND_MESSAGE_SEND = false 
-global.AUTO_SEEN_STATUS = true
+global.AUTO_SEEN_STATUS = false
 
 
 
@@ -81,27 +80,27 @@ global.AUTO_SEEN_STATUS = true
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['923245643588'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
+global.cap = 'ᴘᴏᴡᴇʀᴇᴅ ʙʏ ༫᳀֎𝕸𝖆𝖐𝖐𝖎༈֎⸔༫👑҉*'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  '༫᳀֎𝕸𝖆𝖐𝖐𝖎༈֎⸔༫MD👑 ' 
 //👇 Your name
-global.ownernma =  'ᴍ ʀ ⃞ ɴ ɪ ᴍ ᴀ' 
+global.ownernma =  '༫᳀֎𝕸𝖆𝖐𝖐𝖎༈֎⸔༫👑҉*' 
 //👇 Sticker Author Name
-global.packname =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.packname =  '༫᳀֎𝕸𝖆𝖐𝖐𝖎༈֎⸔༫👑҉' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
-global.OWNER_REACT =  '💻'
+global.OWNER_REACT =  '🌞'
 //👇 Song Download Massage 
-global.SONG_DOWN = '```⬇️ Downloading Your Song...```' 
+global.SONG_DOWN = '' 
 //👇 Song Uplode massage 
-global.SONG_UP = '```⬆️ Uploding Your Song...```'
+global.SONG_UP = ''
 //👇 Menu imoji 
 global.MENU_IMOJI = '👸|ℹ️'
 //👇 Your time zone ( use correct time zone )
-global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Colombo'
+global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Karachi'
 //👇 Removebg Api key
 global.REMOVE_BG_API = 'apikey get on remoebg.com'
 //👇 Change Bot Language 
@@ -109,9 +108,12 @@ global.LANG = 'EN'
 //Alive logo
 global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
 //👇 Alive message
-global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `default`
+global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `*ι αм σηℓιηє нσω ¢αη ι нєℓρ уσυ* 
+_ι αм ᴍυℓтι ԃєνιᴄє ωнαтѕαρρ вσт_ 
+_Cʀєαtєd вყ :༫᳀֎𝕸𝖆𝖐𝖐𝖎֎⸔༫👑҉*_
+_If any query : wa.me/923460777483`
 //👇 Welcome Mesaage
-global.WELCOME = process.env.WELCOME || ``
+global.WELCOME= process.env.WELCOME || ``
 //👇 welcome image 
 global.WELCOME_IMAGE = process.env.WELCOME_IMAGE || ``
 //👇 Goodbye message 
@@ -119,15 +121,15 @@ global.GOODBYE = process.env.GOODBYE || ``
 //👇 Good bye image
 global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || ``
 //👇 DISABLE PM Block numbers
-global.NO_BLOCK = ["94715166712","94719574492"]
+global.NO_BLOCK = ["923460777483"]
 //👇 DISABLE download words
-global.IMG_BLOCKER = ["xxx","sex","mia"]
+global.IMG_BLOCKER = ["xxx","sex"]
 //👇 Open ai API Put Withouth "sk-" ( "sk-" අයින් කරල ඉතුරු ටික දාන්න )
-global.CHATGPT_API = ''
+global.CHATGPT_API = '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'
 //👇 Sex  video Download Allowed Groups
-global.SEX_DOWNLOAD_GROUPS = ['120363147404508506@g.us']
+global.SEX_DOWNLOAD_GROUPS = ['null']
 //👇 Your Bot Group Link
-global.GROUP_LINK = 'https://chat.whatsapp.com/Ih1udrdBNvX5xSu5mUVdql'
+global.GROUP_LINK = 'https://chat.whatsapp.com/J4XGGrTJMewKvqAGrEZbth'
 /*
 
    🍃 OTHER 🍃
@@ -143,7 +145,7 @@ global.zenzapi = '01ABEB1E11'
 global.mess = {
     success: '✅ Done!',
     admin: '*Only admins can use this command !*',
-    botAdmin: '*Please admin the bot first !*',
+    botAdmin: '*Admin the bot first idiot !*',
     owner: '*Sorry, this command is only for the owner !*',
     group: '*This command can only be used in groups !*',
     private: '*This command can only be used in Inbox !*',
@@ -169,13 +171,13 @@ global.mess = {
 
 
 //other
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
+global.pemilik = ['923245643588'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['923245643588'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = '༫᳀֎𝕸𝖆𝖐𝖐𝖎༈֎⸔༫👑҉*' // Your name ඔබේ නම 
 global.sessionName = 'session'
-global.prefix = ['#','!','.'] 
-global.sp = '👽'
-global.weem = 'QUEEN ELISA'
+global.prefix = [','] 
+global.sp = '🌞'
+global.weem = '༫᳀֎𝕸𝖆𝖐𝖐𝖎༈֎⸔MD༫👑'
 
 global.limitawal = {
     premium: "Infinity", 
@@ -190,7 +192,7 @@ global.APIKeys = {
 	'https://zenzapi.xyz': '01ABEB1E11', //Kalau habis beli sendiri
 }
 
-//global.alivelogo = `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
+//global.alivelogo = `//telegra.ph/file/b3f17c16eedf99731a52d.jpg`
 global.imgalive = fs.readFileSync('./Media/image/Elisa.jpg')
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
