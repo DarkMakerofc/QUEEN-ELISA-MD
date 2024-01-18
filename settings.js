@@ -109,10 +109,11 @@ global.LANG = 'EN'
 global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
 //👇 Alive message
 global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `*ι αм σηℓιηє нσω ¢αη ι нєℓρ уσυ* 
-
 _ι αм ᴍυℓтι ԃєνιᴄє ωнαтѕαρρ вσт_ 
 _Cʀєαtєd вყ :༫᳀֎𝕸𝖆𝖐𝖐𝖎֎⸔༫👑҉*_
-_If any query : wa.me/923460777483E = process.env.WELCOME || ``
+_If any query : wa.me/923460777483`
+//👇 Welcome Mesaage
+global.WELCOME= process.env.WELCOME || ``
 //👇 welcome image 
 global.WELCOME_IMAGE = process.env.WELCOME_IMAGE || ``
 //👇 Goodbye message 
