@@ -106,7 +106,7 @@ global.REMOVE_BG_API = 'apikey get on remoebg.com'
 //👇 Change Bot Language 
 global.LANG = 'EN'
 //Alive logo
-global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/069dbeff9306bb077a444.jpg`
+global.alivelogo = process.env.ALIVE_IMAGE || `I am Alive`
 //👇 Alive message
 global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `*ι αм σηℓιηє нσω ¢αη ι нєℓρ уσυ* 
 
