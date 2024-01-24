@@ -31,7 +31,7 @@ const chalk = require('chalk')
 //👇 if you need seen massage use " true " , මැසේජ් සීන් කරන්න ඔනි නම් true දාන්න ඔනි නැත්තම් false දාන්න
 global.READ_MASSAGE = false
 //👇 enable DISABLE Girls Voice Reply , Auto Voice Reply යවන්න ඔනි නම් true දාන්න 
-global.VOICE_REPLY = false
+global.VOICE_REPLY = true
 //👇 Do you want show time on your bio use "true" want DISABLE use "false" , ස්වයං ක්‍රීය Bio එක ඔනි නම් true දාන්න
 global.AUTO_BIO = false
 //👇 Inbox massage block PM block , ඉන්බොක් බ්ලොක් 
@@ -50,9 +50,9 @@ global.SEND_GOODBYE = false
 //👇 Send block command message (true or false )
 global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Send Auto reply , sticker , voice Use true and costemize your own 
-global.AUTO_FUNCTION = false
+global.AUTO_FUNCTION = true
 //👇 Put Bot Offline
-global.BOT_OFFLINE = false
+global.BOT_OFFLINE = true
 //👇 Only PreFix [ true / false ]
 global.ONLY_PREFIX = false
 //👇 This uplaod youtube videos without limit ⚠️ if you use this you must have paid sever
@@ -64,7 +64,7 @@ global.DISABLE_INBOX_MESSAGE_SEND = false
 //👇 Pron Video Download 
 global.SEX_VIDEO_DOWNLOAD = false
 //👇 Only Inbox Use ( Only PM Work )
-global.INBOX_ONLY_WORK = false
+global.INBOX_ONLY_WORK = true
 //👇 Auto ChatGPT ( You Must put CHATGPT API KEY For use this )
 global.AUTO_OPEN_AI = false
 //👇 Bot On Privet
