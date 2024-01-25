@@ -1,7 +1,7 @@
 {
-  "name": "QUEEN-ELISA-MD",
+  "name": "BRRIN-OMMIE-MD",
   "version": "3.9.7",
-  "description": "Queen Elisa Whatsapp Bot is Baileys Web base Whatsapp 3rd Party Module",
+  "description": "Brian ommie Whatsapp Bot is Baileys Web base Whatsapp 3rd Party Module",
   "type": "commonjs",
   "scripts": {
     "start": "node --max_old_space_size=8192 lib/runner/index.js"
@@ -15,7 +15,7 @@
     "multi-device",
     "dark-maker-ofc"
   ],
-  "author": "MR-NIMA",
+  "author": "MR-OMMIE",
   "license": "AGPL-3",
   "dependencies": {
     "@adiwajshing/baileys" : "npm:baileys-md@5.0.5",
