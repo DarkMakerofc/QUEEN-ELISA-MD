@@ -5,7 +5,7 @@
 
 WHATSAPP BOT BY MR NIMA ( DARK MAKER OFC )
 
-WHATSAPP - 94719574492
+WHATSAPP - 0707504501
 SUPPORT GROUP - https://t.me/queenelisasupport
 YOUTUBE - http://youtube.com/MRNIMAOFC
 
@@ -33,7 +33,7 @@ global.READ_MASSAGE = false
 //👇 enable DISABLE Girls Voice Reply , Auto Voice Reply යවන්න ඔනි නම් true දාන්න 
 global.VOICE_REPLY = false
 //👇 Do you want show time on your bio use "true" want DISABLE use "false" , ස්වයං ක්‍රීය Bio එක ඔනි නම් true දාන්න
-global.AUTO_BIO = false
+global.AUTO_BIO = true
 //👇 Inbox massage block PM block , ඉන්බොක් බ්ලොක් 
 global.INBOX_BLOCK = false
 //👇 Auto react  , ස්වයංක්‍රීය රියක්ට්
@@ -50,7 +50,7 @@ global.SEND_GOODBYE = false
 //👇 Send block command message (true or false )
 global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Send Auto reply , sticker , voice Use true and costemize your own 
-global.AUTO_FUNCTION = false
+global.AUTO_FUNCTION = true
 //👇 Put Bot Offline
 global.BOT_OFFLINE = false
 //👇 Only PreFix [ true / false ]
@@ -66,9 +66,9 @@ global.SEX_VIDEO_DOWNLOAD = false
 //👇 Only Inbox Use ( Only PM Work )
 global.INBOX_ONLY_WORK = false
 //👇 Auto ChatGPT ( You Must put CHATGPT API KEY For use this )
-global.AUTO_OPEN_AI = false
+global.AUTO_OPEN_AI = true
 //👇 Bot On Privet
-global.PRIVET_BOT = false
+global.PRIVET_BOT = true
 //👇 DISABLE Bot Commands But Others Are Working 
 global.DISABLE_COMMANDS = false
 //👇 DISABLE Bot Commands On Message Send On Off
@@ -81,15 +81,15 @@ global.AUTO_SEEN_STATUS = true
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['0707504501'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 BRIAN OMMIE ²⁰²³'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  'BRIAN OMMIE 3 𝛁' 
 //👇 Your name
-global.ownernma =  'ᴍ ʀ ⃞ ɴ ɪ ᴍ ᴀ' 
+global.ownernma =  'OMMIE' 
 //👇 Sticker Author Name
-global.packname =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.packname =  'OMMIE 𝙾𝙵𝙲' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
