@@ -1,0 +1,129 @@
+{
+  "name": "SIGMA-MD WHATSAPP BOT BY MAHER ZUBAIR",
+  "description": "A Whatsapp Bot With Most Premium Features Makes Your Whatsapp Premium. For Any Help See My YT:https://www.youtube.com/@InnoxentTech",
+  "logo": "https://telegra.ph/file/e5768d0b5a4441b4e576b.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "SIGMA_MD", "SIGMA_BOT", "SIGMA","SIGMA_MD-BOT","Multi-Themes Bot","multi device"],
+  "success_url": "/",
+  "stack": "container",
+"env": {
+
+
+  "OWNER_NAME": {
+  "description": "Name of Bot Owner",
+      "value": "Maher Zubair"
+  },
+
+   "THUMB_IMAGE": {
+    "description": "THUMBNAIL Image for bot.",
+     "value": "https://telegra.ph/file/03e49e6e2057568db8926.jpg"
+    },
+
+ "HEROKU_API_KEY": {
+    "description": "Put Your Heroku Api Key Here",
+     "value": "",
+	 "required" :true 
+    },
+
+"HEROKU_APP_NAME": {
+    "description": "Put Your Heroku App Name Here. Same as Above",
+     "value": ""
+    },
+
+   "ANTILINK_VALUES": {
+    "description": "Put antilink values. IT will take action on below links , change according to your need",
+     "value": "https://,chat.whatsapp.com,youtube.com,instagram.com,tiktok.com,vt.tiktok.com,wa.me,facebook.com",
+     "required" :false
+    },
+
+    "ANTI_BAD_WORDS": {
+      "description": "Add Anti Bad_Words. Change or add according to your need",
+       "value": "Fuck,porn,sex,xxx,fucker,asshole,fuck you,fuck off",
+       "required" :false
+      },
+
+"MSGS_IN_LOG": {
+    "description": "Fill the value true if you want to see Messages in Console.",
+     "required" :false,
+     "value": "false"
+    },
+
+   "DISABLE_PM": {
+    "description": "Disable bot in pm, Take it false if you wanna run bot in your pm",
+      "value": "false",
+     "required" :false
+    },
+
+      "PREFIX": {
+  "description": "Enter your desired prefix for bot.",
+      "value": "."
+  },
+
+  "OWNER_NUMBER": {
+    "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
+       "value": "923466319114"
+  },
+
+   "SESSION_ID": {
+    "description": "Please put your SESSION_ID here,if you don't have visit to get Session id\nhttps://sessions.maher-zubair.tech"
+  },
+
+    "OPENAI_API_KEY": {
+    "description": "Please put your OPENAI api key here.Get it from beta.openai.com ",
+       "value": "",
+       "required" :false
+  },
+
+  "MONGODB_URI": {
+    "description": "Add Your Own MongoDb Key, Its a DataBase For Bot, Your Bot Will Not Run Without MongoDb Url",
+     "value": ""
+  },
+
+    "WORKTYPE": {
+  "description": "Worktype of your bot. if it is private then only bot owner can use it. If public then everyone can use it.",
+         "value": "public"
+  },
+
+  "PACK_NAME": {
+    "description": "Put Sticker Pack_Name.",
+     "value": "sɪɢᴍᴀ-ᴍᴅ",
+     "required": false 
+  },
+
+"PACK_AUTHER": {
+    "description": "Put Sticker Author Name.",
+     "value": "ᴍᴀʜᴇʀ ᴢᴜʙᴀɪʀ",
+     "required": false 
+  },
+
+"MZTIT": {
+    "description": "Add Your Title, One Word Will BE More Better And BeautiFul",
+     "value": "🅼♥︎❚❚♥︎🆉",
+     "required": false 
+  },
+
+"TIME_ZONE": {
+  "description": "Add Your TimeZone. make sure the timzone is correct/Otherwise you will have errors",
+   "value": "Asia/Karachi"
+    
+},
+
+"BOT_NAME": {
+  "description": "Add Your Own Bot Name",
+   "value": "sɪɢᴍᴀ-ᴍᴅ"
+    
+}
+},
+
+"addons": [
+  {
+    "plan": "heroku-postgresql"
+  }
+],
+
+"formation": {
+  "worker": {
+    "quantity": 1,
+    "size": "basic"
+  }
+}
+}
