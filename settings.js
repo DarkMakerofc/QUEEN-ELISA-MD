@@ -5,7 +5,7 @@
 
 WHATSAPP BOT BY MR NIMA ( DARK MAKER OFC )
 
-WHATSAPP - 94719574492
+WHATSAPP - 923247899721
 SUPPORT GROUP - https://t.me/queenelisasupport
 YOUTUBE - http://youtube.com/MRNIMAOFC
 
@@ -169,8 +169,8 @@ global.mess = {
 
 
 //other
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pemilik = ['923247899721'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['923247899721'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
 global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
