@@ -31,18 +31,6 @@ Queen elisa whatsapp bot is,
       Queen elisa whatsapp bot is an easy to use whatsapp robot thkx xeon.   |  Queen elisa whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
 
 # 
-```
-Temparary Buttons Removed.
-තාවකාලිකව බටන් ඉවත්කරන ලදි.
-
-```
-
-* 𝗤𝗨𝗘𝗘𝗡 𝗘𝗟𝗜𝗦𝗔 𝗪𝗘𝗕 𝗦𝗜𝗧𝗘
-
-<p align="left">
-<a href="http://www.queenelisa.42web.io"><img align="center" src="https://telegra.ph/file/8b7c4a9bbaae67b1b2e0e.png" alt="VISIT QUEEN ELISA WEBSITE" height="35" width="150" /></a>
-</p align="left">
-
 # 
 * 𝗙𝗢𝗥𝗞 𝗡𝗢𝗪
 
@@ -58,18 +46,25 @@ Temparary Buttons Removed.
       ℹ️ if there any error please infrom it support group.  | මෙහිදී යම් ගැටලුවක් ඇති උවහොත් සහය සමූහය වෙත සම්බන්ධ වන්න.
 # 
 
+<details>
+<summary> ℹ️ Deploy Now ℹ️( Click to get deploy methods ) </summary>
+
+
 [`Deploy on Railway`](https://railway.app?referralCode=jDDNQq)
 
 [`Deploy on Koyeb`](https://app.koyeb.com/)
 
 [`Deploy on Mogenius`](https://studio.mogenius.com/)
 
-[`Deploy on heroku`](https://heroku.com/deploy?template=https://github.com/DarkMakerofc/Queen-Elisa-MD-V2)
+[`Deploy on heroku`](https://heroku.com/)
 
 [`Deploy on Replit`](https://replit.com)
 
 [`Deploy on Uffizzi`](https://www.uffizzi.com/)
+<p>
+</details>
 
+# 
 
 ## [`WATCH YOUTUBE VIDEOS`](youtube.com/MRNIMAOFC)
 
