@@ -37,26 +37,26 @@ global.AUTO_BIO = false
 //👇 Inbox massage block PM block , ඉන්බොක් බ්ලොක් 
 global.INBOX_BLOCK = false
 //👇 Auto react  , ස්වයංක්‍රීය රියක්ට්
-global.AUTO_REACT = false
+global.AUTO_REACT = true
 //👇 Bad word Auto delete ( you must add bad words ) නරක වචන ඩිලීට් කිරීම , ඔබ විසින් වචන දැමිය යුතුය 
-global.ANTI_BADWORD = false
+global.ANTI_BADWORD = true
 //👇 Kick And Auto Delete Group link Senders , ස්මූහ ස්බැදි දමන අයව ඉවත් කරයි
-global.ANTI_G_LINK = false
+global.ANTI_G_LINK = true
 //👇 212 Number block
-global.NUMBER_212_BLOCK = false
+global.NUMBER_212_BLOCK = true
 //👇 Send Welcome ( true or false ) වෙල්කම් ගූඩ් බායි මැසේජ් යවන්න ඔනි නම් 
-global.SEND_WELCOME = false
-global.SEND_GOODBYE = false
+global.SEND_WELCOME = true
+global.SEND_GOODBYE = true
 //👇 Send block command message (true or false )
-global.BLOCK_CMD_MESSAGE_SEND = false
+global.BLOCK_CMD_MESSAGE_SEND = true
 //👇 Send Auto reply , sticker , voice Use true and costemize your own 
-global.AUTO_FUNCTION = false
+global.AUTO_FUNCTION = true
 //👇 Put Bot Offline
-global.BOT_OFFLINE = false
+global.BOT_OFFLINE = true
 //👇 Only PreFix [ true / false ]
-global.ONLY_PREFIX = false
+global.ONLY_PREFIX = true
 //👇 This uplaod youtube videos without limit ⚠️ if you use this you must have paid sever
-global.UPLOAD_MAX = false
+global.UPLOAD_MAX = true
 //👇 Desabale Bot inbox ඉන්බොක්ස් බ්ලොක් නොවී වැඩ නොකරන්නනම් 
 global.DISABLE_INBOX = false 
 //👇 DISABLE inbox message send ඉන්බොක්ස් වැඩනොකරන බවට මැසේජ් එක යැවිම true or false 
@@ -68,9 +68,9 @@ global.INBOX_ONLY_WORK = false
 //👇 Auto ChatGPT ( You Must put CHATGPT API KEY For use this )
 global.AUTO_OPEN_AI = false
 //👇 Bot On Privet
-global.PRIVET_BOT = false
+global.PRIVET_BOT = true
 //👇 DISABLE Bot Commands But Others Are Working 
-global.DISABLE_COMMANDS = false
+global.DISABLE_COMMANDS = false 
 //👇 DISABLE Bot Commands On Message Send On Off
 global.DISABLE_COMMAND_MESSAGE_SEND = false 
 global.AUTO_SEEN_STATUS = true
@@ -81,13 +81,13 @@ global.AUTO_SEEN_STATUS = true
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['0717007625'] 
 //👇 Your Caption ( Image Video )
 global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  'Stylez' 
 //👇 Your name
-global.ownernma =  'ᴍ ʀ ⃞ ɴ ɪ ᴍ ᴀ' 
+global.ownernma =  'T.E.J STYLEZ' 
 //👇 Sticker Author Name
 global.packname =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
 //👇 Inbox Block Massage 
