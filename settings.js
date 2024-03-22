@@ -5,7 +5,7 @@
 
 WHATSAPP BOT BY MR NIMA ( DARK MAKER OFC )
 
-WHATSAPP - 94719574492
+WHATSAPP - 254790494201
 SUPPORT GROUP - https://t.me/queenelisasupport
 YOUTUBE - http://youtube.com/MRNIMAOFC
 
@@ -45,8 +45,8 @@ global.ANTI_G_LINK = false
 //👇 212 Number block
 global.NUMBER_212_BLOCK = false
 //👇 Send Welcome ( true or false ) වෙල්කම් ගූඩ් බායි මැසේජ් යවන්න ඔනි නම් 
-global.SEND_WELCOME = false
-global.SEND_GOODBYE = false
+global.SEND_WELCOME = true
+global.SEND_GOODBYE = true
 //👇 Send block command message (true or false )
 global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Send Auto reply , sticker , voice Use true and costemize your own 
@@ -62,7 +62,7 @@ global.DISABLE_INBOX = false
 //👇 DISABLE inbox message send ඉන්බොක්ස් වැඩනොකරන බවට මැසේජ් එක යැවිම true or false 
 global.DISABLE_INBOX_MESSAGE_SEND = false
 //👇 Pron Video Download 
-global.SEX_VIDEO_DOWNLOAD = false
+global.SEX_VIDEO_DOWNLOAD = true
 //👇 Only Inbox Use ( Only PM Work )
 global.INBOX_ONLY_WORK = false
 //👇 Auto ChatGPT ( You Must put CHATGPT API KEY For use this )
@@ -81,27 +81,27 @@ global.AUTO_SEEN_STATUS = true
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['254790494201'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 ༒MIKY༒© ²⁰²³'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  '༒MIKY༒' 
 //👇 Your name
-global.ownernma =  'ᴍ ʀ ⃞ ɴ ɪ ᴍ ᴀ' 
+global.ownernma =  'MIKY BRIAN' 
 //👇 Sticker Author Name
 global.packname =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
-global.OWNER_REACT =  '💻'
+global.OWNER_REACT =  '😎'
 //👇 Song Download Massage 
 global.SONG_DOWN = '```⬇️ Downloading Your Song...```' 
 //👇 Song Uplode massage 
 global.SONG_UP = '```⬆️ Uploding Your Song...```'
 //👇 Menu imoji 
-global.MENU_IMOJI = '👸|ℹ️'
+global.MENU_IMOJI = '🤝|ℹ🫰'
 //👇 Your time zone ( use correct time zone )
-global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Colombo'
+global.TIME_ZONE = process.env.TIME_ZONE || 'Africa/Kenya'
 //👇 Removebg Api key
 global.REMOVE_BG_API = 'apikey get on remoebg.com'
 //👇 Change Bot Language 
@@ -111,13 +111,13 @@ global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/b3f17c16e
 //👇 Alive message
 global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `default`
 //👇 Welcome Mesaage
-global.WELCOME = process.env.WELCOME || ``
+global.WELCOME = process.env.WELCOME || `WELCOME`
 //👇 welcome image 
-global.WELCOME_IMAGE = process.env.WELCOME_IMAGE || ``
+global.WELCOME_IMAGE = process.env.WELCOME_IMAGE || `✨`
 //👇 Goodbye message 
-global.GOODBYE = process.env.GOODBYE || ``
+global.GOODBYE = process.env.GOODBYE || `GOODBYE`
 //👇 Good bye image
-global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || ``
+global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || `💫`
 //👇 DISABLE PM Block numbers
 global.NO_BLOCK = ["94715166712","94719574492"]
 //👇 DISABLE download words
